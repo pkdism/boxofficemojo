@@ -10,7 +10,7 @@ rank	title	distributor	gross	release	country
 9	Dirty Grandpa	Constantin	"$2,694,197 "	2/11/2017	Austria
 10	Ice Age: Collision Course	Fox	"$2,669,466 "	6/30/2017	Austria
 11	Batman v Superman: Dawn of Justice	WB	"$2,564,737 "	3/24/2017	Austria
-12	The Jungle Book (2016)	Disney	"$2,303,017 "	4/14/2017	Austria
+12	The Jungle Book	Disney	"$2,303,017 "	4/14/2017	Austria
 13	Doctor Strange	Disney	"$2,146,709 "	10/27/2017	Austria
 14	The Angry Birds Movie	Sony	"$2,031,090 "	5/13/2017	Austria
 15	The Hateful Eight	Constantin	"$2,016,000 "	1/28/2017	Austria
@@ -35,13 +35,13 @@ rank	title	distributor	gross	release	country
 34	Nerve	Studio Canal	"$739,614 "	9/9/2017	Austria
 35	Jack Reacher: Never Go Back	PPI	"$722,296 "	11/10/2017	Austria
 36	Now You See Me 2	TMFG	"$720,418 "	8/25/2017	Austria
-37	Ghostbusters (2016)	Sony	"$703,180 "	8/5/2017	Austria
+37	Ghostbusters	Sony	"$703,180 "	8/5/2017	Austria
 38	Arrival	Sony	"$691,257 "	11/25/2017	Austria
 39	The Huntsman Winter's War	UPI	"$680,962 "	4/7/2017	Austria
-40	The Girl on the Train (2016)	Constantin	"$665,374 "	10/26/2017	Austria
-41	Robinson Crusoe (2016)	Studio Canal	"$649,351 "	2/4/2017	Austria
+40	The Girl on the Train	Constantin	"$665,374 "	10/26/2017	Austria
+41	Robinson Crusoe	Studio Canal	"$649,351 "	2/4/2017	Austria
 42	How to Be Single	WB	"$643,500 "	4/8/2017	Austria
-43	The Magnificent Seven (2016)	Sony	"$617,462 "	9/23/2017	Austria
+43	The Magnificent Seven	Sony	"$617,462 "	9/23/2017	Austria
 44	Spotlight	Constantin	"$601,753 "	2/26/2017	Austria
 45	Allied	PPI	"$558,285 "	12/22/2017	Austria
 46	The Divergent Series: Allegiant	Constantin	"$538,957 "	3/17/2017	Austria
@@ -49,8 +49,8 @@ rank	title	distributor	gross	release	country
 48	Don't Breathe	Sony	"$522,666 "	9/9/2017	Austria
 49	Bad Moms	n/a	"$520,000 "	9/23/2017	Austria
 50	Mike and Dave Need Wedding Dates	Fox	"$508,420 "	9/1/2017	Austria
-51	The Boy (2016)	Polyfilm	"$508,181 "	2/18/2017	Austria
-52	Point Break (2015)	Constantin	"$464,663 "	1/21/2017	Austria
+51	The Boy	Polyfilm	"$508,181 "	2/18/2017	Austria
+52	Point Break	Constantin	"$464,663 "	1/21/2017	Austria
 53	Die wilden Kerle 6 - Die Legende lebt	Disney	"$461,704 "	2/11/2017	Austria
 54	Underworld: Blood Wars	Sony	"$448,907 "	12/2/2017	Austria
 55	Teenage Mutant Ninja Turtles: Out of the Shadows	PPI	"$446,840 "	8/11/2017	Austria
@@ -68,7 +68,7 @@ rank	title	distributor	gross	release	country
 67	Blair Witch	Studio Canal	"$342,797 "	10/7/2017	Austria
 68	Ride Along 2	UPI	"$342,545 "	1/21/2017	Austria
 69	Suffragette	Filmladen	"$338,823 "	2/5/2017	Austria
-70	Ben-Hur (2016)	PPI	"$321,858 "	9/1/2017	Austria
+70	Ben-Hur	PPI	"$321,858 "	9/1/2017	Austria
 71	Tini: El gran cambio de Violetta	Disney	"$310,957 "	11/3/2017	Austria
 72	Le tout nouveau testament	n/a	"$296,124 "	1/15/2017	Austria
 73	"Hail, Caesar!"	UPI	"$294,111 "	2/18/2017	Austria
@@ -95,7 +95,7 @@ rank	title	distributor	gross	release	country
 94	Legend	Constantin	"$139,747 "	1/8/2017	Austria
 95	Kardesim Benim	n/a	"$139,159 "	1/21/2017	Austria
 96	Sisters	UPI	"$137,573 "	2/11/2017	Austria
-97	Concussion (2015)	Sony	"$134,893 "	2/19/2017	Austria
+97	Concussion	Sony	"$134,893 "	2/19/2017	Austria
 98	Osman Pazarlama	n/a	"$125,077 "	2/19/2017	Austria
 99	Brooklyn	n/a	"$122,517 "	1/22/2017	Austria
 100	Nocturnal Animals	UPI	"$117,203 "	12/23/2017	Austria
@@ -105,7 +105,7 @@ rank	title	distributor	gross	release	country
 104	Lolo	n/a	"$100,255 "	3/18/2017	Austria
 105	Dedemin Fisi	n/a	"$96,894 "	1/29/2017	Austria
 106	Our Kind of Traitor	Studio Canal	"$95,237 "	7/8/2017	Austria
-107	An (2015)	Polyfilm	"$92,842 "	1/8/2017	Austria
+107	An	Polyfilm	"$92,842 "	1/8/2017	Austria
 108	13 Hours: The Secret Soldiers of Benghazi	UPI	"$90,639 "	3/3/2017	Austria
 109	Hrútar	Polyfilm	"$89,653 "	2/5/2017	Austria
 110	Die dunkle Seite des Mondes	n/a	"$82,658 "	1/15/2017	Austria
@@ -116,15 +116,15 @@ rank	title	distributor	gross	release	country
 115	A Bigger Splash	Studio Canal	"$63,307 "	5/5/2017	Austria
 116	The Light Between Oceans	Constantin	"$62,856 "	9/9/2017	Austria
 117	Tschiller: Off Duty	WB	"$61,125 "	2/5/2017	Austria
-118	Truman (2015)	Filmladen	"$59,277 "	2/26/2017	Austria
+118	Truman	Filmladen	"$59,277 "	2/26/2017	Austria
 119	Hannas schlafende Hunde	n/a	"$55,072 "	4/1/2017	Austria
 120	Kocan Kadar Konus: Dirilis	n/a	"$52,941 "	1/8/2017	Austria
 121	Mustang	Filmladen	"$50,681 "	3/24/2017	Austria
 122	Valley of Love	Filmladen	"$49,201 "	2/12/2017	Austria
 123	Janis: Little Girl Blue	Filmladen	"$43,298 "	1/29/2017	Austria
-124	Trumbo (2015)	Constantin	"$42,986 "	3/11/2017	Austria
+124	Trumbo	Constantin	"$42,986 "	3/11/2017	Austria
 125	The Man Who Knew Infinity	Wild Bunch	"$40,220 "	7/8/2017	Austria
-126	Love (2015)	n/a	"$39,548 "	1/1/2017	Austria
+126	Love	n/a	"$39,548 "	1/1/2017	Austria
 127	The Beatles: Eight Days a Week - The Touring Years	Studio Canal	"$35,892 "	9/15/2017	Austria
 128	Une famille à louer	Polyfilm	"$33,176 "	4/15/2017	Austria
 129	Je suis à vous tout de suite	n/a	"$33,158 "	1/15/2017	Austria
@@ -153,12 +153,12 @@ rank	title	distributor	gross	release	country
 152	Hördur - Zwischen den Welten	Einhorn	"$11,019 "	2/4/2017	Austria
 153	Aus dem Nichts	Stadtkino	"$10,117 "	3/11/2017	Austria
 154	"Belle et Sébastien, l'aventure continue"	Filmladen	"$9,961 "	2/26/2017	Austria
-155	Race (2016)	SquareOne	"$9,748 "	7/29/2017	Austria
+155	Race	SquareOne	"$9,748 "	7/29/2017	Austria
 156	Rettet Raffi!	n/a	"$9,638 "	3/24/2017	Austria
 157	Schellen-Ursli	n/a	"$8,254 "	3/18/2017	Austria
 158	WiNWiN	Stadtkino	"$7,527 "	4/1/2017	Austria
 159	Bizans Oyunlari - Geym of Bizans	n/a	"$6,781 "	1/14/2017	Austria
-160	Our Brand Is Crisis (2015)	WB	"$6,687 "	1/22/2017	Austria
+160	Our Brand Is Crisis	WB	"$6,687 "	1/22/2017	Austria
 161	Francofonia (Le Louvre sous l'Occupation)	n/a	"$6,332 "	1/7/2017	Austria
 162	Annemin Yarasi (My Mother's Wound)	n/a	"$5,889 "	3/18/2017	Austria
 163	The True Cost	n/a	"$5,284 "	1/22/2017	Austria
@@ -181,19 +181,19 @@ rank	title	distributor	gross	release	country
 180	Eat That Question: Frank Zappa in His Own Words	Sony	"$2,612 "	10/22/2017	Austria
 181	A Good American	Constantin	"$2,494 "	3/18/2017	Austria
 182	Miles Ahead	Sony	"$2,226 "	10/22/2017	Austria
-183	My Talk with Florence (2015)	Polyfilm	"$1,961 "	1/22/2017	Austria
+183	My Talk with Florence	Polyfilm	"$1,961 "	1/22/2017	Austria
 184	Under sandet (Land of Mine)	n/a	"$1,864 "	4/8/2017	Austria
 185	Ali Kundilli 2	n/a	"$1,195 "	4/15/2017	Austria
 186	Above and Below	n/a	"$1,189 "	4/15/2017	Austria
 187	Los Feliz	n/a	$988 	3/18/2017	Austria
-188	Stonewall (2015)	WB	$932 	1/1/2017	Austria
+188	Stonewall	WB	$932 	1/1/2017	Austria
 189	Une histoire de fou (Don't Tell Me the Boy was Mad)	n/a	$742 	4/8/2017	Austria
 190	Die Krone von Arkus	Einhorn	$335 	2/18/2017	Austria
 1	Finding Dory	Disney	"$5,203,796 "	6/22/2017	Belgium and Luxembourg
 2	The Revenant	Fox	"$5,137,539 "	1/27/2017	Belgium and Luxembourg
 3	Rogue One: A Star Wars Story	Disney	"$4,943,270 "	12/14/2017	Belgium and Luxembourg
 4	The Secret Life of Pets	UPI	"$4,920,463 "	8/3/2017	Belgium and Luxembourg
-5	The Jungle Book (2016)	Disney	"$4,813,615 "	4/13/2017	Belgium and Luxembourg
+5	The Jungle Book	Disney	"$4,813,615 "	4/13/2017	Belgium and Luxembourg
 6	Zootopia	Disney	"$4,488,364 "	2/10/2017	Belgium and Luxembourg
 7	Moana	Disney	"$4,024,795 "	11/30/2017	Belgium and Luxembourg
 8	Deadpool	Fox	"$3,808,750 "	2/10/2017	Belgium and Luxembourg
@@ -216,10 +216,10 @@ rank	title	distributor	gross	release	country
 25	Kung Fu Panda 3	Fox	"$1,732,240 "	3/23/2017	Belgium and Luxembourg
 26	Assassin's Creed	Fox	"$1,691,065 "	12/21/2017	Belgium and Luxembourg
 27	X-Men: Apocalypse	Fox	"$1,690,455 "	5/18/2017	Belgium and Luxembourg
-28	Passengers (2016)	Sony	"$1,622,426 "	12/28/2017	Belgium and Luxembourg
+28	Passengers	Sony	"$1,622,426 "	12/28/2017	Belgium and Luxembourg
 29	Jason Bourne	UPI	"$1,373,589 "	8/10/2017	Belgium and Luxembourg
 30	Ice Age: Collision Course	Fox	"$1,372,312 "	7/13/2017	Belgium and Luxembourg
-31	The Girl on the Train (2016)	E1	"$1,368,805 "	11/2/2017	Belgium and Luxembourg
+31	The Girl on the Train	E1	"$1,368,805 "	11/2/2017	Belgium and Luxembourg
 32	Alice Through the Looking Glass	Disney	"$1,345,649 "	5/26/2017	Belgium and Luxembourg
 33	The Huntsman Winter's War	UPI	"$1,191,748 "	4/20/2017	Belgium and Luxembourg
 34	Creed	n/a	"$1,119,953 "	1/20/2017	Belgium and Luxembourg
@@ -232,7 +232,7 @@ rank	title	distributor	gross	release	country
 41	The Shallows	Sony	"$930,202 "	8/3/2017	Belgium and Luxembourg
 42	Independence Day: Resurgence	Fox	"$900,545 "	7/20/2017	Belgium and Luxembourg
 43	Neighbors 2: Sorority Rising	UPI	"$896,822 "	7/6/2017	Belgium and Luxembourg
-44	Robinson Crusoe (2016)	Belga	"$894,459 "	3/30/2017	Belgium and Luxembourg
+44	Robinson Crusoe	Belga	"$894,459 "	3/30/2017	Belgium and Luxembourg
 45	Arrival	Sony	"$869,752 "	12/7/2017	Belgium and Luxembourg
 46	Allied	PPI	"$855,595 "	11/23/2017	Belgium and Luxembourg
 47	Helden van de Zee	Kinepolis	"$833,722 "	2/3/2017	Belgium and Luxembourg
@@ -247,27 +247,27 @@ rank	title	distributor	gross	release	country
 56	Star Trek Beyond	PPI	"$670,644 "	8/17/2017	Belgium and Luxembourg
 57	Gods of Egypt	Belga	"$657,259 "	3/30/2017	Belgium and Luxembourg
 58	Les Visiteurs 3: la Terreur (The Visitors: Bastille Day)	Paradiso	"$621,164 "	4/6/2017	Belgium and Luxembourg
-59	The Magnificent Seven (2016)	Sony	"$563,059 "	9/28/2017	Belgium and Luxembourg
+59	The Magnificent Seven	Sony	"$563,059 "	9/28/2017	Belgium and Luxembourg
 60	Spotlight	E1	"$559,946 "	2/3/2017	Belgium and Luxembourg
 61	Belgica	Kinepolis	"$554,465 "	3/2/2017	Belgium and Luxembourg
 62	Hacksaw Ridge	Splendid	"$533,118 "	11/9/2017	Belgium and Luxembourg
 63	Broer (Brother) [2016]	n/a	"$508,647 "	1/20/2017	Belgium and Luxembourg
 64	The Purge: Election Year	UPI	"$508,152 "	7/27/2017	Belgium and Luxembourg
 65	Carol	ABC	"$499,339 "	1/13/2017	Belgium and Luxembourg
-66	Point Break (2015)	Kinepolis	"$481,157 "	2/3/2017	Belgium and Luxembourg
-67	The Boy (2016)	n/a	"$475,157 "	1/27/2017	Belgium and Luxembourg
+66	Point Break	Kinepolis	"$481,157 "	2/3/2017	Belgium and Luxembourg
+67	The Boy	n/a	"$475,157 "	1/27/2017	Belgium and Luxembourg
 68	Goosebumps	Sony	"$458,130 "	1/27/2017	Belgium and Luxembourg
 69	Joy	Fox	"$445,375 "	1/13/2017	Belgium and Luxembourg
 70	The Danish Girl	UPI	"$442,556 "	1/20/2017	Belgium and Luxembourg
-71	Ghostbusters (2016)	Sony	"$429,467 "	8/10/2017	Belgium and Luxembourg
-72	Chocolat (2016)	Paradiso	"$428,220 "	2/3/2017	Belgium and Luxembourg
+71	Ghostbusters	Sony	"$429,467 "	8/10/2017	Belgium and Luxembourg
+72	Chocolat	Paradiso	"$428,220 "	2/3/2017	Belgium and Luxembourg
 73	Mechanic: Resurrection	DFW	"$426,679 "	8/31/2017	Belgium and Luxembourg
 74	Office Christmas Party	E1	"$410,194 "	12/7/2017	Belgium and Luxembourg
 75	"Hail, Caesar!"	UPI	"$405,584 "	2/17/2017	Belgium and Luxembourg
 76	The 5th Wave	Sony	"$400,161 "	3/23/2017	Belgium and Luxembourg
 77	Blair Witch	Belga	"$388,415 "	9/21/2017	Belgium and Luxembourg
 78	Tini: El gran cambio de Violetta	Disney	"$360,834 "	6/29/2017	Belgium and Luxembourg
-79	Ben-Hur (2016)	PPI	"$359,986 "	9/7/2017	Belgium and Luxembourg
+79	Ben-Hur	PPI	"$359,986 "	9/7/2017	Belgium and Luxembourg
 80	Daddy's Home	PPI	"$344,515 "	1/20/2017	Belgium and Luxembourg
 81	Deepwater Horizon	Belga	"$343,755 "	10/12/2017	Belgium and Luxembourg
 82	Ouija: Origin of Evil	UPI	"$327,642 "	11/23/2017	Belgium and Luxembourg
@@ -287,14 +287,14 @@ rank	title	distributor	gross	release	country
 96	Kubo and the Two Strings	UPI	"$112,172 "	9/28/2017	Belgium and Luxembourg
 97	Brooklyn	Fox	"$111,019 "	2/24/2017	Belgium and Luxembourg
 98	Eddie the Eagle	Fox	"$105,266 "	3/30/2017	Belgium and Luxembourg
-99	An (2015)	Cineart	"$103,174 "	2/10/2017	Belgium and Luxembourg
+99	An	Cineart	"$103,174 "	2/10/2017	Belgium and Luxembourg
 100	The Light Between Oceans	E1	"$99,141 "	11/9/2017	Belgium and Luxembourg
 101	Our Kind of Traitor	E1	"$97,745 "	6/15/2017	Belgium and Luxembourg
 102	Sausage Party	Sony	"$90,689 "	10/26/2017	Belgium and Luxembourg
 103	The Forest	Kinepolis	"$86,351 "	3/2/2017	Belgium and Luxembourg
 104	Les saisons (Seasons)	Alternative	"$85,096 "	1/27/2017	Belgium and Luxembourg
 105	"Les premiers, les derniers"	n/a	"$81,906 "	2/24/2017	Belgium and Luxembourg
-106	Race (2016)	E1	"$79,545 "	7/27/2017	Belgium and Luxembourg
+106	Race	E1	"$79,545 "	7/27/2017	Belgium and Luxembourg
 107	Saint Amour	n/a	"$75,379 "	3/2/2017	Belgium and Luxembourg
 108	The Finest Hours	Disney	"$75,052 "	1/27/2017	Belgium and Luxembourg
 109	Les chevaliers blancs (The White Knights)	n/a	"$72,963 "	1/27/2017	Belgium and Luxembourg
@@ -302,7 +302,7 @@ rank	title	distributor	gross	release	country
 111	The Man Who Knew Infinity	n/a	"$67,370 "	8/17/2017	Belgium and Luxembourg
 112	The Brothers Grimsby	Sony	"$67,241 "	4/13/2017	Belgium and Luxembourg
 113	La vache (One Man and His Cow)	Alternative	"$66,254 "	2/17/2017	Belgium and Luxembourg
-114	Concussion (2015)	Sony	"$66,104 "	3/9/2017	Belgium and Luxembourg
+114	Concussion	Sony	"$66,104 "	3/9/2017	Belgium and Luxembourg
 115	Marseille	Alternative	"$65,137 "	3/16/2017	Belgium and Luxembourg
 116	Zoolander 2	PPI	"$65,081 "	2/24/2017	Belgium and Luxembourg
 117	Triple 9	E1	"$62,667 "	4/13/2017	Belgium and Luxembourg
@@ -346,7 +346,7 @@ rank	title	distributor	gross	release	country
 3	Rogue One: A Star Wars Story	Forum Films	"$979,124 "	12/16/2017	Bulgaria
 4	The Secret Life of Pets	Forum Films	"$898,326 "	8/5/2017	Bulgaria
 5	The Angry Birds Movie	Sony	"$828,988 "	5/13/2017	Bulgaria
-6	The Jungle Book (2016)	Forum Films	"$763,873 "	4/15/2017	Bulgaria
+6	The Jungle Book	Forum Films	"$763,873 "	4/15/2017	Bulgaria
 7	Suicide Squad	Alexandra	"$702,062 "	8/5/2017	Bulgaria
 8	Warcraft	Forum Films	"$688,048 "	6/10/2017	Bulgaria
 9	Assassin's Creed	Alexandra	"$683,059 "	12/30/2017	Bulgaria
@@ -365,14 +365,14 @@ rank	title	distributor	gross	release	country
 22	Moana	Forum Films	"$367,941 "	11/25/2017	Bulgaria
 23	The Revenant	Fox	"$361,994 "	1/22/2017	Bulgaria
 24	Dirty Grandpa	n/a	"$347,079 "	2/5/2017	Bulgaria
-25	Ben-Hur (2016)	Forum Films	"$344,272 "	8/19/2017	Bulgaria
+25	Ben-Hur	Forum Films	"$344,272 "	8/19/2017	Bulgaria
 26	Jason Bourne	Forum Films	"$342,953 "	7/29/2017	Bulgaria
 27	Now You See Me 2	BS	"$341,827 "	6/10/2017	Bulgaria
 28	Mechanic: Resurrection	BS	"$338,016 "	9/2/2017	Bulgaria
 29	London Has Fallen	bTV	"$328,158 "	3/4/2017	Bulgaria
 30	The Huntsman Winter's War	Forum Films	"$327,249 "	4/22/2017	Bulgaria
 31	X-Men: Apocalypse	Alexandra	"$311,867 "	5/20/2017	Bulgaria
-32	Point Break (2015)	n/a	"$306,272 "	1/1/2017	Bulgaria
+32	Point Break	n/a	"$306,272 "	1/1/2017	Bulgaria
 33	Independence Day: Resurgence	Alexandra	"$303,577 "	6/24/2017	Bulgaria
 34	The Legend of Tarzan	WB	"$292,737 "	7/8/2017	Bulgaria
 35	Alvin and the Chipmunks The Road Chip	Fox	"$287,772 "	1/1/2017	Bulgaria
@@ -388,9 +388,9 @@ rank	title	distributor	gross	release	country
 45	Central Intelligence	UPI	"$184,911 "	6/17/2017	Bulgaria
 46	The BFG	BS	"$184,004 "	9/16/2017	Bulgaria
 47	Pete's Dragon	Forum Films	"$183,599 "	9/2/2017	Bulgaria
-48	The Magnificent Seven (2016)	Forum Films	"$169,823 "	9/23/2017	Bulgaria
+48	The Magnificent Seven	Forum Films	"$169,823 "	9/23/2017	Bulgaria
 49	Sheep & Wolves (Volki i ovtsy. Beeezumnoe prevrashchenie)	Pro Films	"$167,323 "	10/7/2017	Bulgaria
-50	Robinson Crusoe (2016)	JIL	"$166,052 "	2/5/2017	Bulgaria
+50	Robinson Crusoe	JIL	"$166,052 "	2/5/2017	Bulgaria
 51	Why Him?	Alexandra	"$165,793 "	12/23/2017	Bulgaria
 52	Bridget Jones's Baby	Forum Films	"$164,446 "	9/16/2017	Bulgaria
 53	Star Trek Beyond	PPI	"$158,043 "	7/22/2017	Bulgaria
@@ -404,24 +404,24 @@ rank	title	distributor	gross	release	country
 61	How to Be Single	Alexandra	"$119,720 "	2/12/2017	Bulgaria
 62	Capture the Flag (Atrapa la bandera)	Forum Films	"$118,956 "	1/29/2017	Bulgaria
 63	Me Before You	Forum Films	"$118,097 "	6/24/2017	Bulgaria
-64	Masterminds (2016)	Forum Films	"$114,528 "	10/14/2017	Bulgaria
+64	Masterminds	Forum Films	"$114,528 "	10/14/2017	Bulgaria
 65	Office Christmas Party	BS	"$111,510 "	12/9/2017	Bulgaria
 66	The Hateful Eight	Forum Films	"$110,031 "	1/8/2017	Bulgaria
 67	Deepwater Horizon	Freeman	"$104,957 "	9/30/2017	Bulgaria
 68	The Finest Hours	Forum Films	"$100,951 "	2/5/2017	Bulgaria
 69	Mike and Dave Need Wedding Dates	Fox	"$98,260 "	7/8/2017	Bulgaria
 70	War Dogs	Alexandra	"$96,165 "	8/19/2017	Bulgaria
-71	Losers (2015)	A+ Films	"$93,755 "	4/1/2017	Bulgaria
+71	Losers	A+ Films	"$93,755 "	4/1/2017	Bulgaria
 72	Sully	Alexandra	"$86,263 "	9/9/2017	Bulgaria
 73	Neighbors 2: Sorority Rising	UPI	"$82,678 "	5/13/2017	Bulgaria
 74	The Brothers Grimsby	Alexandra	"$82,423 "	2/26/2017	Bulgaria
 75	Collateral Beauty	Alexandra	"$81,355 "	12/16/2017	Bulgaria
-76	The Girl on the Train (2016)	BS	"$80,862 "	10/7/2017	Bulgaria
+76	The Girl on the Train	BS	"$80,862 "	10/7/2017	Bulgaria
 77	Norm of the North	Tandem	"$78,927 "	1/15/2017	Bulgaria
 78	Money Monster	Sony	"$78,661 "	5/27/2017	Bulgaria
 79	Creed	Forum Films	"$77,533 "	1/1/2017	Bulgaria
 80	Barbie: Spy Squad	Forum Films	"$75,662 "	2/19/2017	Bulgaria
-81	Ghostbusters (2016)	Alexandra	"$72,467 "	7/29/2017	Bulgaria
+81	Ghostbusters	Alexandra	"$72,467 "	7/29/2017	Bulgaria
 82	The Conjuring 2	Alexandra	"$70,964 "	6/17/2017	Bulgaria
 83	"Hail, Caesar!"	Forum Films	"$67,088 "	2/19/2017	Bulgaria
 84	Blair Witch	Freeman	"$64,485 "	10/21/2017	Bulgaria
@@ -498,12 +498,12 @@ rank	title	distributor	gross	release	country
 5	Dirty Grandpa	n/a	"$415,642 "	1/28/2017	Croatia
 6	Inferno	Sony	"$371,842 "	10/20/2017	Croatia
 7	Kung Fu Panda 3	Fox	"$351,400 "	3/17/2017	Croatia
-8	The Girl on the Train (2016)	Blitz	"$336,001 "	10/6/2017	Croatia
+8	The Girl on the Train	Blitz	"$336,001 "	10/6/2017	Croatia
 9	Now You See Me 2	Blitz	"$331,294 "	6/16/2017	Croatia
 10	The Revenant	Fox	"$306,555 "	1/21/2017	Croatia
 11	Alvin and the Chipmunks The Road Chip	Fox	"$299,609 "	1/28/2017	Croatia
 12	Hacksaw Ridge	Freeman	"$284,988 "	11/10/2017	Croatia
-13	Passengers (2016)	Sony	"$283,458 "	12/29/2017	Croatia
+13	Passengers	Sony	"$283,458 "	12/29/2017	Croatia
 14	Zootopia	Disney	"$283,126 "	3/3/2017	Croatia
 15	Bridget Jones's Baby	UPI	"$254,453 "	9/15/2017	Croatia
 16	Sing	UPI	"$248,343 "	12/8/2017	Croatia
@@ -514,7 +514,7 @@ rank	title	distributor	gross	release	country
 21	Bad Moms	n/a	"$173,000 "	8/18/2017	Croatia
 22	The Hateful Eight	n/a	"$167,906 "	1/7/2017	Croatia
 23	Gods of Egypt	n/a	"$166,423 "	2/25/2017	Croatia
-24	Robinson Crusoe (2016)	Blitz	"$162,051 "	2/18/2017	Croatia
+24	Robinson Crusoe	Blitz	"$162,051 "	2/18/2017	Croatia
 25	The Brothers Grimsby	Sony	"$144,933 "	3/3/2017	Croatia
 26	London Has Fallen	n/a	"$140,818 "	3/17/2017	Croatia
 27	How to Be Single	WB	"$138,715 "	2/11/2017	Croatia
@@ -523,14 +523,14 @@ rank	title	distributor	gross	release	country
 30	Neighbors 2: Sorority Rising	UPI	"$120,845 "	5/12/2017	Croatia
 31	The Shallows	Sony	"$120,380 "	8/18/2017	Croatia
 32	The Big Short	UIP	"$110,400 "	1/14/2017	Croatia
-33	The Magnificent Seven (2016)	Sony	"$103,991 "	9/22/2017	Croatia
+33	The Magnificent Seven	Sony	"$103,991 "	9/22/2017	Croatia
 34	The Divergent Series: Allegiant	n/a	"$102,526 "	3/10/2017	Croatia
 35	Joy	Fox	"$94,132 "	1/14/2017	Croatia
 36	The Huntsman Winter's War	n/a	"$91,926 "	4/21/2017	Croatia
 37	The BFG	Blitz	"$88,518 "	6/30/2017	Croatia
 38	My Big Fat Greek Wedding 2	n/a	"$87,180 "	3/31/2017	Croatia
 39	Central Intelligence	UPI	"$87,085 "	6/30/2017	Croatia
-40	Ghostbusters (2016)	Sony	"$81,848 "	7/28/2017	Croatia
+40	Ghostbusters	Sony	"$81,848 "	7/28/2017	Croatia
 41	Spotlight	n/a	"$78,481 "	2/18/2017	Croatia
 42	Money Monster	Sony	"$77,406 "	6/2/2017	Croatia
 43	Deepwater Horizon	Blitz	"$76,102 "	9/29/2017	Croatia
@@ -540,7 +540,7 @@ rank	title	distributor	gross	release	country
 47	Ride Along 2	UIP	"$57,905 "	3/10/2017	Croatia
 48	Blair Witch	Blitz	"$56,112 "	9/22/2017	Croatia
 49	Sisters	UIP	"$45,904 "	1/7/2017	Croatia
-50	The Jungle Book (2016)	Disney	"$45,898 "	4/14/2017	Croatia
+50	The Jungle Book	Disney	"$45,898 "	4/14/2017	Croatia
 51	The Boss	UIP	"$44,139 "	4/7/2017	Croatia
 52	Daddy's Home	UIP	"$40,273 "	2/4/2017	Croatia
 53	Creed	WB	"$39,203 "	2/4/2017	Croatia
@@ -549,7 +549,7 @@ rank	title	distributor	gross	release	country
 56	Carol	n/a	"$36,593 "	1/28/2017	Croatia
 57	The Purge: Election Year	UPI	"$32,915 "	7/14/2017	Croatia
 58	The Forest	Sony	"$30,349 "	1/14/2017	Croatia
-59	Race (2016)	Blitz	"$28,700 "	2/25/2017	Croatia
+59	Race	Blitz	"$28,700 "	2/25/2017	Croatia
 60	Room	n/a	"$28,359 "	1/28/2017	Croatia
 61	Zoolander 2	UIP	"$27,913 "	2/25/2017	Croatia
 62	Middle School: The Worst Years of My Life	Blitz	"$27,692 "	11/3/2017	Croatia
@@ -574,10 +574,10 @@ rank	title	distributor	gross	release	country
 81	Kubo and the Two Strings	UPI	"$9,852 "	10/13/2017	Croatia
 82	Operasjon Arktis	n/a	"$9,247 "	2/25/2017	Croatia
 83	Im Labyrinth des Schweigens (Labyrinth of Lies)	n/a	"$9,164 "	2/4/2017	Croatia
-84	Trumbo (2015)	n/a	"$8,529 "	2/4/2017	Croatia
+84	Trumbo	n/a	"$8,529 "	2/4/2017	Croatia
 85	The Young Messiah	n/a	"$4,523 "	3/17/2017	Croatia
 86	Mot naturen (Out of Nature)	n/a	"$4,187 "	2/25/2017	Croatia
-87	Chocolat (2016)	n/a	"$2,613 "	3/3/2017	Croatia
+87	Chocolat	n/a	"$2,613 "	3/3/2017	Croatia
 88	The Wolfpack	n/a	"$2,330 "	4/7/2017	Croatia
 89	A Bigger Splash	MCF	$192 	6/16/2017	Croatia
 1	Andel Páne 2	Falcon	"$4,883,667 "	12/1/2017	Czech Republic
@@ -598,7 +598,7 @@ rank	title	distributor	gross	release	country
 16	Zootopia	Falcon	"$1,415,576 "	2/25/2017	Czech Republic
 17	Lichozrouti (The Oddsockeaters)	Falcon	"$1,354,934 "	10/20/2017	Czech Republic
 18	Doctor Strange	Falcon	"$1,296,133 "	10/27/2017	Czech Republic
-19	The Jungle Book (2016)	Falcon	"$1,262,304 "	4/21/2017	Czech Republic
+19	The Jungle Book	Falcon	"$1,262,304 "	4/21/2017	Czech Republic
 20	Miss Peregrine's Home for Peculiar Children	CinemArt	"$1,124,816 "	9/29/2017	Czech Republic
 21	Batman v Superman: Dawn of Justice	Freeman	"$1,118,646 "	3/24/2017	Czech Republic
 22	Alvin and the Chipmunks The Road Chip	CinemArt	"$1,078,914 "	1/21/2017	Czech Republic
@@ -611,7 +611,7 @@ rank	title	distributor	gross	release	country
 29	Anthropoid	Falcon	"$790,284 "	9/29/2017	Czech Republic
 30	Alice Through the Looking Glass	Falcon	"$770,409 "	5/26/2017	Czech Republic
 31	Arrival	Falcon	"$764,767 "	11/10/2017	Czech Republic
-32	The Girl on the Train (2016)	Freeman	"$737,623 "	10/6/2017	Czech Republic
+32	The Girl on the Train	Freeman	"$737,623 "	10/6/2017	Czech Republic
 33	Newcomer	Falcon	"$732,596 "	11/10/2017	Czech Republic
 34	Independence Day: Resurgence	CinemArt	"$721,192 "	6/23/2017	Czech Republic
 35	Assassin's Creed	CinemArt	"$706,692 "	12/29/2017	Czech Republic
@@ -629,7 +629,7 @@ rank	title	distributor	gross	release	country
 47	Star Trek Beyond	PPI	"$469,494 "	8/18/2017	Czech Republic
 48	Instalatér z Tuchlovic	Falcon	"$465,596 "	10/6/2017	Czech Republic
 49	Prazdniny v Provence	Bontonfilm	"$442,746 "	9/15/2017	Czech Republic
-50	Passengers (2016)	Falcon	"$427,713 "	12/28/2017	Czech Republic
+50	Passengers	Falcon	"$427,713 "	12/28/2017	Czech Republic
 51	Pohádky pro Emu	Falcon	"$418,726 "	11/3/2017	Czech Republic
 52	Jason Bourne	CinemArt	"$416,315 "	7/28/2017	Czech Republic
 53	Strasidla (The Spooks)	Falcon	"$398,458 "	8/18/2017	Czech Republic
@@ -638,7 +638,7 @@ rank	title	distributor	gross	release	country
 56	Me Before You	Forum Films	"$371,153 "	6/30/2017	Czech Republic
 57	Sully	Freeman	"$359,681 "	9/8/2017	Czech Republic
 58	Storks	Freeman	"$357,835 "	9/22/2017	Czech Republic
-59	Robinson Crusoe (2016)	Bioscop	"$342,489 "	2/18/2017	Czech Republic
+59	Robinson Crusoe	Bioscop	"$342,489 "	2/18/2017	Czech Republic
 60	Polednice (The Noonday Witch)	Falcon	"$333,708 "	3/3/2017	Czech Republic
 61	Fifty Shades of Black	Bontonfilm	"$329,921 "	1/28/2017	Czech Republic
 62	Moana	Falcon	"$308,809 "	11/24/2017	Czech Republic
@@ -659,16 +659,16 @@ rank	title	distributor	gross	release	country
 77	"I, Olga Hepnarová"	Bontonfilm	"$214,547 "	3/24/2017	Czech Republic
 78	How to Be Single	Freeman	"$211,611 "	5/5/2017	Czech Republic
 79	Teenage Mutant Ninja Turtles: Out of the Shadows	PPI	"$210,256 "	6/2/2017	Czech Republic
-80	Ghostbusters (2016)	Sony	"$191,596 "	7/28/2017	Czech Republic
+80	Ghostbusters	Sony	"$191,596 "	7/28/2017	Czech Republic
 81	Nerve	Freeman	"$191,471 "	9/8/2017	Czech Republic
-82	Nine Lives (2016)	Bioscop	"$188,413 "	10/6/2017	Czech Republic
+82	Nine Lives	Bioscop	"$188,413 "	10/6/2017	Czech Republic
 83	The Witch	CinemArt	"$178,286 "	3/24/2017	Czech Republic
 84	The Forest	Falcon	"$176,156 "	1/7/2017	Czech Republic
 85	The Nice Guys	Freeman	"$170,211 "	6/2/2017	Czech Republic
 86	Zkáza krásou	Aerofilms	"$157,839 "	1/6/2017	Czech Republic
 87	Open Season: Scared Silly	Bontonfilm	"$139,999 "	9/8/2017	Czech Republic
 88	Underworld: Blood Wars	Falcon	"$137,688 "	12/8/2017	Czech Republic
-89	The Magnificent Seven (2016)	Forum Films	"$135,869 "	9/22/2017	Czech Republic
+89	The Magnificent Seven	Forum Films	"$135,869 "	9/22/2017	Czech Republic
 90	Florence Foster Jenkins	Bioscop	"$130,703 "	8/25/2017	Czech Republic
 91	Pete's Dragon	Falcon	"$129,018 "	8/25/2017	Czech Republic
 92	The Purge: Election Year	UPI	"$126,453 "	7/7/2017	Czech Republic
@@ -687,7 +687,7 @@ rank	title	distributor	gross	release	country
 105	The Accountant	Freeman	"$104,773 "	11/3/2017	Czech Republic
 106	Mike and Dave Need Wedding Dates	CinemArt	"$104,546 "	7/7/2017	Czech Republic
 107	Neighbors 2: Sorority Rising	CinemArt	"$101,035 "	5/12/2017	Czech Republic
-108	The Secret in their Eyes (2015)	Bontonfilm	"$94,399 "	1/21/2017	Czech Republic
+108	The Secret in their Eyes	Bontonfilm	"$94,399 "	1/21/2017	Czech Republic
 109	Deepwater Horizon	Freeman	"$94,126 "	9/29/2017	Czech Republic
 110	Zoolander 2	CinemArt	"$93,741 "	2/11/2017	Czech Republic
 111	The Shallows	Falcon	"$91,838 "	8/11/2017	Czech Republic
@@ -695,7 +695,7 @@ rank	title	distributor	gross	release	country
 113	Les Visiteurs 3: la Terreur (The Visitors: Bastille Day)	Bontonfilm	"$89,491 "	5/19/2017	Czech Republic
 114	Ostravak Ostravski	Bohemia	"$87,687 "	10/20/2017	Czech Republic
 115	Tenkrat v raji	A Company	"$86,512 "	10/27/2017	Czech Republic
-116	Ben-Hur (2016)	Forum Films	"$83,281 "	8/25/2017	Czech Republic
+116	Ben-Hur	Forum Films	"$83,281 "	8/25/2017	Czech Republic
 117	Spotlight	Falcon	"$82,984 "	4/7/2017	Czech Republic
 118	Les saisons (Seasons)	Aerofilms	"$82,165 "	4/7/2017	Czech Republic
 119	Eddie the Eagle	CinemArt	"$80,569 "	4/7/2017	Czech Republic
@@ -709,14 +709,14 @@ rank	title	distributor	gross	release	country
 127	10 Cloverfield Lane	CinemArt	"$59,495 "	4/7/2017	Czech Republic
 128	Barbie: Spy Squad	CinemArt	"$59,414 "	3/24/2017	Czech Republic
 129	Muzikál aneb Cesty ke stestí	Bioscop	"$56,850 "	1/14/2017	Czech Republic
-130	The Boy (2016)	Bohemia	"$56,566 "	2/18/2017	Czech Republic
+130	The Boy	Bohemia	"$56,566 "	2/18/2017	Czech Republic
 131	Julieta	AQS	"$52,144 "	7/21/2017	Czech Republic
 132	Er ist wieder da (Look Who's Back)	CinemArt	"$51,710 "	3/10/2017	Czech Republic
 133	Joy	CinemArt	"$51,229 "	1/6/2017	Czech Republic
 134	Egon Schiele: Death and the Maiden	CinemArt	"$49,319 "	11/10/2017	Czech Republic
 135	Incarnate	CinemArt	"$44,387 "	12/15/2017	Czech Republic
 136	My Big Fat Greek Wedding 2	Freeman	"$43,149 "	4/7/2017	Czech Republic
-137	Masterminds (2016)	Forum Films	"$41,588 "	10/13/2017	Czech Republic
+137	Masterminds	Forum Films	"$41,588 "	10/13/2017	Czech Republic
 138	The Finest Hours	Falcon	"$39,802 "	1/28/2017	Czech Republic
 139	Deda	A Company	"$38,408 "	5/26/2017	Czech Republic
 140	Before I Wake	Bohemia	"$37,510 "	4/14/2017	Czech Republic
@@ -741,7 +741,7 @@ rank	title	distributor	gross	release	country
 159	Ma ma	Aerofilms	"$13,363 "	2/18/2017	Czech Republic
 160	Carol	Bontonfilm	"$13,285 "	4/21/2017	Czech Republic
 161	Belmondo par Belmondo	Atlantis	"$13,148 "	5/5/2017	Czech Republic
-162	Heidi (2015)	Bohemia	"$12,922 "	7/28/2017	Czech Republic
+162	Heidi	Bohemia	"$12,922 "	7/28/2017	Czech Republic
 163	Krigen (A War)	Aerofilms	"$12,698 "	4/28/2017	Czech Republic
 164	Son of Saul	Film Europe	"$12,399 "	2/18/2017	Czech Republic
 165	American Honey	UPI	"$12,339 "	10/27/2017	Czech Republic
@@ -757,7 +757,7 @@ rank	title	distributor	gross	release	country
 175	The Lobster	Falcon	"$7,030 "	3/24/2017	Czech Republic
 176	Spooks: The Greater Good	Falcon	"$6,656 "	8/18/2017	Czech Republic
 177	Bratrícek Karel	Art Cam	"$6,629 "	11/17/2017	Czech Republic
-178	Five (2016)	Mirius	"$6,390 "	7/14/2017	Czech Republic
+178	Five	Mirius	"$6,390 "	7/14/2017	Czech Republic
 179	Ani ve snu!	CinemArt	"$6,364 "	4/28/2017	Czech Republic
 180	Mr. Right	Bohemia	"$5,761 "	7/14/2017	Czech Republic
 181	Ma Loute (Slack Bay)	Aerofilms	"$5,715 "	7/14/2017	Czech Republic
@@ -769,7 +769,7 @@ rank	title	distributor	gross	release	country
 187	Our Little Sister	Film Europe	"$2,691 "	5/5/2017	Czech Republic
 188	Ratchet & Clank	Indigo	"$2,653 "	6/23/2017	Czech Republic
 189	The Commune (Kollektivet)	Film Europe	"$2,451 "	6/2/2017	Czech Republic
-190	Reality (2015)	Aerofilms	"$2,237 "	6/9/2017	Czech Republic
+190	Reality	Aerofilms	"$2,237 "	6/9/2017	Czech Republic
 191	Ikarie XB 1 (2016 re-release)	n/a	"$2,130 "	6/16/2017	Czech Republic
 1	Rogue One: A Star Wars Story	Disney	"$4,423,671 "	12/14/2017	Finland
 2	The Angry Birds Movie	Sony	"$3,686,742 "	5/13/2017	Finland
@@ -794,22 +794,22 @@ rank	title	distributor	gross	release	country
 21	Batman v Superman: Dawn of Justice	SF Film	"$1,324,808 "	3/23/2017	Finland
 22	Doctor Strange	Disney	"$1,293,064 "	10/26/2017	Finland
 23	The Hateful Eight	UPI	"$1,286,245 "	1/13/2017	Finland
-24	Off the Map (2016)	Nordisk	"$1,280,130 "	2/26/2017	Finland
-25	The Jungle Book (2016)	Disney	"$1,137,691 "	4/13/2017	Finland
+24	Off the Map	Nordisk	"$1,280,130 "	2/26/2017	Finland
+25	The Jungle Book	Disney	"$1,137,691 "	4/13/2017	Finland
 26	Born in Heinola	Kuusan	"$1,128,746 "	9/7/2017	Finland
 27	The Gold Digger (Onnenonkija)	Nordisk	"$1,052,730 "	3/25/2017	Finland
 28	Rolli and the Secret Route (Rölli ja kaikkien aikojen salaisuus)	Nordisk	"$993,655 "	9/16/2017	Finland
 29	The Legend of Tarzan	WB	"$977,025 "	7/15/2017	Finland
-30	Off-Key (2016)	Nordisk	"$952,860 "	1/1/2017	Finland
+30	Off-Key	Nordisk	"$952,860 "	1/1/2017	Finland
 31	Pettersson und Findus 2 - Das schönste Weihnachten überhaupt	SF Film	"$939,700 "	11/25/2017	Finland
 32	Finding Dory	Disney	"$921,010 "	8/26/2017	Finland
 33	Look of a Killer	Nordisk	"$882,291 "	2/5/2017	Finland
-34	Passengers (2016)	Dis./Sony	"$862,185 "	12/23/2017	Finland
+34	Passengers	Dis./Sony	"$862,185 "	12/23/2017	Finland
 35	The Good Dinosaur	Disney	"$843,141 "	1/6/2017	Finland
 36	Now You See Me 2	Nordisk	"$842,984 "	6/8/2017	Finland
 37	Me Before You	SF Film	"$839,962 "	7/8/2017	Finland
 38	Independence Day: Resurgence	Fox	"$825,088 "	6/29/2017	Finland
-39	The Girl on the Train (2016)	Nordisk	"$817,404 "	10/7/2017	Finland
+39	The Girl on the Train	Nordisk	"$817,404 "	10/7/2017	Finland
 40	Alvin and the Chipmunks The Road Chip	SF Film	"$807,980 "	2/5/2017	Finland
 41	Assassin's Creed	Fox	"$754,508 "	12/28/2017	Finland
 42	Bad Moms	SF Film	"$754,395 "	7/29/2017	Finland
@@ -849,10 +849,10 @@ rank	title	distributor	gross	release	country
 76	Julieta	Mis. Label	"$319,256 "	8/12/2017	Finland
 77	Nerve	Nordisk	"$299,706 "	8/12/2017	Finland
 78	The Dressmaker	Mondo	"$298,642 "	4/15/2017	Finland
-79	The Magnificent Seven (2016)	SF Film	"$293,804 "	9/23/2017	Finland
+79	The Magnificent Seven	SF Film	"$293,804 "	9/23/2017	Finland
 80	Daddy's Home	PPI	"$292,186 "	1/1/2017	Finland
 81	Allied	PPI	"$288,124 "	11/25/2017	Finland
-82	Ghostbusters (2016)	Sony	"$284,376 "	7/22/2017	Finland
+82	Ghostbusters	Sony	"$284,376 "	7/22/2017	Finland
 83	The Big Short	PPI	"$275,993 "	2/19/2017	Finland
 84	Office Christmas Party	Nordisk	"$263,069 "	12/9/2017	Finland
 85	The Accountant	WB	"$260,260 "	11/11/2017	Finland
@@ -873,7 +873,7 @@ rank	title	distributor	gross	release	country
 100	Cafe Society	Scanbox	"$170,500 "	10/7/2017	Finland
 101	Deepwater Horizon	Nordisk	"$169,759 "	9/30/2017	Finland
 102	Snowden	n/a	"$159,737 "	9/23/2017	Finland
-103	Robinson Crusoe (2016)	AB Svensk	"$155,836 "	6/3/2017	Finland
+103	Robinson Crusoe	AB Svensk	"$155,836 "	6/3/2017	Finland
 104	Diving Into the Unknown (Takaisin pintaan)	B-Plan	"$144,130 "	2/19/2017	Finland
 105	Pete's Dragon	Disney	"$140,460 "	10/14/2017	Finland
 106	Love and Fury (Syysprinssi)	Futurefilm	"$139,896 "	10/14/2017	Finland
@@ -891,7 +891,7 @@ rank	title	distributor	gross	release	country
 118	Ouija: Origin of Evil	UPI	"$100,600 "	10/21/2017	Finland
 119	Bølgen (The Wave)	Atlantic	"$99,190 "	6/17/2017	Finland
 120	"I, Daniel Blake"	n/a	"$98,792 "	11/11/2017	Finland
-121	The Boy (2016)	Snapper	"$96,479 "	2/19/2017	Finland
+121	The Boy	Snapper	"$96,479 "	2/19/2017	Finland
 122	Son of Saul	Futurefilm	"$86,806 "	3/4/2017	Finland
 123	Hardcore Henry	SF Film	"$85,067 "	4/8/2017	Finland
 124	Nocturnal Animals	UPI	"$83,891 "	12/2/2017	Finland
@@ -903,22 +903,22 @@ rank	title	distributor	gross	release	country
 130	The Lobster	Mondo	"$70,080 "	8/19/2017	Finland
 131	Skiptrace	Futurefilm	"$69,801 "	9/2/2017	Finland
 132	Steve Jobs	UPI	"$67,259 "	1/22/2017	Finland
-133	An (2015)	Mondo	"$65,661 "	4/8/2017	Finland
+133	An	Mondo	"$65,661 "	4/8/2017	Finland
 134	Kubo and the Two Strings	UPI	"$59,894 "	9/9/2017	Finland
 135	Youth	n/a	"$58,166 "	1/8/2017	Finland
-136	Masterminds (2016)	Nordisk	"$55,062 "	10/14/2017	Finland
+136	Masterminds	Nordisk	"$55,062 "	10/14/2017	Finland
 137	The Beatles: Eight Days a Week - The Touring Years	Futurefilm	"$50,217 "	11/4/2017	Finland
 138	Lolo	Mondo	"$45,673 "	7/8/2017	Finland
 139	Supilinna Salaselts	Futurefilm	"$45,433 "	3/25/2017	Finland
 140	A Bigger Splash	AB Svensk	"$45,069 "	3/11/2017	Finland
-141	The Secret in their Eyes (2015)	n/a	"$43,991 "	3/18/2017	Finland
+141	The Secret in their Eyes	n/a	"$43,991 "	3/18/2017	Finland
 142	Captain Fantastic	n/a	"$43,746 "	8/26/2017	Finland
 143	Morran & Tobias - Som en skänk från ovan	Atlantic	"$42,795 "	11/11/2017	Finland
 144	Becoming Zlatan (Den unge Zlatan)	Mondo	"$41,340 "	4/22/2017	Finland
 145	Gods of Egypt	Nordisk	"$37,484 "	4/1/2017	Finland
 146	A Monster Calls	AB Svensk	"$32,647 "	11/4/2017	Finland
-147	Chocolat (2016)	Futurefilm	"$31,707 "	7/29/2017	Finland
-148	Truman (2015)	Mondo	"$31,217 "	11/4/2017	Finland
+147	Chocolat	Futurefilm	"$31,707 "	7/29/2017	Finland
+148	Truman	Mondo	"$31,217 "	11/4/2017	Finland
 149	Mon roi (My King)	Mondo	"$30,306 "	5/6/2017	Finland
 150	The Neon Demon	Finnkino	"$30,043 "	6/10/2017	Finland
 151	The Girl with All the Gifts	Mondo	"$29,456 "	11/18/2017	Finland
@@ -955,7 +955,7 @@ rank	title	distributor	gross	release	country
 5	Fantastic Beasts and Where To Find Them	WB	"$29,146,248 "	11/16/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 6	Deadpool	Fox	"$29,058,302 "	2/10/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 7	The Revenant	Fox	"$28,238,162 "	2/24/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-8	The Jungle Book (2016)	Disney	"$28,011,400 "	4/13/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+8	The Jungle Book	Disney	"$28,011,400 "	4/13/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 9	Ice Age: Collision Course	Fox	"$26,346,976 "	7/13/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 10	The Secret Life of Pets	UPI	"$25,767,127 "	7/27/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 11	Camping 3	Pathé	"$24,224,579 "	6/29/2017	"France and Algeria, Monaco, Morocco and Tunisia"
@@ -981,7 +981,7 @@ rank	title	distributor	gross	release	country
 31	Pattaya	Gaumont	"$13,271,257 "	2/24/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 32	Ballerina	Gaumont	"$12,691,680 "	12/14/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 33	The Hateful Eight	SND	"$12,377,651 "	1/6/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-34	Chocolat (2016)	Gaumont	"$11,841,899 "	2/3/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+34	Chocolat	Gaumont	"$11,841,899 "	2/3/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 35	Jason Bourne	UPI	"$11,669,747 "	8/10/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 37	The Legend of Tarzan	WB	"$11,400,000 "	7/6/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 38	Irreplaceable (Médecin de campagne)	Le Pacte	"$11,272,162 "	3/23/2017	"France and Algeria, Monaco, Morocco and Tunisia"
@@ -990,7 +990,7 @@ rank	title	distributor	gross	release	country
 41	Independence Day: Resurgence	Fox	"$10,213,367 "	7/20/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 42	Alice Through the Looking Glass	Disney	"$9,882,921 "	6/1/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 43	Papa ou maman 2	Pathé	"$9,724,864 "	12/7/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-44	Passengers (2016)	Sony	"$9,656,767 "	12/28/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+44	Passengers	Sony	"$9,656,767 "	12/28/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 45	La folle histoire de Max et Léon	Studio Canal	"$8,739,076 "	11/2/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 46	The Odyssey (L'odyssée)	Wild Bunch	"$8,613,055 "	10/12/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 47	Sully	WB	"$8,250,742 "	11/30/2017	"France and Algeria, Monaco, Morocco and Tunisia"
@@ -1012,9 +1012,9 @@ rank	title	distributor	gross	release	country
 63	The Angry Birds Movie	Sony	"$6,064,540 "	5/11/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 64	Star Trek Beyond	PPI	"$5,815,202 "	8/17/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 65	Teenage Mutant Ninja Turtles: Out of the Shadows	PPI	"$5,599,359 "	6/29/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-66	Tamara (2016)	UGC	"$5,595,545 "	10/26/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+66	Tamara	UGC	"$5,595,545 "	10/26/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 67	C'est quoi cette famille?! (We are Family)	UGC	"$5,543,485 "	8/10/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-68	Five (2016)	Studio Canal	"$5,464,667 "	3/30/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+68	Five	Studio Canal	"$5,464,667 "	3/30/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 69	The Purge: Election Year	UPI	"$5,419,422 "	7/20/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 70	Nerve	Metropolitan	"$5,389,455 "	8/24/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 71	Joséphine s'arrondit	UGC	"$5,354,822 "	2/10/2017	"France and Algeria, Monaco, Morocco and Tunisia"
@@ -1022,11 +1022,11 @@ rank	title	distributor	gross	release	country
 73	Pete's Dragon	Disney	"$5,242,919 "	8/17/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 74	Ma vie de Courgette (My Life as a Courgette)	Gebeka	"$5,238,965 "	10/19/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 75	Lights Out	WB	"$5,200,000 "	8/24/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-76	The Magnificent Seven (2016)	Sony	"$5,062,649 "	9/28/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+76	The Magnificent Seven	Sony	"$5,062,649 "	9/28/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 77	Julieta	Pathé	"$4,985,061 "	5/18/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-78	Heidi (2015)	Studio Canal	"$4,924,887 "	2/10/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+78	Heidi	Studio Canal	"$4,924,887 "	2/10/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 79	The BFG	Disney	"$4,661,068 "	7/20/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-80	Victoria (2016)	Le Pacte	"$4,646,299 "	9/14/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+80	Victoria	Le Pacte	"$4,646,299 "	9/14/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 81	Mal de pierres (From the Land of the Moon)	Studio Canal	"$4,561,982 "	10/19/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 82	Les innocentes	Mars	"$4,449,794 "	2/10/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 83	Mechanic: Resurrection	Metropolitan	"$4,432,371 "	8/31/2017	"France and Algeria, Monaco, Morocco and Tunisia"
@@ -1034,7 +1034,7 @@ rank	title	distributor	gross	release	country
 85	Ma Loute (Slack Bay)	Memento	"$4,281,509 "	5/11/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 86	Amis Publics N°1	n/a	"$4,222,361 "	2/17/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 87	Elle	SBS	"$4,215,020 "	5/25/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-88	Point Break (2015)	SND	"$4,174,851 "	2/3/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+88	Point Break	SND	"$4,174,851 "	2/3/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 89	The Shallows	Sony	"$4,136,075 "	8/17/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 90	Bienvenue à Marly-Gomont (The African Doctor)	Mars	"$4,131,033 "	6/8/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 91	Central Intelligence	UPI	"$4,074,626 "	8/24/2017	"France and Algeria, Monaco, Morocco and Tunisia"
@@ -1045,7 +1045,7 @@ rank	title	distributor	gross	release	country
 96	Captain Fantastic	Mars	"$3,783,459 "	10/12/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 97	Merci patron!	Jour2Fête	"$3,766,898 "	2/24/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 98	War Dogs	WB	"$3,758,656 "	9/14/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-99	Ghostbusters (2016)	Sony	"$3,611,960 "	8/10/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+99	Ghostbusters	Sony	"$3,611,960 "	8/10/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 100	Tout schuss	SND	"$3,609,698 "	1/13/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 101	"Hail, Caesar!"	UPI	"$3,591,629 "	2/17/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 102	Les têtes de l'emploi	EuropaC	"$3,444,421 "	11/16/2017	"France and Algeria, Monaco, Morocco and Tunisia"
@@ -1053,8 +1053,8 @@ rank	title	distributor	gross	release	country
 104	Snowden	Pathé	"$3,404,632 "	11/2/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 105	Neighbors 2: Sorority Rising	UPI	"$3,398,715 "	7/6/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 106	Norm of the North	La Belle	"$3,388,500 "	12/21/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-107	Ben-Hur (2016)	PPI	"$3,380,709 "	9/7/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-108	The Girl on the Train (2016)	Metropolitan	"$3,349,559 "	10/26/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+107	Ben-Hur	PPI	"$3,380,709 "	9/7/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+108	The Girl on the Train	Metropolitan	"$3,349,559 "	10/26/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 109	Cézanne et moi (Cezanne and I)	Pathé	"$3,311,294 "	9/21/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 110	Braqueurs	SND	"$3,193,284 "	5/5/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 111	Saint Amour	Le Pacte	"$3,175,347 "	3/2/2017	"France and Algeria, Monaco, Morocco and Tunisia"
@@ -1062,7 +1062,7 @@ rank	title	distributor	gross	release	country
 114	Débarquement immédiat! (Last Call for Nowhere)	UGC	"$2,869,451 "	7/13/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 115	Manchester by the Sea	UPI	"$2,826,029 "	12/14/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 116	The Nice Guys	EuropaC	"$2,781,017 "	5/11/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-117	The Boy (2016)	Metropolitan	"$2,775,297 "	1/27/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+117	The Boy	Metropolitan	"$2,775,297 "	1/27/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 118	Kubo and the Two Strings	UPI	"$2,768,243 "	9/21/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 119	Paterson	Le Pacte	"$2,752,212 "	12/21/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 120	Rosalie Blum	SND	"$2,700,897 "	3/23/2017	"France and Algeria, Monaco, Morocco and Tunisia"
@@ -1070,7 +1070,7 @@ rank	title	distributor	gross	release	country
 122	A Kid (Le fils de Jean)	Le Pacte	"$2,660,472 "	8/31/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 123	La fille de Brest	Haut	"$2,627,693 "	11/23/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 124	Ouija: Origin of Evil	UPI	"$2,616,956 "	11/2/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-125	Robinson Crusoe (2016)	Studio Canal	"$2,599,130 "	4/20/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+125	Robinson Crusoe	Studio Canal	"$2,599,130 "	4/20/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 126	Don't Breathe	Sony	"$2,576,423 "	10/5/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 127	Tout pour être heureux (Dad in Training)	Mars	"$2,527,188 "	4/13/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 128	Bad Moms	Metropolitan	"$2,521,039 "	8/3/2017	"France and Algeria, Monaco, Morocco and Tunisia"
@@ -1099,7 +1099,7 @@ rank	title	distributor	gross	release	country
 152	Hell or High Water	Wild Bunch	"$1,707,177 "	9/7/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 153	L'effet aquatique (The Aquatic Effect)	Le Pacte	"$1,674,748 "	6/29/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 154	Triple 9	Mars	"$1,669,404 "	3/16/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-155	Nine Lives (2016)	EuropaC	"$1,659,958 "	8/3/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+155	Nine Lives	EuropaC	"$1,659,958 "	8/3/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 156	The Infiltrator	ARP	"$1,658,399 "	9/7/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 157	Quand on a 17 ans	Wild Bunch	"$1,639,628 "	3/30/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 158	Dirty Grandpa	Metropolitan	"$1,557,448 "	2/3/2017	"France and Algeria, Monaco, Morocco and Tunisia"
@@ -1114,7 +1114,7 @@ rank	title	distributor	gross	release	country
 168	Monsieur Bout-de-Bois	Les Films du	"$1,378,503 "	10/5/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 169	Moka	Pyramide	"$1,347,232 "	8/17/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 170	La taularde	Rezo	"$1,263,389 "	9/14/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-171	Criminal (2016)	Metropolitan	"$1,260,288 "	5/5/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+171	Criminal	Metropolitan	"$1,260,288 "	5/5/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 172	La Dream Team	Studio Canal	"$1,257,995 "	3/23/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 173	Tout de suite maintenant	Ad Vitam	"$1,251,878 "	6/22/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 174	La guerre des tuques (Snowtime!)	Ocean	"$1,251,393 "	12/21/2017	"France and Algeria, Monaco, Morocco and Tunisia"
@@ -1126,7 +1126,7 @@ rank	title	distributor	gross	release	country
 180	Ils sont partout	Wild Bunch	"$1,211,744 "	6/1/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 181	The Danish Girl	UPI	"$1,203,763 "	1/20/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 182	L'économie du couple (After Love)	Le Pacte	"$1,141,629 "	8/10/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-183	Race (2016)	n/a	"$1,072,306 "	7/27/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+183	Race	n/a	"$1,072,306 "	7/27/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 184	La saison des femmes (Parched)	Pyramid	"$1,072,253 "	4/20/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 185	Irréprochable	Memento	"$1,065,961 "	7/6/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 186	Legend	Studio Canal	"$1,059,593 "	1/20/2017	"France and Algeria, Monaco, Morocco and Tunisia"
@@ -1134,16 +1134,16 @@ rank	title	distributor	gross	release	country
 188	Office Christmas Party	Metropolitan	"$1,017,498 "	12/21/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 189	Love & Friendship	Sophie	"$1,017,247 "	6/22/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 190	Les pépites	Rezo	"$998,059 "	10/5/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-191	High Strung (2016)	SBS	"$971,166 "	8/3/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+191	High Strung	SBS	"$971,166 "	8/3/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 192	Les chevaliers blancs (The White Knights)	Le Pacte	"$968,473 "	1/20/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 193	Brothers of the Wind	Legende	"$963,163 "	7/6/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 194	The Neon Demon	Le Pacte	"$960,581 "	6/8/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 195	Cigarettes et chocolat chaud	Diaphana	"$956,142 "	12/14/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 196	La nouvelle vie de Paul Sneijder (The New Life of Paul Sneijder)	SND	"$953,024 "	6/8/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-197	Iris (2016)	UPI	"$950,542 "	11/16/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-198	Trumbo (2015)	UGC	"$950,274 "	4/27/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+197	Iris	UPI	"$950,542 "	11/16/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+198	Trumbo	UGC	"$950,274 "	4/27/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 199	Steve Jobs	UPI	"$928,367 "	2/3/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-200	Le convoi (2016)	PPI	"$913,048 "	1/20/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+200	Le convoi	PPI	"$913,048 "	1/20/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 201	The Witch	UPI	"$882,449 "	6/15/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 202	Colonia	Rezo	"$882,273 "	7/20/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 203	Friend Request (Unfriend) [2016]	La Belle	"$881,821 "	11/23/2017	"France and Algeria, Monaco, Morocco and Tunisia"
@@ -1158,11 +1158,11 @@ rank	title	distributor	gross	release	country
 212	Le coeur en braille	Gaumont	"$803,890 "	12/28/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 213	"Et ta soeur (Half Sister, Full Love)"	Le Pacte	"$800,657 "	1/13/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 214	Au nom de ma fille	Studio Canal	"$769,853 "	3/16/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-215	Little Men (2016)	VOC	"$749,901 "	9/21/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-216	Eternity (2016)	Pathé	"$743,356 "	9/7/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+215	Little Men	VOC	"$749,901 "	9/21/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+216	Eternity	Pathé	"$743,356 "	9/7/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 217	Room	UPI	"$738,683 "	3/9/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 218	Our Kind of Traitor	Studio Canal	"$737,494 "	6/15/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-219	Concussion (2015)	Sony	"$732,185 "	3/9/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+219	Concussion	Sony	"$732,185 "	3/9/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 220	Desierto	n/a	"$718,361 "	4/13/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 221	Free State of Jones	Metropolitan	"$704,593 "	9/14/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 222	"Polina, danser sa vie"	UGC	"$697,876 "	11/16/2017	"France and Algeria, Monaco, Morocco and Tunisia"
@@ -1179,7 +1179,7 @@ rank	title	distributor	gross	release	country
 233	Morgan	Fox	"$570,286 "	9/28/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 234	Shut In	EuropaC	"$559,808 "	11/30/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 235	Eddie the Eagle	Fox	"$555,241 "	5/5/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-236	Masterminds (2016)	Metropolitan	"$511,335 "	11/23/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+236	Masterminds	Metropolitan	"$511,335 "	11/23/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 237	Les habitants	Wild Bunch	"$491,710 "	4/27/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 238	Genius	Mars	"$482,584 "	7/27/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 239	Planetarium	Ad Vitam	"$470,145 "	11/16/2017	"France and Algeria, Monaco, Morocco and Tunisia"
@@ -1200,7 +1200,7 @@ rank	title	distributor	gross	release	country
 254	Louis & Luca - The Big Cheese Race	KMBO	"$383,097 "	11/9/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 255	L'histoire de l'amour (The History of Love)	Wild Bunch	"$382,687 "	11/9/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 256	Paris-Willouby	Mars	"$371,612 "	1/20/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-257	Truman (2015)	n/a	"$367,643 "	7/6/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+257	Truman	n/a	"$367,643 "	7/6/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 258	Diamant noir (Dark Inclusion)	Ad Vitam	"$355,280 "	6/8/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 259	Vendeur	Bac	"$350,965 "	5/5/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 260	The Beatles: Eight Days a Week - The Touring Years	Studio Canal	"$349,879 "	9/15/2017	"France and Algeria, Monaco, Morocco and Tunisia"
@@ -1272,11 +1272,11 @@ rank	title	distributor	gross	release	country
 327	Sieranevada	Wild Bunch	"$83,290 "	8/3/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 328	Mercenaire	Ad Vitam	"$82,933 "	10/5/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 329	Diamond Island	Les Films du	"$81,613 "	12/28/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-330	Préjudice (2015)	Losange	"$79,481 "	2/3/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+330	Préjudice	Losange	"$79,481 "	2/3/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 331	Fúsi (Virgin Mountain)	ARP	"$78,736 "	2/24/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 332	Southside with You	n/a	"$78,637 "	8/31/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 333	Dough	Margo	"$77,975 "	5/5/2017	"France and Algeria, Monaco, Morocco and Tunisia"
-334	In the Room (2015)	n/a	"$77,548 "	8/24/2017	"France and Algeria, Monaco, Morocco and Tunisia"
+334	In the Room	n/a	"$77,548 "	8/24/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 335	Willy 1er	n/a	"$77,400 "	10/19/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 336	À jamais (Never Ever)	n/a	"$75,303 "	12/7/2017	"France and Algeria, Monaco, Morocco and Tunisia"
 337	Ma ma	KMBO	"$70,386 "	6/8/2017	"France and Algeria, Monaco, Morocco and Tunisia"
@@ -1319,7 +1319,7 @@ rank	title	distributor	gross	release	country
 9	Deadpool	Fox	"$24,583,395 "	2/11/2017	Germany
 10	Captain America: Civil War	Disney	"$21,770,093 "	4/28/2017	Germany
 11	Me Before You	WB	"$20,300,000 "	6/23/2017	Germany
-12	The Jungle Book (2016)	Disney	"$19,672,002 "	4/14/2017	Germany
+12	The Jungle Book	Disney	"$19,672,002 "	4/14/2017	Germany
 13	Sing	UPI	"$19,210,224 "	12/8/2017	Germany
 14	Batman v Superman: Dawn of Justice	WB	"$18,918,262 "	3/24/2017	Germany
 15	Suicide Squad	WB	"$18,500,000 "	8/18/2017	Germany
@@ -1354,11 +1354,11 @@ rank	title	distributor	gross	release	country
 44	The Legend of Tarzan	WB	"$5,700,000 "	7/28/2017	Germany
 45	The Purge: Election Year	UPI	"$5,699,788 "	9/15/2017	Germany
 46	Arrival	Sony	"$5,685,326 "	11/24/2017	Germany
-47	Robinson Crusoe (2016)	Studio Canal	"$5,139,390 "	2/4/2017	Germany
+47	Robinson Crusoe	Studio Canal	"$5,139,390 "	2/4/2017	Germany
 48	Toni Erdmann	NFP	"$4,832,090 "	7/14/2017	Germany
-49	The Magnificent Seven (2016)	Sony	"$4,809,894 "	9/22/2017	Germany
+49	The Magnificent Seven	Sony	"$4,809,894 "	9/22/2017	Germany
 50	The Huntsman Winter's War	UPI	"$4,780,433 "	4/7/2017	Germany
-51	The Girl on the Train (2016)	Constantin	"$4,680,739 "	10/27/2017	Germany
+51	The Girl on the Train	Constantin	"$4,680,739 "	10/27/2017	Germany
 52	Don't Breathe	Sony	"$4,537,745 "	9/8/2017	Germany
 53	Money Monster	Sony	"$4,229,441 "	5/26/2017	Germany
 54	Jack Reacher: Never Go Back	PPI	"$4,223,343 "	11/10/2017	Germany
@@ -1367,7 +1367,7 @@ rank	title	distributor	gross	release	country
 57	Tschick	Studio Canal	"$3,777,043 "	9/15/2017	Germany
 58	Ride Along 2	UPI	"$3,772,997 "	1/21/2017	Germany
 59	"Hail, Caesar!"	UPI	"$3,678,373 "	2/18/2017	Germany
-60	Ghostbusters (2016)	Sony	"$3,635,143 "	8/4/2017	Germany
+60	Ghostbusters	Sony	"$3,635,143 "	8/4/2017	Germany
 61	Pettersson und Findus 2 - Das schönste Weihnachten überhaupt	Wild Bunch	"$3,547,669 "	11/3/2017	Germany
 62	Die wilden Kerle 6 - Die Legende lebt	Disney	"$3,501,591 "	2/11/2017	Germany
 63	London Has Fallen	Universum	"$3,486,396 "	3/10/2017	Germany
@@ -1391,7 +1391,7 @@ rank	title	distributor	gross	release	country
 81	Le goût des merveilles (The Sense of Wonder)	Neue	"$2,558,070 "	3/10/2017	Germany
 82	War Dogs	WB	"$2,524,553 "	9/29/2017	Germany
 83	Goosebumps	Sony	"$2,487,869 "	2/4/2017	Germany
-84	The Boy (2016)	n/a	"$2,425,937 "	2/18/2017	Germany
+84	The Boy	n/a	"$2,425,937 "	2/18/2017	Germany
 85	Friend Request (Unfriend) [2016]	WB	"$2,407,754 "	1/7/2017	Germany
 86	Pete's Dragon	Disney	"$2,388,018 "	8/25/2017	Germany
 87	L'étudiante et Monsieur Henri	Neue	"$2,283,929 "	7/21/2017	Germany
@@ -1407,7 +1407,7 @@ rank	title	distributor	gross	release	country
 97	Blair Witch	Studio Canal	"$1,755,961 "	10/6/2017	Germany
 98	The Forest	n/a	"$1,547,469 "	2/4/2017	Germany
 99	The Shallows	Sony	"$1,477,499 "	8/25/2017	Germany
-100	Ben-Hur (2016)	PPI	"$1,424,852 "	9/1/2017	Germany
+100	Ben-Hur	PPI	"$1,424,852 "	9/1/2017	Germany
 101	The Boss	UPI	"$1,400,000 "	4/21/2017	Germany
 102	Florence Foster Jenkins	Constantin	"$1,390,529 "	11/24/2017	Germany
 103	Gods of Egypt	n/a	"$1,377,351 "	4/21/2017	Germany
@@ -1425,7 +1425,7 @@ rank	title	distributor	gross	release	country
 115	Legend	Studio Canal	"$1,163,533 "	1/7/2017	Germany
 116	Cafe Society	WB	"$1,155,184 "	11/10/2017	Germany
 117	Gut zu Voegeln	Constantin	"$1,130,888 "	1/14/2017	Germany
-118	Point Break (2015)	Concorde	"$1,017,713 "	1/21/2017	Germany
+118	Point Break	Concorde	"$1,017,713 "	1/21/2017	Germany
 119	The Choice	n/a	"$979,371 "	3/10/2017	Germany
 120	Deepwater Horizon	Studio Canal	"$959,291 "	11/24/2017	Germany
 121	Bastille Day	Studio Canal	"$924,034 "	6/23/2017	Germany
@@ -1433,7 +1433,7 @@ rank	title	distributor	gross	release	country
 123	Burg Schreckenstein	Concorde	"$780,412 "	10/20/2017	Germany
 124	Julieta	Tobis	"$747,172 "	8/4/2017	Germany
 125	Room	UPI	"$684,658 "	3/17/2017	Germany
-126	Concussion (2015)	Sony	"$665,660 "	2/18/2017	Germany
+126	Concussion	Sony	"$665,660 "	2/18/2017	Germany
 127	Our Kind of Traitor	Studio Canal	"$646,132 "	7/7/2017	Germany
 128	Mustang	n/a	"$636,706 "	2/25/2017	Germany
 129	Grüße aus Fukushima (Greetings From Fukushima)	n/a	"$576,283 "	3/10/2017	Germany
@@ -1447,7 +1447,7 @@ rank	title	distributor	gross	release	country
 137	Dedemin Fisi	n/a	"$469,209 "	1/28/2017	Germany
 138	Sing Street	Studio Canal	"$430,772 "	5/26/2017	Germany
 139	The Light Between Oceans	Constantin	"$427,045 "	9/8/2017	Germany
-140	The Secret in their Eyes (2015)	UPI	"$396,793 "	6/9/2017	Germany
+140	The Secret in their Eyes	UPI	"$396,793 "	6/9/2017	Germany
 141	The Man Who Knew Infinity	n/a	"$357,536 "	5/12/2017	Germany
 142	Mon roi (My King)	Studio Canal	"$330,496 "	3/24/2017	Germany
 143	Südafrika: Der Kinofilm	n/a	"$311,092 "	2/25/2017	Germany
@@ -1461,13 +1461,13 @@ rank	title	distributor	gross	release	country
 151	Brothers of the Wind	WB	"$268,340 "	1/28/2017	Germany
 152	Miss You Already	Neue	"$249,264 "	3/31/2017	Germany
 153	The Beatles: Eight Days a Week - The Touring Years	Studio Canal	"$242,928 "	9/15/2017	Germany
-154	Race (2016)	SquareOne	"$237,554 "	7/28/2017	Germany
+154	Race	SquareOne	"$237,554 "	7/28/2017	Germany
 155	Kolpaçino 3. Devre	AFM	"$232,040 "	3/10/2017	Germany
 156	Collide	Universum	"$228,117 "	8/4/2017	Germany
 157	Janis: Little Girl Blue	n/a	"$227,754 "	1/14/2017	Germany
 158	Ikinci Sans	AFM	"$224,494 "	11/24/2017	Germany
 159	Dilwale	n/a	"$217,520 "	1/7/2017	Germany
-160	Truman (2015)	n/a	"$198,433 "	2/25/2017	Germany
+160	Truman	n/a	"$198,433 "	2/25/2017	Germany
 161	Genius	Telepool	"$189,173 "	8/11/2017	Germany
 162	Pawn Sacrifice	Studio Canal	"$188,807 "	4/28/2017	Germany
 163	Risen	Sony	"$187,975 "	3/17/2017	Germany
@@ -1482,7 +1482,7 @@ rank	title	distributor	gross	release	country
 172	"Belle et Sébastien, l'aventure continue"	Neue	"$146,616 "	1/28/2017	Germany
 173	Anomalisa	PPI	"$123,592 "	1/21/2017	Germany
 174	Rock The Kasbah	n/a	"$113,228 "	3/24/2017	Germany
-175	Trumbo (2015)	PPI	"$112,484 "	3/10/2017	Germany
+175	Trumbo	PPI	"$112,484 "	3/10/2017	Germany
 176	Miracles from Heaven	Sony	"$105,516 "	6/9/2017	Germany
 177	Fan	n/a	"$100,355 "	4/14/2017	Germany
 178	Where to Invade Next	n/a	"$95,242 "	2/25/2017	Germany
@@ -1490,12 +1490,12 @@ rank	title	distributor	gross	release	country
 180	Hello I Am David!	Piffl	"$84,460 "	1/21/2017	Germany
 181	Freeheld	Universum	"$82,867 "	4/7/2017	Germany
 182	Les saisons (Seasons)	Universum	"$81,283 "	3/10/2017	Germany
-183	Wild (2016)	n/a	"$72,022 "	4/14/2017	Germany
+183	Wild	n/a	"$72,022 "	4/14/2017	Germany
 184	Dope	Sony	"$71,910 "	1/28/2017	Germany
 185	Une famille à louer	Studio Canal	"$66,188 "	3/31/2017	Germany
 186	Suite Francaise	Universum	"$65,590 "	1/14/2017	Germany
 187	Son of Saul	Sony	"$63,226 "	3/10/2017	Germany
-188	Criminal Activities (2015)	n/a	"$62,919 "	3/31/2017	Germany
+188	Criminal Activities	n/a	"$62,919 "	3/31/2017	Germany
 189	Her Sey Asktan	AFM	"$54,001 "	2/4/2017	Germany
 190	Louder Than Bombs	MFA Film	"$53,892 "	1/7/2017	Germany
 191	About Ray	Tobis	"$49,630 "	12/8/2017	Germany
@@ -1512,7 +1512,7 @@ rank	title	distributor	gross	release	country
 202	Conducta	n/a	"$22,823 "	1/7/2017	Germany
 203	Rabbi Wolff	Salzgeber	"$22,755 "	4/14/2017	Germany
 204	Kapoor & Sons - Since 1921	n/a	"$22,430 "	3/24/2017	Germany
-205	Our Brand Is Crisis (2015)	WB	"$22,317 "	1/21/2017	Germany
+205	Our Brand Is Crisis	WB	"$22,317 "	1/21/2017	Germany
 206	L'ombre des femmes (In the Shadow of Women)	Schwarz	"$18,805 "	1/28/2017	Germany
 207	Krigen (A War)	Studio Canal	"$17,398 "	4/14/2017	Germany
 208	Francofonia (Le Louvre sous l'Occupation)	n/a	"$17,190 "	3/3/2017	Germany
@@ -1531,7 +1531,7 @@ rank	title	distributor	gross	release	country
 221	Pelo malo	n/a	"$3,456 "	3/31/2017	Germany
 222	Uns geht es gut (We are Fine)	X Verleih	"$3,402 "	1/28/2017	Germany
 223	Naked Beauty	Real Fiction	"$2,813 "	4/14/2017	Germany
-224	Family Business (2015)	n/a	"$1,703 "	1/28/2017	Germany
+224	Family Business	n/a	"$1,703 "	1/28/2017	Germany
 225	Song One	n/a	$293 	4/14/2017	Germany
 226	Get Squirrely (Animal Crackerz)	n/a	$226 	2/18/2017	Germany
 227	Avril et le monde truqué (April and the Extraordinary World)	Studio Canal	$28 	2/25/2017	Germany
@@ -1561,7 +1561,7 @@ rank	title	distributor	gross	release	country
 24	The Angry Birds Movie	Sony	"$749,705 "	5/12/2017	Hungary
 25	Assassin's Creed	InterCom	"$728,857 "	12/29/2017	Hungary
 26	Arrival	InterCom	"$723,067 "	11/10/2017	Hungary
-27	The Girl on the Train (2016)	Freeman	"$683,375 "	10/6/2017	Hungary
+27	The Girl on the Train	Freeman	"$683,375 "	10/6/2017	Hungary
 28	The Accountant	InterCom	"$683,245 "	10/27/2017	Hungary
 29	La La Land	Freeman	"$683,039 "	12/29/2017	Hungary
 30	Kung Fu Panda 3	InterCom	"$679,576 "	3/17/2017	Hungary
@@ -1577,14 +1577,14 @@ rank	title	distributor	gross	release	country
 40	Gods of Egypt	Big Bang	"$538,058 "	2/25/2017	Hungary
 41	The Boss	UIP	"$532,212 "	4/7/2017	Hungary
 42	Moana	Forum Films	"$521,131 "	12/1/2017	Hungary
-43	The Jungle Book (2016)	Forum Films	"$509,468 "	4/21/2017	Hungary
+43	The Jungle Book	Forum Films	"$509,468 "	4/21/2017	Hungary
 44	The Nice Guys	Freeman	"$502,885 "	5/26/2017	Hungary
 45	Neighbors 2: Sorority Rising	UPI	"$494,740 "	5/12/2017	Hungary
 46	Don't Breathe	Sony	"$490,312 "	8/25/2017	Hungary
 47	My Big Fat Greek Wedding 2	Freeman	"$460,834 "	3/24/2017	Hungary
 48	Miss Peregrine's Home for Peculiar Children	InterCom	"$451,030 "	9/29/2017	Hungary
 49	Alvin and the Chipmunks The Road Chip	InterCom	"$451,025 "	1/21/2017	Hungary
-50	Masterminds (2016)	Forum Films	"$440,563 "	10/20/2017	Hungary
+50	Masterminds	Forum Films	"$440,563 "	10/20/2017	Hungary
 51	The Divergent Series: Allegiant	Freeman	"$434,065 "	3/10/2017	Hungary
 52	Allied	UIP	"$432,573 "	12/1/2017	Hungary
 53	Lights Out	InterCom	"$425,557 "	7/21/2017	Hungary
@@ -1596,7 +1596,7 @@ rank	title	distributor	gross	release	country
 59	Hacksaw Ridge	ADS	"$309,030 "	12/29/2017	Hungary
 60	The Shallows	InterCom	"$302,456 "	8/11/2017	Hungary
 61	The 5th Wave	InterCom	"$274,803 "	1/14/2017	Hungary
-62	The Magnificent Seven (2016)	Forum Films	"$268,512 "	9/22/2017	Hungary
+62	The Magnificent Seven	Forum Films	"$268,512 "	9/22/2017	Hungary
 63	Sausage Party	InterCom	"$267,919 "	10/6/2017	Hungary
 64	Mother's Day	Freeman	"$263,457 "	4/28/2017	Hungary
 65	Me Before You	Forum Films	"$259,611 "	6/16/2017	Hungary
@@ -1606,12 +1606,12 @@ rank	title	distributor	gross	release	country
 69	Sully	InterCom	"$224,549 "	9/8/2017	Hungary
 70	Pete's Dragon	Forum Films	"$223,874 "	8/18/2017	Hungary
 71	Deepwater Horizon	Freeman	"$222,816 "	9/29/2017	Hungary
-72	Nine Lives (2016)	Big Bang	"$210,096 "	9/8/2017	Hungary
+72	Nine Lives	Big Bang	"$210,096 "	9/8/2017	Hungary
 73	Ride Along 2	UIP	"$208,156 "	1/21/2017	Hungary
 74	Money Monster	Sony	"$192,318 "	6/2/2017	Hungary
 75	Strangled (A martfüi rém)	Big Bang	"$189,388 "	11/10/2017	Hungary
-76	Ben-Hur (2016)	Forum Films	"$182,727 "	8/18/2017	Hungary
-77	Ghostbusters (2016)	Sony	"$171,824 "	7/28/2017	Hungary
+76	Ben-Hur	Forum Films	"$182,727 "	8/18/2017	Hungary
+77	Ghostbusters	Sony	"$171,824 "	7/28/2017	Hungary
 78	Teenage Mutant Ninja Turtles: Out of the Shadows	UIP	"$168,337 "	6/30/2017	Hungary
 79	Snowden	Cinetel	"$161,845 "	9/16/2017	Hungary
 80	Un homme à la hauteur (Up for Love)	Big Bang	"$160,435 "	7/14/2017	Hungary
@@ -1629,13 +1629,13 @@ rank	title	distributor	gross	release	country
 92	Eddie the Eagle	InterCom	"$111,144 "	3/31/2017	Hungary
 93	Florence Foster Jenkins	Freeman	"$104,187 "	9/8/2017	Hungary
 94	Kubo and the Two Strings	UPI	"$101,322 "	10/6/2017	Hungary
-95	Robinson Crusoe (2016)	Big Bang	"$101,184 "	4/7/2017	Hungary
+95	Robinson Crusoe	Big Bang	"$101,184 "	4/7/2017	Hungary
 96	Perfetti sconosciuti	Cinenuovo	"$95,047 "	12/29/2017	Hungary
 97	Incarnate	InterCom	"$94,435 "	12/8/2017	Hungary
 98	Shut In	Big Bang	"$91,523 "	11/24/2017	Hungary
 99	The Danish Girl	UIP	"$87,265 "	1/28/2017	Hungary
 100	Les Visiteurs 3: la Terreur (The Visitors: Bastille Day)	Freeman	"$85,090 "	4/14/2017	Hungary
-101	Criminal (2016)	ADS	"$77,510 "	4/21/2017	Hungary
+101	Criminal	ADS	"$77,510 "	4/21/2017	Hungary
 102	Blood Father	ADS	"$63,504 "	11/17/2017	Hungary
 103	Les saisons (Seasons)	Mozinet	"$62,942 "	4/14/2017	Hungary
 104	Collide	Big Bang	"$50,976 "	9/15/2017	Hungary
@@ -1652,7 +1652,7 @@ rank	title	distributor	gross	release	country
 115	Kút (Well)	Vertigo	"$34,033 "	9/22/2017	Hungary
 116	Due Superpiedi Quasi Piatti	Cinenuovo	"$33,642 "	11/3/2017	Hungary
 117	A Bigger Splash	JIL	"$30,210 "	6/30/2017	Hungary
-118	Five (2016)	ADS	"$30,112 "	10/27/2017	Hungary
+118	Five	ADS	"$30,112 "	10/27/2017	Hungary
 119	Hardcore Henry	Vertigo	"$29,955 "	4/7/2017	Hungary
 120	The Carer	A	"$28,074 "	10/27/2017	Hungary
 121	Hurok	Forum	"$25,295 "	4/14/2017	Hungary
@@ -1692,7 +1692,7 @@ rank	title	distributor	gross	release	country
 13	Moana	Samfilm	"$277,174 "	12/2/2017	Iceland
 14	Trolls	Sena	"$271,038 "	10/21/2017	Iceland
 15	Sing	Myndform	"$238,536 "	12/30/2017	Iceland
-16	The Jungle Book (2016)	Samfilm	"$229,521 "	4/15/2017	Iceland
+16	The Jungle Book	Samfilm	"$229,521 "	4/15/2017	Iceland
 17	Storks	Samfilm	"$221,488 "	9/30/2017	Iceland
 18	Jason Bourne	Myndform	"$220,995 "	7/29/2017	Iceland
 19	The Legend of Tarzan	Samfilm	"$199,085 "	7/7/2017	Iceland
@@ -1709,13 +1709,13 @@ rank	title	distributor	gross	release	country
 30	Grimmd	Sena	"$153,598 "	10/21/2017	Iceland
 31	Central Intelligence	UPI	"$152,000 "	6/17/2017	Iceland
 32	Bad Moms	Myndform	"$150,245 "	8/5/2017	Iceland
-33	Passengers (2016)	Sena	"$148,050 "	12/26/2017	Iceland
+33	Passengers	Sena	"$148,050 "	12/26/2017	Iceland
 34	Arrival	Sena	"$135,789 "	11/11/2017	Iceland
 35	Star Trek Beyond	Samfilm	"$134,896 "	7/21/2017	Iceland
 36	Ted 2	Myndform	"$134,495 "	6/25/2017	Iceland
 37	Independence Day: Resurgence	Sena	"$131,472 "	6/24/2017	Iceland
 38	The Accountant	Samfilm	"$125,373 "	11/4/2017	Iceland
-39	The Girl on the Train (2016)	Samfilm	"$123,412 "	10/7/2017	Iceland
+39	The Girl on the Train	Samfilm	"$123,412 "	10/7/2017	Iceland
 40	Now You See Me 2	Samfilm	"$121,046 "	7/14/2017	Iceland
 41	The Angry Birds Movie	Sony	"$119,545 "	5/11/2017	Iceland
 42	Fyrir framan annað fólk	Sena	"$118,423 "	2/26/2017	Iceland
@@ -1727,12 +1727,12 @@ rank	title	distributor	gross	release	country
 48	Ice Age: Collision Course	Sena	"$111,112 "	7/15/2017	Iceland
 49	Me Before You	Samfilm	"$108,653 "	6/24/2017	Iceland
 50	Lights Out	Samfilm	"$108,595 "	8/19/2017	Iceland
-51	Ghostbusters (2016)	Sony	"$107,878 "	7/20/2017	Iceland
+51	Ghostbusters	Sony	"$107,878 "	7/20/2017	Iceland
 52	Why Him?	Sena	"$105,578 "	12/30/2017	Iceland
 53	Neighbors 2: Sorority Rising	Myndform	"$104,493 "	5/6/2017	Iceland
 54	Jack Reacher: Never Go Back	Samfilm	"$101,711 "	10/21/2017	Iceland
 55	Miss Peregrine's Home for Peculiar Children	Sena	"$100,615 "	9/30/2017	Iceland
-56	The Magnificent Seven (2016)	Myndform	"$99,321 "	9/30/2017	Iceland
+56	The Magnificent Seven	Myndform	"$99,321 "	9/30/2017	Iceland
 57	The Brothers Grimsby	Sena	"$98,066 "	3/4/2017	Iceland
 58	London Has Fallen	Samfilm	"$87,430 "	3/4/2017	Iceland
 59	Zoolander 2	Samfilm	"$87,044 "	2/19/2017	Iceland
@@ -1759,9 +1759,9 @@ rank	title	distributor	gross	release	country
 80	Hell or High Water	Myndform	"$50,451 "	8/19/2017	Iceland
 81	Nerve	Myndform	"$50,129 "	8/10/2017	Iceland
 82	Allied	Samfilm	"$49,939 "	12/2/2017	Iceland
-83	Robinson Crusoe (2016)	Samfilm	"$49,412 "	9/2/2017	Iceland
+83	Robinson Crusoe	Samfilm	"$49,412 "	9/2/2017	Iceland
 84	Lion	Sena	"$48,975 "	11/25/2017	Iceland
-85	Masterminds (2016)	Sena	"$47,135 "	10/28/2017	Iceland
+85	Masterminds	Sena	"$47,135 "	10/28/2017	Iceland
 86	Bad Santa 2	Myndform	"$46,315 "	11/25/2017	Iceland
 87	Ooops! Noah Is Gone	Samfilm	"$45,797 "	1/22/2017	Iceland
 88	The Big Short	Samfilm	"$44,613 "	1/14/2017	Iceland
@@ -1769,10 +1769,10 @@ rank	title	distributor	gross	release	country
 90	Ratchet & Clank	Sena	"$43,727 "	4/28/2017	Iceland
 91	Joy	Sena	"$43,019 "	1/1/2017	Iceland
 92	Creed	Samfilm	"$42,307 "	1/21/2017	Iceland
-93	Ben-Hur (2016)	Samfilm	"$42,060 "	8/26/2017	Iceland
+93	Ben-Hur	Samfilm	"$42,060 "	8/26/2017	Iceland
 94	Gods of Egypt	Samfilm	"$39,020 "	3/11/2017	Iceland
 95	The 5th Wave	Sena	"$36,885 "	1/15/2017	Iceland
-96	Nine Lives (2016)	Myndform	"$36,729 "	8/26/2017	Iceland
+96	Nine Lives	Myndform	"$36,729 "	8/26/2017	Iceland
 97	Norm of the North	Myndform	"$35,225 "	1/15/2017	Iceland
 98	Collateral Beauty	Samfilm	"$34,588 "	12/30/2017	Iceland
 99	Keanu	Samfilm	"$34,410 "	5/19/2017	Iceland
@@ -1784,7 +1784,7 @@ rank	title	distributor	gross	release	country
 105	Money Monster	Sony	"$27,266 "	6/1/2017	Iceland
 106	Triple 9	Myndform	"$26,436 "	2/26/2017	Iceland
 107	Kubo and the Two Strings	UPI	"$26,407 "	9/9/2017	Iceland
-108	Criminal (2016)	Samfilm	"$25,694 "	4/22/2017	Iceland
+108	Criminal	Samfilm	"$25,694 "	4/22/2017	Iceland
 109	My Big Fat Greek Wedding 2	Myndform	"$25,390 "	3/25/2017	Iceland
 110	Underworld: Blood Wars	Sena	"$25,157 "	12/2/2017	Iceland
 111	Ribbit	Samfilm	"$25,109 "	4/22/2017	Iceland
@@ -1793,11 +1793,11 @@ rank	title	distributor	gross	release	country
 114	Ratter (Webcam)	Sena	"$21,214 "	7/16/2017	Iceland
 115	The 7th Dwarf	Samfilm	"$20,068 "	11/4/2017	Iceland
 116	Bølgen (The Wave)	Sena	"$19,735 "	5/6/2017	Iceland
-117	Reykjavík (2016)	Sena	"$17,250 "	3/11/2017	Iceland
+117	Reykjavík	Sena	"$17,250 "	3/11/2017	Iceland
 118	"Hail, Caesar!"	Myndform	"$17,236 "	2/19/2017	Iceland
 119	The Witch	Myndform	"$17,058 "	3/11/2017	Iceland
 120	Skiptrace	Samfilm	"$16,269 "	9/23/2017	Iceland
-121	The Boy (2016)	Myndform	"$13,022 "	1/29/2017	Iceland
+121	The Boy	Myndform	"$13,022 "	1/29/2017	Iceland
 122	Bastille Day	Myndform	"$12,896 "	4/29/2017	Iceland
 123	Youth	Myndform	"$12,138 "	1/1/2017	Iceland
 124	A Conspiracy of Faith (Flaskepost fra P)	Sena	"$12,000 "	11/18/2017	Iceland
@@ -1809,7 +1809,7 @@ rank	title	distributor	gross	release	country
 130	Babysitting 2 (All Gone South)	Sena	"$9,267 "	1/14/2017	Iceland
 131	Pele: Birth of a Legend	Samfilm	"$8,567 "	8/26/2017	Iceland
 132	Ransacked	Bio Paradis	"$7,991 "	10/14/2017	Iceland
-133	Concussion (2015)	Sena	"$7,864 "	2/5/2017	Iceland
+133	Concussion	Sena	"$7,864 "	2/5/2017	Iceland
 134	Baskavígin	Bio Paradis	"$7,558 "	11/18/2017	Iceland
 135	Max Steel	Myndform	"$7,314 "	11/4/2017	Iceland
 136	The Danish Girl	Myndform	"$7,177 "	2/26/2017	Iceland
@@ -1828,7 +1828,7 @@ rank	title	distributor	gross	release	country
 149	Gimme Danger	Myndform	"$3,208 "	11/18/2017	Iceland
 150	La chambre bleue	Bio Paradis	"$3,091 "	7/29/2017	Iceland
 151	A Hologram for the King	Myndform	"$2,862 "	4/29/2017	Iceland
-152	Race (2016)	Samfilm	"$2,469 "	8/19/2017	Iceland
+152	Race	Samfilm	"$2,469 "	8/19/2017	Iceland
 153	Uti ao Aka - A Reykspuandi Kadilakk yfir Ameriku	Bio Paradis	"$2,396 "	5/27/2017	Iceland
 154	The Assassin	Bio Paradis	"$2,341 "	7/15/2017	Iceland
 155	A Perfect Day	Bio Paradis	"$2,332 "	1/1/2017	Iceland
@@ -1846,7 +1846,7 @@ rank	title	distributor	gross	release	country
 167	Keep Frozen	Bio Paradis	$668 	4/1/2017	Iceland
 168	Nahid	Bio Paradis	$632 	11/25/2017	Iceland
 169	Arabian Nights: Volume 1 - The Restless One	Bio Paradis	$286 	6/1/2017	Iceland
-170	A Blast (2014)	Bio Paradis	$270 	1/20/2017	Iceland
+170	A Blast	Bio Paradis	$270 	1/20/2017	Iceland
 171	Aumingja Ísland	Bio Paradis	$260 	11/11/2017	Iceland
 172	Magnus	Sena	$230 	12/2/2017	Iceland
 173	Rúnturinn I	Bio Paradis	$214 	11/25/2017	Iceland
@@ -1854,7 +1854,7 @@ rank	title	distributor	gross	release	country
 175	Arabian Nights: Volume 3 - The Enchanted One	Bio Paradis	$86 	8/5/2017	Iceland
 1	Rogue One: A Star Wars Story	Disney	"$80,993,534 "	12/15/2017	"United Kingdom, Ireland and Malta"
 2	Fantastic Beasts and Where To Find Them	WB	"$68,040,191 "	11/18/2017	"United Kingdom, Ireland and Malta"
-3	The Jungle Book (2016)	Disney	"$66,598,923 "	4/15/2017	"United Kingdom, Ireland and Malta"
+3	The Jungle Book	Disney	"$66,598,923 "	4/15/2017	"United Kingdom, Ireland and Malta"
 4	Bridget Jones's Baby	UPI	"$60,399,511 "	9/16/2017	"United Kingdom, Ireland and Malta"
 5	Finding Dory	Disney	"$56,306,866 "	7/29/2017	"United Kingdom, Ireland and Malta"
 6	Captain America: Civil War	Disney	"$53,779,860 "	4/29/2017	"United Kingdom, Ireland and Malta"
@@ -1866,7 +1866,7 @@ rank	title	distributor	gross	release	country
 12	Zootopia	Disney	"$34,169,763 "	3/25/2017	"United Kingdom, Ireland and Malta"
 13	The Revenant	Fox	"$32,888,019 "	1/15/2017	"United Kingdom, Ireland and Malta"
 14	Trolls	Fox	"$30,116,357 "	10/21/2017	"United Kingdom, Ireland and Malta"
-15	The Girl on the Train (2016)	E1	"$29,494,721 "	10/5/2017	"United Kingdom, Ireland and Malta"
+15	The Girl on the Train	E1	"$29,494,721 "	10/5/2017	"United Kingdom, Ireland and Malta"
 16	Jason Bourne	UPI	"$28,987,049 "	7/29/2017	"United Kingdom, Ireland and Malta"
 17	Doctor Strange	Disney	"$28,541,463 "	10/25/2017	"United Kingdom, Ireland and Malta"
 18	X-Men: Apocalypse	Fox	"$24,287,465 "	5/20/2017	"United Kingdom, Ireland and Malta"
@@ -1876,13 +1876,13 @@ rank	title	distributor	gross	release	country
 22	Kung Fu Panda 3	Fox	"$20,321,914 "	3/11/2017	"United Kingdom, Ireland and Malta"
 23	Absolutely Fabulous: The Movie	Fox	"$19,552,282 "	7/1/2017	"United Kingdom, Ireland and Malta"
 24	London Has Fallen	Lions Gate	"$15,939,904 "	3/4/2017	"United Kingdom, Ireland and Malta"
-25	Passengers (2016)	Sony	"$15,711,754 "	12/21/2017	"United Kingdom, Ireland and Malta"
+25	Passengers	Sony	"$15,711,754 "	12/21/2017	"United Kingdom, Ireland and Malta"
 26	Independence Day: Resurgence	Fox	"$15,702,475 "	6/24/2017	"United Kingdom, Ireland and Malta"
 27	The Conjuring 2	WB	"$15,500,000 "	6/17/2017	"United Kingdom, Ireland and Malta"
 28	Miss Peregrine's Home for Peculiar Children	Fox	"$15,387,409 "	9/30/2017	"United Kingdom, Ireland and Malta"
 29	The Angry Birds Movie	Sony	"$15,367,738 "	5/13/2017	"United Kingdom, Ireland and Malta"
 30	Alice Through the Looking Glass	Disney	"$14,283,300 "	5/27/2017	"United Kingdom, Ireland and Malta"
-31	Ghostbusters (2016)	Sony	"$14,167,996 "	7/11/2017	"United Kingdom, Ireland and Malta"
+31	Ghostbusters	Sony	"$14,167,996 "	7/11/2017	"United Kingdom, Ireland and Malta"
 32	Me Before You	WB	"$13,700,000 "	6/3/2017	"United Kingdom, Ireland and Malta"
 33	Goosebumps	Sony	"$13,086,846 "	2/5/2017	"United Kingdom, Ireland and Malta"
 34	Eddie the Eagle	Lions Gate	"$12,803,022 "	4/1/2017	"United Kingdom, Ireland and Malta"
@@ -1906,7 +1906,7 @@ rank	title	distributor	gross	release	country
 52	Spotlight	E1	"$8,417,624 "	1/29/2017	"United Kingdom, Ireland and Malta"
 53	Creed	WB	"$8,246,569 "	1/15/2017	"United Kingdom, Ireland and Malta"
 54	Ride Along 2	UPI	"$7,998,710 "	1/22/2017	"United Kingdom, Ireland and Malta"
-55	The Magnificent Seven (2016)	Sony	"$7,921,183 "	9/23/2017	"United Kingdom, Ireland and Malta"
+55	The Magnificent Seven	Sony	"$7,921,183 "	9/23/2017	"United Kingdom, Ireland and Malta"
 56	Now You See Me 2	E1	"$7,858,234 "	7/4/2017	"United Kingdom, Ireland and Malta"
 57	The Huntsman Winter's War	UPI	"$7,665,716 "	4/8/2017	"United Kingdom, Ireland and Malta"
 58	The Big Short	PPI	"$7,624,380 "	1/22/2017	"United Kingdom, Ireland and Malta"
@@ -1942,7 +1942,7 @@ rank	title	distributor	gross	release	country
 88	Office Christmas Party	E1	"$3,891,893 "	12/9/2017	"United Kingdom, Ireland and Malta"
 89	Nocturnal Animals	UPI	"$3,788,129 "	11/4/2017	"United Kingdom, Ireland and Malta"
 90	Ouija: Origin of Evil	UPI	"$3,452,187 "	10/21/2017	"United Kingdom, Ireland and Malta"
-91	The Boy (2016)	n/a	"$3,405,286 "	3/18/2017	"United Kingdom, Ireland and Malta"
+91	The Boy	n/a	"$3,405,286 "	3/18/2017	"United Kingdom, Ireland and Malta"
 92	Mike and Dave Need Wedding Dates	Fox	"$3,157,155 "	8/12/2017	"United Kingdom, Ireland and Malta"
 93	Nerve	Lions Gate	"$3,074,151 "	8/12/2017	"United Kingdom, Ireland and Malta"
 94	The Purge: Election Year	UPI	"$3,067,000 "	8/26/2017	"United Kingdom, Ireland and Malta"
@@ -1952,9 +1952,9 @@ rank	title	distributor	gross	release	country
 98	High-Rise	Studio Canal	"$2,913,572 "	3/18/2017	"United Kingdom, Ireland and Malta"
 99	The Shallows	Sony	"$2,908,236 "	8/12/2017	"United Kingdom, Ireland and Malta"
 100	Dangal	UTV	"$2,818,873 "	12/23/2017	"United Kingdom, Ireland and Malta"
-101	Ben-Hur (2016)	PPI	"$2,809,225 "	9/7/2017	"United Kingdom, Ireland and Malta"
+101	Ben-Hur	PPI	"$2,809,225 "	9/7/2017	"United Kingdom, Ireland and Malta"
 102	Collateral Beauty	WB	"$2,800,000 "	12/30/2017	"United Kingdom, Ireland and Malta"
-103	Nine Lives (2016)	Lions Gate	"$2,743,417 "	8/19/2017	"United Kingdom, Ireland and Malta"
+103	Nine Lives	Lions Gate	"$2,743,417 "	8/19/2017	"United Kingdom, Ireland and Malta"
 104	Miss Saigon: 25th Anniversary Performance	UPI	"$2,601,470 "	10/16/2017	"United Kingdom, Ireland and Malta"
 105	Dirty Dancing (Secret Cinema)	Lions Gate	"$2,490,700 "	7/15/2017	"United Kingdom, Ireland and Malta"
 106	The Boss	UPI	"$2,435,799 "	6/10/2017	"United Kingdom, Ireland and Malta"
@@ -1975,7 +1975,7 @@ rank	title	distributor	gross	release	country
 121	Our Kind of Traitor	Studio Canal	"$1,745,576 "	5/13/2017	"United Kingdom, Ireland and Malta"
 122	A Bigger Splash	Studio Canal	"$1,700,350 "	2/12/2017	"United Kingdom, Ireland and Malta"
 123	The Beatles: Eight Days a Week - The Touring Years	Studio Canal	"$1,443,186 "	9/16/2017	"United Kingdom, Ireland and Malta"
-124	Robinson Crusoe (2016)	Studio Canal	"$1,381,128 "	5/6/2017	"United Kingdom, Ireland and Malta"
+124	Robinson Crusoe	Studio Canal	"$1,381,128 "	5/6/2017	"United Kingdom, Ireland and Malta"
 125	Youth	Studio Canal	"$1,367,668 "	1/29/2017	"United Kingdom, Ireland and Malta"
 126	The Infiltrator	WB	"$1,365,290 "	9/16/2017	"United Kingdom, Ireland and Malta"
 127	The Forest	Icon	"$1,360,774 "	2/26/2017	"United Kingdom, Ireland and Malta"
@@ -1986,7 +1986,7 @@ rank	title	distributor	gross	release	country
 132	Mother's Day	Lions Gate	"$1,289,246 "	6/10/2017	"United Kingdom, Ireland and Malta"
 133	Gods of Egypt	E1	"$1,288,806 "	6/17/2017	"United Kingdom, Ireland and Malta"
 134	The Witch	UPI	"$1,278,874 "	3/11/2017	"United Kingdom, Ireland and Malta"
-135	Point Break (2015)	WB	"$1,231,394 "	2/5/2017	"United Kingdom, Ireland and Malta"
+135	Point Break	WB	"$1,231,394 "	2/5/2017	"United Kingdom, Ireland and Malta"
 136	Hunt for the Wilderpeople	Vertigo	"$1,114,299 "	9/16/2017	"United Kingdom, Ireland and Malta"
 137	A Hologram for the King	Icon	"$1,062,859 "	5/20/2017	"United Kingdom, Ireland and Malta"
 138	Pride and Prejudice and Zombies	Lions Gate	"$1,037,601 "	2/12/2017	"United Kingdom, Ireland and Malta"
@@ -2028,7 +2028,7 @@ rank	title	distributor	gross	release	country
 174	Shakespeare Live!	Picture House	"$361,491 "	4/23/2017	"United Kingdom, Ireland and Malta"
 175	The Finest Hours	Disney	"$356,716 "	2/19/2017	"United Kingdom, Ireland and Malta"
 176	Dishoom	Eros	"$354,916 "	7/29/2017	"United Kingdom, Ireland and Malta"
-177	Criminal (2016)	Lions Gate	"$352,892 "	4/15/2017	"United Kingdom, Ireland and Malta"
+177	Criminal	Lions Gate	"$352,892 "	4/15/2017	"United Kingdom, Ireland and Malta"
 178	Chaar Sahibzaade 2	Eros	"$343,403 "	11/11/2017	"United Kingdom, Ireland and Malta"
 179	13 Hours: The Secret Soldiers of Benghazi	PPI	"$339,443 "	1/29/2017	"United Kingdom, Ireland and Malta"
 180	Sherlock: The Abominable Bride	n/a	"$330,207 "	1/1/2017	"United Kingdom, Ireland and Malta"
@@ -2037,16 +2037,16 @@ rank	title	distributor	gross	release	country
 183	Hardcore Henry	n/a	"$285,187 "	4/8/2017	"United Kingdom, Ireland and Malta"
 184	The Birth of a Nation	Fox	"$279,117 "	12/9/2017	"United Kingdom, Ireland and Malta"
 185	Morgan	Fox	"$257,582 "	9/2/2017	"United Kingdom, Ireland and Malta"
-186	Race (2016)	Altitude	"$251,542 "	6/3/2017	"United Kingdom, Ireland and Malta"
+186	Race	Altitude	"$251,542 "	6/3/2017	"United Kingdom, Ireland and Malta"
 187	Miles Ahead	Icon	"$242,629 "	4/22/2017	"United Kingdom, Ireland and Malta"
 188	Airlift	B4U	"$240,267 "	1/22/2017	"United Kingdom, Ireland and Malta"
-189	Little Men (2016)	Altitude	"$230,588 "	9/23/2017	"United Kingdom, Ireland and Malta"
+189	Little Men	Altitude	"$230,588 "	9/23/2017	"United Kingdom, Ireland and Malta"
 190	M.S. Dhoni: The Untold Story	Fox	"$230,293 "	9/30/2017	"United Kingdom, Ireland and Malta"
 191	The Taming of the Shrew - Bolshoi 2016 (Ballet)	Picture House	"$228,755 "	1/22/2017	"United Kingdom, Ireland and Malta"
 192	Mohenjo Daro	UTV	"$228,462 "	8/12/2017	"United Kingdom, Ireland and Malta"
 193	Lazer Team	n/a	"$220,112 "	1/29/2017	"United Kingdom, Ireland and Malta"
 194	Bobby Sands: 66 Days	n/a	"$219,765 "	8/5/2017	"United Kingdom, Ireland and Malta"
-195	Trumbo (2015)	E1	"$211,949 "	2/5/2017	"United Kingdom, Ireland and Malta"
+195	Trumbo	E1	"$211,949 "	2/5/2017	"United Kingdom, Ireland and Malta"
 196	The Childhood of a Leader	Soda	"$209,768 "	8/19/2017	"United Kingdom, Ireland and Malta"
 197	Green Room	Altitude	"$207,595 "	5/13/2017	"United Kingdom, Ireland and Malta"
 198	Baar Baar Dekho	Eros	"$207,500 "	9/9/2017	"United Kingdom, Ireland and Malta"
@@ -2056,11 +2056,11 @@ rank	title	distributor	gross	release	country
 202	Fitoor	UTV	"$191,993 "	2/12/2017	"United Kingdom, Ireland and Malta"
 203	Michael Buble - Tour Stop 148	MORE2SCR	"$188,238 "	9/23/2017	"United Kingdom, Ireland and Malta"
 204	Whiskey Tango Foxtrot	PPI	"$175,508 "	5/13/2017	"United Kingdom, Ireland and Malta"
-205	The Mermaid (2016)	Sony	"$173,553 "	2/19/2017	"United Kingdom, Ireland and Malta"
+205	The Mermaid	Sony	"$173,553 "	2/19/2017	"United Kingdom, Ireland and Malta"
 206	24	Ayngaran	"$167,614 "	5/6/2017	"United Kingdom, Ireland and Malta"
 207	Ki and Ka	Eros	"$166,462 "	4/1/2017	"United Kingdom, Ireland and Malta"
-208	Concussion (2015)	Sony	"$162,499 "	2/12/2017	"United Kingdom, Ireland and Malta"
-209	The Secret in their Eyes (2015)	UPI	"$162,482 "	2/26/2017	"United Kingdom, Ireland and Malta"
+208	Concussion	Sony	"$162,499 "	2/12/2017	"United Kingdom, Ireland and Malta"
+209	The Secret in their Eyes	UPI	"$162,482 "	2/26/2017	"United Kingdom, Ireland and Malta"
 210	Victoria	Art. Eye	"$154,569 "	4/1/2017	"United Kingdom, Ireland and Malta"
 211	Free State of Jones	Studio Canal	"$153,971 "	9/30/2017	"United Kingdom, Ireland and Malta"
 212	Neerja	Fox	"$153,334 "	2/19/2017	"United Kingdom, Ireland and Malta"
@@ -2150,13 +2150,13 @@ rank	title	distributor	gross	release	country
 296	"Life, Animated"	Dogwoof	"$51,065 "	12/9/2017	"United Kingdom, Ireland and Malta"
 297	Sarbjit	n/a	"$49,866 "	5/20/2017	"United Kingdom, Ireland and Malta"
 298	Battle Mountain: Graeme Obree's Story	Miracle	"$49,853 "	4/1/2017	"United Kingdom, Ireland and Malta"
-299	The Daughter (2015)	Metrodome	"$49,118 "	5/27/2017	"United Kingdom, Ireland and Malta"
+299	The Daughter	Metrodome	"$49,118 "	5/27/2017	"United Kingdom, Ireland and Malta"
 300	The Hard Stop	Metrodome	"$48,441 "	7/15/2017	"United Kingdom, Ireland and Malta"
 301	Love Punjab	n/a	"$48,427 "	3/11/2017	"United Kingdom, Ireland and Malta"
 302	Wild Goose Lodge	Indep.	"$47,288 "	10/28/2017	"United Kingdom, Ireland and Malta"
 303	David Bowie Is	MORE2SCR	"$46,846 "	7/8/2017	"United Kingdom, Ireland and Malta"
-304	Pink (2016)	Grand Showbiz	"$46,611 "	9/16/2017	"United Kingdom, Ireland and Malta"
-305	Charlie (2015)	n/a	"$46,083 "	1/15/2017	"United Kingdom, Ireland and Malta"
+304	Pink	Grand Showbiz	"$46,611 "	9/16/2017	"United Kingdom, Ireland and Malta"
+305	Charlie	n/a	"$46,083 "	1/15/2017	"United Kingdom, Ireland and Malta"
 306	From Vegas to Macau 3 (Du cheng feng yun III)	n/a	"$46,066 "	2/5/2017	"United Kingdom, Ireland and Malta"
 307	Actor in Law	Grand Showbiz	"$45,960 "	9/16/2017	"United Kingdom, Ireland and Malta"
 308	Sanam Teri Kasam	Eros	"$45,615 "	2/5/2017	"United Kingdom, Ireland and Malta"
@@ -2172,7 +2172,7 @@ rank	title	distributor	gross	release	country
 318	Popstar: Never Stop Never Stopping	UPI	"$40,904 "	8/26/2017	"United Kingdom, Ireland and Malta"
 319	Innocence of Memories	Soda	"$40,186 "	1/29/2017	"United Kingdom, Ireland and Malta"
 320	I Am Belfast	BFI	"$39,740 "	4/8/2017	"United Kingdom, Ireland and Malta"
-321	Our Brand Is Crisis (2015)	WB	"$39,556 "	1/22/2017	"United Kingdom, Ireland and Malta"
+321	Our Brand Is Crisis	WB	"$39,556 "	1/22/2017	"United Kingdom, Ireland and Malta"
 322	Napoleon (2016 Re-release)	BFI	"$39,448 "	11/11/2017	"United Kingdom, Ireland and Malta"
 323	God's Not Dead 2	Kaleidoscope	"$39,109 "	4/29/2017	"United Kingdom, Ireland and Malta"
 324	Starfish	Genesius	"$39,012 "	10/28/2017	"United Kingdom, Ireland and Malta"
@@ -2193,7 +2193,7 @@ rank	title	distributor	gross	release	country
 339	Louder Than Bombs	Soda	"$34,204 "	4/22/2017	"United Kingdom, Ireland and Malta"
 340	Rock On 2	Eros	"$34,043 "	11/11/2017	"United Kingdom, Ireland and Malta"
 341	The Survivalist	n/a	"$33,881 "	2/12/2017	"United Kingdom, Ireland and Malta"
-342	Idol (2016)	Studio Canal	"$33,855 "	8/12/2017	"United Kingdom, Ireland and Malta"
+342	Idol	Studio Canal	"$33,855 "	8/12/2017	"United Kingdom, Ireland and Malta"
 343	Hitchcock/Truffaut	Dogwoof	"$33,571 "	3/4/2017	"United Kingdom, Ireland and Malta"
 344	Tickled	Studio Canal	"$33,489 "	8/19/2017	"United Kingdom, Ireland and Malta"
 345	The Commune (Kollektivet)	Art. Eye	"$33,257 "	7/29/2017	"United Kingdom, Ireland and Malta"
@@ -2227,7 +2227,7 @@ rank	title	distributor	gross	release	country
 373	Sid & Nancy (30th Anniversary)	Studio Canal	"$24,184 "	8/5/2017	"United Kingdom, Ireland and Malta"
 374	Kadhalum Kadandhu Pogum	Ayngaran	"$24,047 "	3/11/2017	"United Kingdom, Ireland and Malta"
 375	Aranmanai 2	n/a	"$23,980 "	1/29/2017	"United Kingdom, Ireland and Malta"
-376	Chevalier (2015)	Studio Canal	"$23,820 "	7/22/2017	"United Kingdom, Ireland and Malta"
+376	Chevalier	Studio Canal	"$23,820 "	7/22/2017	"United Kingdom, Ireland and Malta"
 377	Black Mountain Poets	Metrodome	"$23,722 "	4/1/2017	"United Kingdom, Ireland and Malta"
 378	White Island	Peccadillo	"$23,638 "	10/21/2017	"United Kingdom, Ireland and Malta"
 379	Heart of a Dog	Dogwoof	"$23,430 "	5/20/2017	"United Kingdom, Ireland and Malta"
@@ -2240,7 +2240,7 @@ rank	title	distributor	gross	release	country
 386	Freaky Ali	n/a	"$21,981 "	9/9/2017	"United Kingdom, Ireland and Malta"
 387	Speed Sisters	Dogwoof	"$21,931 "	3/25/2017	"United Kingdom, Ireland and Malta"
 388	Return of the Don	KC	"$21,781 "	6/17/2017	"United Kingdom, Ireland and Malta"
-389	The Divide (2015)	n/a	"$21,639 "	4/22/2017	"United Kingdom, Ireland and Malta"
+389	The Divide	n/a	"$21,639 "	4/22/2017	"United Kingdom, Ireland and Malta"
 390	The Greasy Strangler	Picture House	"$21,549 "	10/7/2017	"United Kingdom, Ireland and Malta"
 391	Weiner	Dogwoof	"$21,479 "	7/8/2017	"United Kingdom, Ireland and Malta"
 392	Miruthan	Ayngaran	"$21,372 "	2/19/2017	"United Kingdom, Ireland and Malta"
@@ -2264,7 +2264,7 @@ rank	title	distributor	gross	release	country
 410	Fuocoammare (Fire at Sea)	Art. Eye	"$18,705 "	6/10/2017	"United Kingdom, Ireland and Malta"
 411	Ran (2016 re-issue)	Studio Canal	"$18,692 "	4/1/2017	"United Kingdom, Ireland and Malta"
 412	The 9th Life of Louis Drax	Soda	"$18,531 "	9/2/2017	"United Kingdom, Ireland and Malta"
-413	Summertime (2016)	Art. Eye	"$18,510 "	7/15/2017	"United Kingdom, Ireland and Malta"
+413	Summertime	Art. Eye	"$18,510 "	7/15/2017	"United Kingdom, Ireland and Malta"
 414	Goodnight Mommy	Vertigo	"$18,437 "	3/4/2017	"United Kingdom, Ireland and Malta"
 415	Freeheld	E1	"$18,245 "	2/19/2017	"United Kingdom, Ireland and Malta"
 416	King Liar	n/a	"$18,144 "	4/22/2017	"United Kingdom, Ireland and Malta"
@@ -2303,11 +2303,11 @@ rank	title	distributor	gross	release	country
 449	This Time	n/a	"$13,620 "	5/20/2017	"United Kingdom, Ireland and Malta"
 450	Dedemin Fisi	Kinostar	"$13,312 "	1/29/2017	"United Kingdom, Ireland and Malta"
 451	El Club	Network	"$13,127 "	3/25/2017	"United Kingdom, Ireland and Malta"
-452	Bobby (2016)	E1	"$12,931 "	5/27/2017	"United Kingdom, Ireland and Malta"
+452	Bobby	E1	"$12,931 "	5/27/2017	"United Kingdom, Ireland and Malta"
 453	Jem and the Holograms	UPI	"$12,869 "	2/12/2017	"United Kingdom, Ireland and Malta"
 454	Sethupathi	n/a	"$12,617 "	2/19/2017	"United Kingdom, Ireland and Malta"
-455	Sour Grapes (2016)	Dogwoof	"$12,505 "	9/16/2017	"United Kingdom, Ireland and Malta"
-456	My Best Friend's Wedding (2016)	Sony	"$12,332 "	8/12/2017	"United Kingdom, Ireland and Malta"
+455	Sour Grapes	Dogwoof	"$12,505 "	9/16/2017	"United Kingdom, Ireland and Malta"
+456	My Best Friend's Wedding	Sony	"$12,332 "	8/12/2017	"United Kingdom, Ireland and Malta"
 457	Iraivi	Ayngaran	"$12,211 "	6/3/2017	"United Kingdom, Ireland and Malta"
 458	In Pursuit of Silence	Dartmouth	"$12,079 "	10/21/2017	"United Kingdom, Ireland and Malta"
 459	The Lovers and the Despot	Soda	"$12,014 "	9/23/2017	"United Kingdom, Ireland and Malta"
@@ -2317,7 +2317,7 @@ rank	title	distributor	gross	release	country
 463	Pokkiri Raja	Ayngaran	"$11,794 "	3/4/2017	"United Kingdom, Ireland and Malta"
 464	Tharai Thappattai	Ayngaran	"$11,640 "	1/15/2017	"United Kingdom, Ireland and Malta"
 465	Lock	Filmonix	"$11,605 "	10/14/2017	"United Kingdom, Ireland and Malta"
-466	The Tunnel (2016)	JBG	"$11,601 "	9/2/2017	"United Kingdom, Ireland and Malta"
+466	The Tunnel	JBG	"$11,601 "	9/2/2017	"United Kingdom, Ireland and Malta"
 467	Motor Mitraan Di	Filmonix	"$11,501 "	12/30/2017	"United Kingdom, Ireland and Malta"
 468	Dharam Yudh Morcha	Filmonix	"$11,462 "	9/16/2017	"United Kingdom, Ireland and Malta"
 469	Anuraga Karikkin Vellam	Swamy	"$11,405 "	7/29/2017	"United Kingdom, Ireland and Malta"
@@ -2332,14 +2332,14 @@ rank	title	distributor	gross	release	country
 478	Manithan	Q Ent.	"$10,285 "	4/29/2017	"United Kingdom, Ireland and Malta"
 479	Kiki's Delivery Service (2015 re-release)	Studio Canal	"$10,266 "	5/27/2017	"United Kingdom, Ireland and Malta"
 480	Maalik	Urban Vibez	"$10,121 "	8/26/2017	"United Kingdom, Ireland and Malta"
-481	Mammal (2016)	n/a	"$10,107 "	4/1/2017	"United Kingdom, Ireland and Malta"
+481	Mammal	n/a	"$10,107 "	4/1/2017	"United Kingdom, Ireland and Malta"
 482	Jil Jung Juk	Ayngaran	"$10,064 "	2/12/2017	"United Kingdom, Ireland and Malta"
-483	Chronic (2015)	Art. Eye	"$10,043 "	2/19/2017	"United Kingdom, Ireland and Malta"
+483	Chronic	Art. Eye	"$10,043 "	2/19/2017	"United Kingdom, Ireland and Malta"
 484	Tere Bin Laden - Dead or Alive	Reliance	"$9,903 "	2/26/2017	"United Kingdom, Ireland and Malta"
 485	Saithan	Swamy	"$9,890 "	12/2/2017	"United Kingdom, Ireland and Malta"
 486	Théo et Hugo dans le même bateau (Paris 05:59)	Peccadillo	"$9,839 "	9/9/2017	"United Kingdom, Ireland and Malta"
 487	A Trip to Jamaica	Indep.	"$9,833 "	12/9/2017	"United Kingdom, Ireland and Malta"
-488	Cabin Fever (2016)	n/a	"$9,586 "	5/13/2017	"United Kingdom, Ireland and Malta"
+488	Cabin Fever	n/a	"$9,586 "	5/13/2017	"United Kingdom, Ireland and Malta"
 489	LUCK-KEY	JBG	"$9,494 "	10/28/2017	"United Kingdom, Ireland and Malta"
 490	Delibal	n/a	"$9,467 "	1/1/2017	"United Kingdom, Ireland and Malta"
 491	Close Encounters of the Third Kind - Director's Cut (2016 re-release)	Park	"$9,352 "	5/27/2017	"United Kingdom, Ireland and Malta"
@@ -2349,7 +2349,7 @@ rank	title	distributor	gross	release	country
 495	Ma ma	Metrodome	"$8,806 "	6/24/2017	"United Kingdom, Ireland and Malta"
 496	King Jack	Vertigo	"$8,801 "	2/26/2017	"United Kingdom, Ireland and Malta"
 497	Kanithan	n/a	"$8,782 "	2/26/2017	"United Kingdom, Ireland and Malta"
-498	The Fall (2016)	Picture House	"$8,516 "	7/29/2017	"United Kingdom, Ireland and Malta"
+498	The Fall	Picture House	"$8,516 "	7/29/2017	"United Kingdom, Ireland and Malta"
 499	Tutak Tutak Tutiya	Urban Vibez	"$8,498 "	10/14/2017	"United Kingdom, Ireland and Malta"
 500	Detective Chinatown (Tang ren jie tan an)	CL	"$8,425 "	1/15/2017	"United Kingdom, Ireland and Malta"
 501	Thodari	Ayngaran	"$8,414 "	9/23/2017	"United Kingdom, Ireland and Malta"
@@ -2362,11 +2362,11 @@ rank	title	distributor	gross	release	country
 508	Dhulla Bhatti	Filmonix	"$7,876 "	6/10/2017	"United Kingdom, Ireland and Malta"
 509	Still Loved	Indep.	"$7,835 "	9/30/2017	"United Kingdom, Ireland and Malta"
 510	Enakku Innoru Per Irukku	Ayngaran	"$7,825 "	6/17/2017	"United Kingdom, Ireland and Malta"
-511	Two Women (2014)	Miracle	"$7,821 "	9/16/2017	"United Kingdom, Ireland and Malta"
+511	Two Women	Miracle	"$7,821 "	9/16/2017	"United Kingdom, Ireland and Malta"
 512	Dag 2	Kinostar	"$7,595 "	12/2/2017	"United Kingdom, Ireland and Malta"
 513	Quo vado?	n/a	"$7,554 "	4/22/2017	"United Kingdom, Ireland and Malta"
 514	Marudhu	Ayngaran	"$7,514 "	5/20/2017	"United Kingdom, Ireland and Malta"
-515	Partisan (2015)	n/a	"$7,398 "	1/8/2017	"United Kingdom, Ireland and Malta"
+515	Partisan	n/a	"$7,398 "	1/8/2017	"United Kingdom, Ireland and Malta"
 516	Bangalore Naatkal	n/a	"$7,279 "	2/5/2017	"United Kingdom, Ireland and Malta"
 517	Velainu Vandhutta Vellaikaaran	Q Ent.	"$7,253 "	6/3/2017	"United Kingdom, Ireland and Malta"
 518	Bachaana	n/a	"$7,149 "	4/22/2017	"United Kingdom, Ireland and Malta"
@@ -2386,7 +2386,7 @@ rank	title	distributor	gross	release	country
 532	Bir Baba Hindu	n/a	"$6,367 "	10/7/2017	"United Kingdom, Ireland and Malta"
 533	Romeo and Juliet (1968) [2016 re-release]	Park	"$6,292 "	5/20/2017	"United Kingdom, Ireland and Malta"
 534	Arabian Nights: Volume 1 - The Restless One	New Wave	"$6,201 "	4/22/2017	"United Kingdom, Ireland and Malta"
-535	An (2015)	Eureka	"$6,145 "	8/5/2017	"United Kingdom, Ireland and Malta"
+535	An	Eureka	"$6,145 "	8/5/2017	"United Kingdom, Ireland and Malta"
 536	The Weekend Movie	Indep.	"$5,976 "	12/2/2017	"United Kingdom, Ireland and Malta"
 537	Mon roi (My King)	Studio Canal	"$5,839 "	5/27/2017	"United Kingdom, Ireland and Malta"
 538	Adi Kapyare Kootamani	n/a	"$5,818 "	1/15/2017	"United Kingdom, Ireland and Malta"
@@ -2406,7 +2406,7 @@ rank	title	distributor	gross	release	country
 552	Only Yesterday (2016 re-release)	Studio Canal	"$5,044 "	6/3/2017	"United Kingdom, Ireland and Malta"
 553	Dhilluku Dhuddu	Q Ent.	"$4,963 "	7/15/2017	"United Kingdom, Ireland and Malta"
 554	Jackson Durai	Ayngaran	"$4,963 "	7/1/2017	"United Kingdom, Ireland and Malta"
-555	Truman (2015)	Studio Canal	"$4,961 "	5/6/2017	"United Kingdom, Ireland and Malta"
+555	Truman	Studio Canal	"$4,961 "	5/6/2017	"United Kingdom, Ireland and Malta"
 556	Breaking the Bank	Altive	"$4,947 "	6/3/2017	"United Kingdom, Ireland and Malta"
 557	Efterskalv (The Here After)	Soda	"$4,771 "	3/11/2017	"United Kingdom, Ireland and Malta"
 558	ID2: Shadwell Army	Munro	"$4,764 "	8/12/2017	"United Kingdom, Ireland and Malta"
@@ -2420,7 +2420,7 @@ rank	title	distributor	gross	release	country
 566	The Price of Desire	Munro	"$4,223 "	5/27/2017	"United Kingdom, Ireland and Malta"
 567	Aanandam	Q Ent.	"$4,131 "	11/25/2017	"United Kingdom, Ireland and Malta"
 568	Mattress Men	Element	"$4,098 "	10/7/2017	"United Kingdom, Ireland and Malta"
-569	Orthodox (2015)	n/a	"$4,077 "	2/19/2017	"United Kingdom, Ireland and Malta"
+569	Orthodox	n/a	"$4,077 "	2/19/2017	"United Kingdom, Ireland and Malta"
 570	Baskin	Vertigo	"$4,063 "	7/15/2017	"United Kingdom, Ireland and Malta"
 571	Donnie Darko: 15th Anniversary Reissue	Arrow	"$4,063 "	12/30/2017	"United Kingdom, Ireland and Malta"
 572	Queen of Earth	Eureka	"$3,965 "	7/1/2017	"United Kingdom, Ireland and Malta"
@@ -2441,7 +2441,7 @@ rank	title	distributor	gross	release	country
 587	Karingunnam 6's	Swamy	"$3,375 "	8/12/2017	"United Kingdom, Ireland and Malta"
 588	Strangerland	n/a	"$3,363 "	2/5/2017	"United Kingdom, Ireland and Malta"
 589	Arabian Nights: Volume 2 - The Desolate One	New Wave	"$3,358 "	4/29/2017	"United Kingdom, Ireland and Malta"
-590	Gray Matters (2014)	Munro	"$3,239 "	5/27/2017	"United Kingdom, Ireland and Malta"
+590	Gray Matters	Munro	"$3,239 "	5/27/2017	"United Kingdom, Ireland and Malta"
 591	Remember	Studio Canal	"$3,075 "	2/26/2017	"United Kingdom, Ireland and Malta"
 592	A Good American	n/a	"$2,963 "	9/23/2017	"United Kingdom, Ireland and Malta"
 593	Mission Milano (Wang pai dou wang pai)	JBG	"$2,961 "	10/7/2017	"United Kingdom, Ireland and Malta"
@@ -2459,7 +2459,7 @@ rank	title	distributor	gross	release	country
 605	Gangsters Gamblers Geezers	Indep.	"$2,662 "	9/23/2017	"United Kingdom, Ireland and Malta"
 606	Journey to the Shore (Kishibe no tabi)	Eureka	"$2,657 "	5/20/2017	"United Kingdom, Ireland and Malta"
 607	Imperium	Signature	"$2,593 "	9/23/2017	"United Kingdom, Ireland and Malta"
-608	Hide & Seek (2016)	Matchbox	"$2,577 "	7/8/2017	"United Kingdom, Ireland and Malta"
+608	Hide & Seek	Matchbox	"$2,577 "	7/8/2017	"United Kingdom, Ireland and Malta"
 609	Oru Muthassi Gadha	RFT	"$2,560 "	10/14/2017	"United Kingdom, Ireland and Malta"
 610	Light Years	Indep.	"$2,555 "	9/23/2017	"United Kingdom, Ireland and Malta"
 611	The Stanford Prison Experiment	Munro	"$2,553 "	6/10/2017	"United Kingdom, Ireland and Malta"
@@ -2468,10 +2468,10 @@ rank	title	distributor	gross	release	country
 614	Thoppil Joppan	RFT	"$2,483 "	11/25/2017	"United Kingdom, Ireland and Malta"
 615	Aandavan Kattalai	Swamy	"$2,476 "	9/30/2017	"United Kingdom, Ireland and Malta"
 616	The Truth Commissioner	n/a	"$2,464 "	2/26/2017	"United Kingdom, Ireland and Malta"
-617	Dog Eat Dog (2016)	Signature	"$2,430 "	11/18/2017	"United Kingdom, Ireland and Malta"
-618	The Incident (2015)	Verve	"$2,401 "	11/25/2017	"United Kingdom, Ireland and Malta"
+617	Dog Eat Dog	Signature	"$2,430 "	11/18/2017	"United Kingdom, Ireland and Malta"
+618	The Incident	Verve	"$2,401 "	11/25/2017	"United Kingdom, Ireland and Malta"
 619	Never Gone	JBG	"$2,344 "	7/22/2017	"United Kingdom, Ireland and Malta"
-620	Black (2015)	Vertigo	"$2,302 "	8/19/2017	"United Kingdom, Ireland and Malta"
+620	Black	Vertigo	"$2,302 "	8/19/2017	"United Kingdom, Ireland and Malta"
 621	In Rahon Se	n/a	"$2,277 "	3/11/2017	"United Kingdom, Ireland and Malta"
 622	Welcome to Me	Vertigo	"$2,242 "	3/25/2017	"United Kingdom, Ireland and Malta"
 623	Notfilm	BFI	"$2,241 "	4/15/2017	"United Kingdom, Ireland and Malta"
@@ -2479,9 +2479,9 @@ rank	title	distributor	gross	release	country
 625	Uncle Howard	Contemporary Films	"$2,204 "	12/16/2017	"United Kingdom, Ireland and Malta"
 626	America Wild: National Parks	n/a	"$2,175 "	2/12/2017	"United Kingdom, Ireland and Malta"
 627	Suddenly Seventeen	Indep.	"$2,147 "	12/9/2017	"United Kingdom, Ireland and Malta"
-628	Last Hijack (2014)	n/a	"$2,113 "	1/8/2017	"United Kingdom, Ireland and Malta"
+628	Last Hijack	n/a	"$2,113 "	1/8/2017	"United Kingdom, Ireland and Malta"
 629	Arabian Nights: Volume 3 - The Enchanted One	New Wave	"$2,093 "	5/6/2017	"United Kingdom, Ireland and Malta"
-630	Cosmos (2015)	Arrow	"$2,058 "	8/19/2017	"United Kingdom, Ireland and Malta"
+630	Cosmos	Arrow	"$2,058 "	8/19/2017	"United Kingdom, Ireland and Malta"
 631	The Wailing (Goksung)	Kaleidoscope	"$2,013 "	11/25/2017	"United Kingdom, Ireland and Malta"
 632	The Wait (L'attesa)	Studio Canal	"$2,012 "	7/8/2017	"United Kingdom, Ireland and Malta"
 633	Bizans Oyunlari - Geym of Bizans	n/a	"$1,992 "	1/15/2017	"United Kingdom, Ireland and Malta"
@@ -2534,7 +2534,7 @@ rank	title	distributor	gross	release	country
 680	The Guv'nor	Lions Gate	$948 	10/7/2017	"United Kingdom, Ireland and Malta"
 681	Tharlo	n/a	$907 	9/30/2017	"United Kingdom, Ireland and Malta"
 682	Dark Places	E1	$892 	1/22/2017	"United Kingdom, Ireland and Malta"
-683	Some Like It Hot (2016)	Indep.	$883 	12/30/2017	"United Kingdom, Ireland and Malta"
+683	Some Like It Hot	Indep.	$883 	12/30/2017	"United Kingdom, Ireland and Malta"
 684	The Seventh Fire	Metrodome	$865 	5/13/2017	"United Kingdom, Ireland and Malta"
 685	Crazy About Tiffany's	Dogwoof	$851 	6/24/2017	"United Kingdom, Ireland and Malta"
 686	Taking Stock	Swipe	$837 	2/5/2017	"United Kingdom, Ireland and Malta"
@@ -2544,7 +2544,7 @@ rank	title	distributor	gross	release	country
 690	Motley's Law	Indep.	$739 	4/1/2017	"United Kingdom, Ireland and Malta"
 691	A Flickering Truth	Studio Canal	$734 	4/29/2017	"United Kingdom, Ireland and Malta"
 692	Loro chi?	WB	$717 	3/4/2017	"United Kingdom, Ireland and Malta"
-693	Breakdown (2016)	Soda	$713 	1/15/2017	"United Kingdom, Ireland and Malta"
+693	Breakdown	Soda	$713 	1/15/2017	"United Kingdom, Ireland and Malta"
 694	Aatishbaazi Ishq	Filmonix	$705 	10/14/2017	"United Kingdom, Ireland and Malta"
 695	Kavi Uddheshichathu..?	Aashirvad	$646 	10/14/2017	"United Kingdom, Ireland and Malta"
 696	Oozham	RFT	$624 	10/7/2017	"United Kingdom, Ireland and Malta"
@@ -2571,7 +2571,7 @@ rank	title	distributor	gross	release	country
 717	Ming of Harlem	Soda	$287 	7/22/2017	"United Kingdom, Ireland and Malta"
 718	Rekka	Swamy	$282 	10/14/2017	"United Kingdom, Ireland and Malta"
 719	The Hexecutioners	Studio Canal	$276 	2/26/2017	"United Kingdom, Ireland and Malta"
-720	The Neighbor (2016)	Arrow	$268 	9/16/2017	"United Kingdom, Ireland and Malta"
+720	The Neighbor	Arrow	$268 	9/16/2017	"United Kingdom, Ireland and Malta"
 721	Dragon Blade	n/a	$253 	1/15/2017	"United Kingdom, Ireland and Malta"
 722	Sarrainodu	Swamy	$239 	4/22/2017	"United Kingdom, Ireland and Malta"
 723	Pandorica	Indep.	$228 	4/1/2017	"United Kingdom, Ireland and Malta"
@@ -2582,7 +2582,7 @@ rank	title	distributor	gross	release	country
 728	A Poem Is a Naked Person (2015 re-issue)	Contemporary Films	$183 	7/8/2017	"United Kingdom, Ireland and Malta"
 729	Streetdance Family	n/a	$148 	6/3/2017	"United Kingdom, Ireland and Malta"
 730	Misconduct	Bulldog	$141 	6/3/2017	"United Kingdom, Ireland and Malta"
-731	Exposed (2015)	Signature	$122 	2/26/2017	"United Kingdom, Ireland and Malta"
+731	Exposed	Signature	$122 	2/26/2017	"United Kingdom, Ireland and Malta"
 732	Yarn	Indep.	$119 	9/23/2017	"United Kingdom, Ireland and Malta"
 733	Precious Cargo	Signature	$113 	7/15/2017	"United Kingdom, Ireland and Malta"
 734	The Ivory Game	Dogwoof	$105 	11/4/2017	"United Kingdom, Ireland and Malta"
@@ -2604,7 +2604,7 @@ rank	title	distributor	gross	release	country
 9	Captain America: Civil War	Disney	"$12,963,449 "	5/4/2017	Italy
 10	Zootopia	Disney	"$12,918,304 "	2/18/2017	Italy
 11	Batman v Superman: Dawn of Justice	WB	"$12,098,949 "	3/24/2017	Italy
-12	The Jungle Book (2016)	Disney	"$11,956,478 "	4/14/2017	Italy
+12	The Jungle Book	Disney	"$11,956,478 "	4/14/2017	Italy
 13	Rogue One: A Star Wars Story	Disney	"$10,860,491 "	12/15/2017	Italy
 14	Mister Felicità	01 Dist.	"$10,739,752 "	12/29/2017	Italy
 15	The Little Prince	Lucky Red	"$10,254,077 "	1/1/2017	Italy
@@ -2624,8 +2624,8 @@ rank	title	distributor	gross	release	country
 29	Creed	WB	"$6,041,276 "	1/14/2017	Italy
 30	X-Men: Apocalypse	Fox	"$5,810,167 "	5/18/2017	Italy
 31	Lo chiamavano Jeeg Robot	Lucky Red	"$5,713,331 "	2/25/2017	Italy
-32	Passengers (2016)	Sony	"$5,483,748 "	12/30/2017	Italy
-33	The Girl on the Train (2016)	LFG	"$5,380,555 "	11/3/2017	Italy
+32	Passengers	Sony	"$5,483,748 "	12/30/2017	Italy
+33	The Girl on the Train	LFG	"$5,380,555 "	11/3/2017	Italy
 34	The Big Short	UPI	"$5,302,931 "	1/7/2017	Italy
 35	The Legend of Tarzan	WB	"$5,000,000 "	7/14/2017	Italy
 36	Trolls	Fox	"$4,911,414 "	10/27/2017	Italy
@@ -2639,12 +2639,12 @@ rank	title	distributor	gross	release	country
 44	Cafe Society	WB	"$4,034,370 "	9/29/2017	Italy
 45	Warcraft	UPI	"$3,976,000 "	6/1/2017	Italy
 46	In guerra per amore	01 Dist.	"$3,916,517 "	10/27/2017	Italy
-47	Point Break (2015)	Eagle	"$3,772,867 "	1/27/2017	Italy
+47	Point Break	Eagle	"$3,772,867 "	1/27/2017	Italy
 48	Non c'è più religione	01 Dist.	"$3,770,594 "	12/8/2017	Italy
 49	The Angry Birds Movie	Sony	"$3,606,544 "	6/15/2017	Italy
 50	The Divergent Series: Allegiant	Eagle	"$3,465,627 "	3/9/2017	Italy
 51	La corrispondenza	01 Dist.	"$3,449,086 "	1/14/2017	Italy
-52	Heidi (2015)	Lucky Red	"$3,360,009 "	3/24/2017	Italy
+52	Heidi	Lucky Red	"$3,360,009 "	3/24/2017	Italy
 53	Dirty Grandpa	Eagle	"$3,327,045 "	4/13/2017	Italy
 54	Now You See Me 2	Medusa	"$3,227,428 "	6/8/2017	Italy
 55	London Has Fallen	M2	"$3,137,843 "	3/3/2017	Italy
@@ -2656,9 +2656,9 @@ rank	title	distributor	gross	release	country
 61	The Conjuring 2	WB	"$2,800,000 "	6/23/2017	Italy
 62	Joy	Fox	"$2,792,298 "	1/28/2017	Italy
 63	Star Trek Beyond	PPI	"$2,709,041 "	7/21/2017	Italy
-64	Ghostbusters (2016)	Sony	"$2,690,438 "	7/28/2017	Italy
+64	Ghostbusters	Sony	"$2,690,438 "	7/28/2017	Italy
 65	Ouija: Origin of Evil	UPI	"$2,675,728 "	10/27/2017	Italy
-66	Masterminds (2016)	Lucky Red	"$2,643,130 "	11/10/2017	Italy
+66	Masterminds	Lucky Red	"$2,643,130 "	11/10/2017	Italy
 67	War Dogs	WB	"$2,537,742 "	9/15/2017	Italy
 68	Se mi lasci non vale	WB	"$2,479,399 "	1/21/2017	Italy
 69	Julieta	WB	"$2,476,404 "	5/26/2017	Italy
@@ -2668,12 +2668,12 @@ rank	title	distributor	gross	release	country
 73	The Shallows	Sony	"$2,404,408 "	8/25/2017	Italy
 74	Zoolander 2	UPI	"$2,359,733 "	2/11/2017	Italy
 75	Non si ruba a casa dei ladri	Medusa	"$2,359,147 "	11/3/2017	Italy
-76	Tiramisù (2016)	Medusa	"$2,299,588 "	2/25/2017	Italy
+76	Tiramisù	Medusa	"$2,299,588 "	2/25/2017	Italy
 77	Qualcosa di nuovo	01 Dist.	"$2,255,165 "	10/13/2017	Italy
-78	The Boy (2016)	Eagle	"$2,242,605 "	5/12/2017	Italy
+78	The Boy	Eagle	"$2,242,605 "	5/12/2017	Italy
 79	Nocturnal Animals	UPI	"$2,241,355 "	11/17/2017	Italy
 80	La cena di Natale	01 Dist.	"$2,236,363 "	11/24/2017	Italy
-81	Race (2016)	Eagle	"$2,233,479 "	3/31/2017	Italy
+81	Race	Eagle	"$2,233,479 "	3/31/2017	Italy
 82	Carol	Lucky Red	"$2,150,706 "	1/5/2017	Italy
 83	Pele: Birth of a Legend	M2	"$2,138,372 "	5/26/2017	Italy
 84	Teenage Mutant Ninja Turtles: Out of the Shadows	PPI	"$2,128,773 "	7/7/2017	Italy
@@ -2681,19 +2681,19 @@ rank	title	distributor	gross	release	country
 86	How to Be Single	WB	"$2,100,000 "	2/11/2017	Italy
 87	Jack Reacher: Never Go Back	PPI	"$2,059,766 "	10/20/2017	Italy
 88	Come diventare grandi nonostante i genitori	Disney	"$2,038,275 "	11/24/2017	Italy
-89	Macbeth (2015)	n/a	"$1,970,253 "	1/5/2017	Italy
-90	The Magnificent Seven (2016)	Sony	"$1,924,842 "	9/22/2017	Italy
+89	Macbeth	n/a	"$1,970,253 "	1/5/2017	Italy
+90	The Magnificent Seven	Sony	"$1,924,842 "	9/22/2017	Italy
 91	My Big Fat Greek Wedding 2	UPI	"$1,901,579 "	3/24/2017	Italy
 92	The Dressmaker	Eagle	"$1,896,834 "	4/28/2017	Italy
 93	Vita Cuore e Battito	n/a	"$1,836,942 "	3/17/2017	Italy
 94	The Accountant	WB	"$1,800,000 "	10/27/2017	Italy
 95	Lights Out	WB	"$1,800,000 "	8/4/2017	Italy
-96	Forever Young (2016)	Medusa	"$1,771,103 "	3/10/2017	Italy
-97	Summertime (2016)	01 Dist.	"$1,763,834 "	9/14/2017	Italy
+96	Forever Young	Medusa	"$1,771,103 "	3/10/2017	Italy
+97	Summertime	01 Dist.	"$1,763,834 "	9/14/2017	Italy
 98	Assolo	WB	"$1,760,138 "	1/5/2017	Italy
 99	Che vuoi che sia	WB	"$1,728,588 "	11/10/2017	Italy
 100	Un paese quasi perfetto	01 Dist.	"$1,714,707 "	3/24/2017	Italy
-101	Concussion (2015)	WB	"$1,709,943 "	4/21/2017	Italy
+101	Concussion	WB	"$1,709,943 "	4/21/2017	Italy
 102	Snowden	BIM	"$1,699,527 "	11/24/2017	Italy
 103	The Purge: Election Year	UPI	"$1,672,000 "	7/28/2017	Italy
 104	Tini: El gran cambio de Violetta	Disney	"$1,661,489 "	5/12/2017	Italy
@@ -2708,7 +2708,7 @@ rank	title	distributor	gross	release	country
 113	Storks	WB	"$1,413,945 "	10/20/2017	Italy
 114	"I, Daniel Blake"	Cineama	"$1,412,911 "	10/20/2017	Italy
 115	Quel bravo ragazzo	Mediafilm	"$1,365,822 "	11/17/2017	Italy
-116	Robinson Crusoe (2016)	Notorious	"$1,324,987 "	5/5/2017	Italy
+116	Robinson Crusoe	Notorious	"$1,324,987 "	5/5/2017	Italy
 117	Eiga Doraemon Nobita no Space Heroes	Lucky Red	"$1,295,875 "	1/28/2017	Italy
 118	Triple 9	M2	"$1,294,802 "	4/21/2017	Italy
 119	La verità sta in cielo	01 Dist.	"$1,282,273 "	10/6/2017	Italy
@@ -2724,23 +2724,23 @@ rank	title	distributor	gross	release	country
 129	Steve Jobs	UPI	"$1,143,303 "	1/21/2017	Italy
 130	Monster Hunt	Micro	"$1,138,689 "	5/12/2017	Italy
 131	The Beatles: Eight Days a Week - The Touring Years	Lucky Red	"$1,126,252 "	9/15/2017	Italy
-132	Criminal (2016)	Notorious	"$1,121,423 "	4/13/2017	Italy
+132	Criminal	Notorious	"$1,121,423 "	4/13/2017	Italy
 133	Goosebumps	WB	"$1,107,515 "	1/21/2017	Italy
 134	A Street Cat Named Bob	Notorious	"$1,096,723 "	11/10/2017	Italy
 135	Deepwater Horizon	Leone	"$1,058,198 "	10/6/2017	Italy
 136	Sausage Party	Sony	"$1,043,249 "	11/3/2017	Italy
 137	Central Intelligence	UPI	"$1,036,819 "	7/14/2017	Italy
-138	Nine Lives (2016)	Lucky Red	"$1,027,515 "	12/8/2017	Italy
+138	Nine Lives	Lucky Red	"$1,027,515 "	12/8/2017	Italy
 139	Captain Fantastic	Good	"$1,027,060 "	12/8/2017	Italy
-140	Ben-Hur (2016)	PPI	"$1,005,489 "	9/29/2017	Italy
+140	Ben-Hur	PPI	"$1,005,489 "	9/29/2017	Italy
 141	Before I Wake	Koch	"$972,423 "	5/25/2017	Italy
 142	Dragon Blade	Micro	"$963,938 "	6/30/2017	Italy
 143	Genius	Eagle	"$899,000 "	11/10/2017	Italy
-144	High Strung (2016)	Eagle	"$894,427 "	8/18/2017	Italy
+144	High Strung	Eagle	"$894,427 "	8/18/2017	Italy
 145	Bad Santa 2	Koch	"$894,066 "	12/8/2017	Italy
 146	Blair Witch	Leone	"$885,520 "	9/21/2017	Italy
 147	Miami Beach	01 Dist.	"$877,095 "	6/1/2017	Italy
-148	The Gift (2015)	Koch	"$866,127 "	3/3/2017	Italy
+148	The Gift	Koch	"$866,127 "	3/3/2017	Italy
 149	Office Christmas Party	PPI	"$828,115 "	12/8/2017	Italy
 150	Irreplaceable (Médecin de campagne)	BIM	"$827,942 "	12/22/2017	Italy
 151	Nemici per la pelle	n/a	"$818,549 "	4/14/2017	Italy
@@ -2792,7 +2792,7 @@ rank	title	distributor	gross	release	country
 197	Neruda	Good	"$385,252 "	10/13/2017	Italy
 198	The Cobbler	Barter	"$381,355 "	7/21/2017	Italy
 199	Son of Saul	Teodora	"$377,072 "	1/21/2017	Italy
-200	Truman (2015)	Satine	"$370,257 "	4/21/2017	Italy
+200	Truman	Satine	"$370,257 "	4/21/2017	Italy
 201	Mountains May Depart	BIM	"$361,515 "	5/5/2017	Italy
 202	Shut In	Notorious	"$360,316 "	12/8/2017	Italy
 203	La guerre des tuques (Snowtime!)	Notorious	"$352,867 "	11/24/2017	Italy
@@ -2810,7 +2810,7 @@ rank	title	distributor	gross	release	country
 215	Maggie's Plan	Adler	"$306,447 "	6/29/2017	Italy
 216	Bastille Day	Eagle	"$303,114 "	7/14/2017	Italy
 217	PAW Patrol	Notorious	"$303,032 "	12/22/2017	Italy
-218	Chocolat (2016)	n/a	"$291,881 "	4/7/2017	Italy
+218	Chocolat	n/a	"$291,881 "	4/7/2017	Italy
 219	Elvis & Nixon	Videa	"$285,111 "	9/22/2017	Italy
 220	The Commune (Kollektivet)	BIM	"$282,780 "	3/31/2017	Italy
 221	Skiptrace	Notorious	"$281,597 "	7/28/2017	Italy
@@ -2847,7 +2847,7 @@ rank	title	distributor	gross	release	country
 252	Fack ju Göhte 2	Medusa	"$180,545 "	9/14/2017	Italy
 253	Victor Frankenstein	Fox	"$169,460 "	4/7/2017	Italy
 254	Pericle il nero	BIM	"$167,439 "	5/12/2017	Italy
-255	Trumbo (2015)	Eagle	"$163,429 "	2/11/2017	Italy
+255	Trumbo	Eagle	"$163,429 "	2/11/2017	Italy
 256	10 Cloverfield Lane	UPI	"$157,889 "	4/28/2017	Italy
 257	13 Hours: The Secret Soldiers of Benghazi	UPI	"$155,260 "	3/31/2017	Italy
 258	El Clan	01 Dist.	"$147,653 "	8/25/2017	Italy
@@ -2887,11 +2887,11 @@ rank	title	distributor	gross	release	country
 292	Our Little Sister	BIM	"$67,258 "	1/1/2017	Italy
 293	The Forger	M2	"$65,987 "	11/24/2017	Italy
 294	Grotto	n/a	"$64,381 "	4/21/2017	Italy
-295	Weekend (2011)	Teodora	"$63,526 "	3/10/2017	Italy
+295	Weekend	Teodora	"$63,526 "	3/10/2017	Italy
 296	Avis de mistral	n/a	"$62,677 "	4/13/2017	Italy
 297	Ti guardo (From Afar)	n/a	"$62,328 "	1/21/2017	Italy
-298	Stonewall (2015)	Adler	"$62,048 "	5/5/2017	Italy
-299	Idol (2016)	Adler	"$60,526 "	4/14/2017	Italy
+298	Stonewall	Adler	"$62,048 "	5/5/2017	Italy
+299	Idol	Adler	"$60,526 "	4/14/2017	Italy
 300	The Zero Theorem	Minerva	"$58,144 "	7/7/2017	Italy
 301	Eddie the Eagle	Fox	"$57,092 "	6/2/2017	Italy
 302	The End of the Tour	Adler	"$51,781 "	2/11/2017	Italy
@@ -2922,7 +2922,7 @@ rank	title	distributor	gross	release	country
 14	Fantastic Beasts and Where To Find Them	ACME	"$321,578 "	11/18/2017	Lithuania
 15	Kung Fu Panda 3	Fox	"$305,576 "	3/18/2017	Lithuania
 16	Patriotai	n/a	"$290,907 "	1/29/2017	Lithuania
-17	Passengers (2016)	ACME	"$286,628 "	12/30/2017	Lithuania
+17	Passengers	ACME	"$286,628 "	12/30/2017	Lithuania
 18	The Revenant	n/a	"$279,015 "	1/29/2017	Lithuania
 19	Moana	n/a	"$268,620 "	11/25/2017	Lithuania
 20	Hacksaw Ridge	ACME	"$255,858 "	11/4/2017	Lithuania
@@ -2947,7 +2947,7 @@ rank	title	distributor	gross	release	country
 39	The Hateful Eight	n/a	"$143,329 "	1/8/2017	Lithuania
 40	How to Be Single	ACME	"$139,978 "	2/12/2017	Lithuania
 41	Me Before You	ACME	"$138,695 "	6/3/2017	Lithuania
-42	Robinson Crusoe (2016)	ACME	"$137,613 "	2/12/2017	Lithuania
+42	Robinson Crusoe	ACME	"$137,613 "	2/12/2017	Lithuania
 43	Captain America: Civil War	Disney	"$136,836 "	5/6/2017	Lithuania
 44	Ozzy	Prioro	"$133,425 "	11/4/2017	Lithuania
 45	The Divergent Series: Allegiant	ACME	"$128,853 "	3/18/2017	Lithuania
@@ -2960,7 +2960,7 @@ rank	title	distributor	gross	release	country
 52	Miss Peregrine's Home for Peculiar Children	Fox	"$110,898 "	9/30/2017	Lithuania
 53	Lights Out	ACME	"$109,382 "	7/22/2017	Lithuania
 54	The Legend of Tarzan	ACME	"$103,289 "	7/8/2017	Lithuania
-55	The Jungle Book (2016)	Disney	"$102,277 "	4/15/2017	Lithuania
+55	The Jungle Book	Disney	"$102,277 "	4/15/2017	Lithuania
 56	Nerve	ACME	"$102,001 "	7/29/2017	Lithuania
 57	The Brothers Grimsby	ACME	"$101,197 "	3/11/2017	Lithuania
 58	Yolki 5	GPI	"$99,636 "	12/30/2017	Lithuania
@@ -2981,30 +2981,30 @@ rank	title	distributor	gross	release	country
 73	London Has Fallen	Garsu	"$72,668 "	3/18/2017	Lithuania
 74	Sully	ACME	"$69,576 "	9/9/2017	Lithuania
 75	The Accountant	ACME	"$68,968 "	10/28/2017	Lithuania
-76	The Girl on the Train (2016)	ACME	"$68,780 "	10/7/2017	Lithuania
+76	The Girl on the Train	ACME	"$68,780 "	10/7/2017	Lithuania
 77	Zemletriasenije (The Earthquake)	Best	"$65,965 "	12/2/2017	Lithuania
 78	The 5th Wave	ACME	"$64,811 "	1/22/2017	Lithuania
 79	Sheep & Wolves (Volki i ovtsy. Beeezumnoe prevrashchenie)	ACME	"$64,251 "	4/29/2017	Lithuania
 80	Jack Reacher: Never Go Back	NCG	"$62,186 "	10/21/2017	Lithuania
 81	Blair Witch	ACME	"$61,139 "	10/14/2017	Lithuania
 82	Neighbors 2: Sorority Rising	Forum	"$60,533 "	5/13/2017	Lithuania
-83	Love (2015)	Incognito	"$58,042 "	1/15/2017	Lithuania
+83	Love	Incognito	"$58,042 "	1/15/2017	Lithuania
 84	Fifty Shades of Black	ACME	"$57,883 "	2/5/2017	Lithuania
 85	La guerre des tuques (Snowtime!)	Best	"$57,822 "	2/26/2017	Lithuania
 86	Cafe Society	ACME	"$57,453 "	8/5/2017	Lithuania
-87	The Boy (2016)	ACME	"$52,566 "	1/22/2017	Lithuania
+87	The Boy	ACME	"$52,566 "	1/22/2017	Lithuania
 88	Joy	n/a	"$50,453 "	1/22/2017	Lithuania
 89	Kubo and the Two Strings	NCG	"$50,419 "	10/7/2017	Lithuania
 90	The Light Between Oceans	ACME	"$49,281 "	11/18/2017	Lithuania
 91	The Purge: Election Year	UPI	"$48,146 "	7/8/2017	Lithuania
-92	Ben-Hur (2016)	NCG	"$44,406 "	8/26/2017	Lithuania
+92	Ben-Hur	NCG	"$44,406 "	8/26/2017	Lithuania
 93	Star Trek Beyond	NCG	"$44,072 "	7/22/2017	Lithuania
 94	The Forest	ACME	"$43,729 "	1/8/2017	Lithuania
-95	High Strung (2016)	ACME	"$43,632 "	4/8/2017	Lithuania
+95	High Strung	ACME	"$43,632 "	4/8/2017	Lithuania
 96	Ledokol	GPI	"$43,388 "	11/11/2017	Lithuania
 97	Odnoklassnitsy	ACME	"$43,113 "	6/24/2017	Lithuania
 98	Mafia: Survival Game	Best	"$42,965 "	1/1/2017	Lithuania
-99	The Magnificent Seven (2016)	Sony	"$42,615 "	9/23/2017	Lithuania
+99	The Magnificent Seven	Sony	"$42,615 "	9/23/2017	Lithuania
 100	Deepwater Horizon	ACME	"$42,528 "	9/30/2017	Lithuania
 101	The Danish Girl	Forum	"$42,441 "	2/5/2017	Lithuania
 102	All Roads Lead to Rome	n/a	"$41,876 "	3/11/2017	Lithuania
@@ -3013,7 +3013,7 @@ rank	title	distributor	gross	release	country
 105	Spotlight	n/a	"$41,073 "	2/19/2017	Lithuania
 106	The Boss	Forum	"$39,061 "	4/15/2017	Lithuania
 107	Eddie the Eagle	Fox	"$39,054 "	4/1/2017	Lithuania
-108	Masterminds (2016)	GPI	"$38,756 "	10/14/2017	Lithuania
+108	Masterminds	GPI	"$38,756 "	10/14/2017	Lithuania
 109	The Nice Guys	ACME	"$38,600 "	5/27/2017	Lithuania
 110	The Big Short	Forum	"$37,220 "	1/15/2017	Lithuania
 111	The Autopsy of Jane Doe	ACME	"$36,234 "	12/30/2017	Lithuania
@@ -3029,7 +3029,7 @@ rank	title	distributor	gross	release	country
 121	Hardcore Henry	ACME	"$30,571 "	4/15/2017	Lithuania
 122	The Shallows	Sony	"$28,812 "	8/12/2017	Lithuania
 123	Guardians of the Night (Nochnye strazhi)	Best	"$28,552 "	9/2/2017	Lithuania
-124	Criminal (2016)	ACME	"$28,279 "	4/22/2017	Lithuania
+124	Criminal	ACME	"$28,279 "	4/22/2017	Lithuania
 125	Quackerz	ACME	"$27,282 "	4/1/2017	Lithuania
 126	Snowden	ACME	"$26,337 "	9/23/2017	Lithuania
 127	"Hail, Caesar!"	Forum	"$26,261 "	2/19/2017	Lithuania
@@ -3038,11 +3038,11 @@ rank	title	distributor	gross	release	country
 130	Pixies	n/a	"$24,680 "	5/27/2017	Lithuania
 131	Genius	Garsu	"$24,616 "	7/15/2017	Lithuania
 132	Shut In	ACME	"$23,537 "	11/18/2017	Lithuania
-133	Ghostbusters (2016)	ACME	"$22,761 "	7/29/2017	Lithuania
+133	Ghostbusters	ACME	"$22,761 "	7/29/2017	Lithuania
 134	Pete's Dragon	n/a	"$22,729 "	9/9/2017	Lithuania
 135	Zoolander 2	Forum	"$22,378 "	2/26/2017	Lithuania
 136	Bad Santa 2	n/a	"$22,132 "	12/16/2017	Lithuania
-137	Concussion (2015)	ACME	"$21,974 "	2/19/2017	Lithuania
+137	Concussion	ACME	"$21,974 "	2/19/2017	Lithuania
 138	The Girl with All the Gifts	Best	"$21,354 "	9/30/2017	Lithuania
 139	By the Sea	Forum	"$21,152 "	1/1/2017	Lithuania
 140	Seneca's Day (Senekos Diena)	GPI	"$21,121 "	9/30/2017	Lithuania
@@ -3062,7 +3062,7 @@ rank	title	distributor	gross	release	country
 154	Mr. Right	ACME	"$14,930 "	4/29/2017	Lithuania
 155	Khoroshiy malchik (The Good Boy)	Best	"$14,547 "	11/25/2017	Lithuania
 156	2 Nights Till Morning (2 yötä aamuun)	KP	"$14,439 "	9/2/2017	Lithuania
-157	Nine Lives (2016)	GPI	"$14,165 "	8/26/2017	Lithuania
+157	Nine Lives	GPI	"$14,165 "	8/26/2017	Lithuania
 158	Bastille Day	Garsu	"$13,963 "	5/13/2017	Lithuania
 159	War on Everyone	n/a	"$13,882 "	11/25/2017	Lithuania
 160	Demolition	ACME	"$13,635 "	4/15/2017	Lithuania
@@ -3079,9 +3079,9 @@ rank	title	distributor	gross	release	country
 171	A Bigger Splash	ACME	"$8,481 "	5/6/2017	Lithuania
 172	Our Kind of Traitor	ACME	"$7,902 "	5/20/2017	Lithuania
 173	The 9th Life of Louis Drax	n/a	"$7,838 "	9/2/2017	Lithuania
-174	An (2015)	KP	"$6,951 "	2/26/2017	Lithuania
+174	An	KP	"$6,951 "	2/26/2017	Lithuania
 175	Un homme à la hauteur (Up for Love)	Garsu	"$6,755 "	6/24/2017	Lithuania
-176	Trumbo (2015)	n/a	"$6,244 "	2/5/2017	Lithuania
+176	Trumbo	n/a	"$6,244 "	2/5/2017	Lithuania
 177	Éperdument (Down by Love)	Garsu	"$6,083 "	5/27/2017	Lithuania
 178	Les innocentes	KP	"$5,453 "	12/9/2017	Lithuania
 179	Macadam Stories (Asphalte)	KP	"$5,133 "	10/14/2017	Lithuania
@@ -3108,9 +3108,9 @@ rank	title	distributor	gross	release	country
 200	Ma ma	A-One	"$1,731 "	4/29/2017	Lithuania
 201	"Connasse, princesse des coeurs"	n/a	"$1,531 "	4/22/2017	Lithuania
 202	Moonwalkers	Garsu	"$1,478 "	3/25/2017	Lithuania
-203	The Daughter (2015)	Prioro	"$1,398 "	9/23/2017	Lithuania
+203	The Daughter	Prioro	"$1,398 "	9/23/2017	Lithuania
 204	Son of Saul	Kino Aljansas	"$1,275 "	3/4/2017	Lithuania
-205	Brothers (2015)	KP	"$1,160 "	12/26/2017	Lithuania
+205	Brothers	KP	"$1,160 "	12/26/2017	Lithuania
 206	Les Visiteurs 3: la Terreur (The Visitors: Bastille Day)	Top Film	"$1,115 "	5/20/2017	Lithuania
 207	Les Cowboys	n/a	"$1,045 "	1/2/2017	Lithuania
 208	Fúsi (Virgin Mountain)	Kino Aljansas	$791 	3/11/2017	Lithuania
@@ -3118,7 +3118,7 @@ rank	title	distributor	gross	release	country
 210	Ernelláék Farkaséknál	Kino Aljansas	$188 	12/2/2017	Lithuania
 1	Bridget Jones's Baby	UPI	"$11,553,946 "	9/15/2017	Netherlands
 2	Fantastic Beasts and Where To Find Them	WB	"$11,020,334 "	11/17/2017	Netherlands
-3	The Jungle Book (2016)	Disney	"$10,665,030 "	4/14/2017	Netherlands
+3	The Jungle Book	Disney	"$10,665,030 "	4/14/2017	Netherlands
 4	Finding Dory	Disney	"$9,976,143 "	6/29/2017	Netherlands
 5	The Secret Life of Pets	UPI	"$9,005,205 "	8/4/2017	Netherlands
 6	Sing	UPI	"$8,454,871 "	12/15/2017	Netherlands
@@ -3140,7 +3140,7 @@ rank	title	distributor	gross	release	country
 22	Trolls	Fox	"$3,847,213 "	10/13/2017	Netherlands
 23	Rokjesdag	E1	"$3,703,315 "	3/10/2017	Netherlands
 24	Doctor Strange	Disney	"$3,614,533 "	10/27/2017	Netherlands
-25	Passengers (2016)	Sony	"$3,485,180 "	12/22/2017	Netherlands
+25	Passengers	Sony	"$3,485,180 "	12/22/2017	Netherlands
 26	The Hateful Eight	E1	"$3,481,841 "	1/7/2017	Netherlands
 27	Ice Age: Collision Course	Fox	"$3,398,535 "	7/14/2017	Netherlands
 28	Kung Fu Panda 3	WB	"$3,027,409 "	4/14/2017	Netherlands
@@ -3167,17 +3167,17 @@ rank	title	distributor	gross	release	country
 49	Jack Reacher: Never Go Back	PPI	"$1,719,007 "	10/20/2017	Netherlands
 50	Alice Through the Looking Glass	Disney	"$1,709,532 "	5/26/2017	Netherlands
 51	De Zevende Hemel	E1	"$1,683,160 "	11/24/2017	Netherlands
-52	The Magnificent Seven (2016)	Sony	"$1,655,577 "	9/22/2017	Netherlands
+52	The Magnificent Seven	Sony	"$1,655,577 "	9/22/2017	Netherlands
 53	Absolutely Fabulous: The Movie	Fox	"$1,643,473 "	7/21/2017	Netherlands
 54	Collateral Beauty	WB	"$1,623,511 "	12/15/2017	Netherlands
-55	The Girl on the Train (2016)	E1	"$1,610,246 "	10/6/2017	Netherlands
+55	The Girl on the Train	E1	"$1,610,246 "	10/6/2017	Netherlands
 56	Woezel & Pip Op zoek naar de Sloddervos! (Woozle & Pip the Movie)	DFW	"$1,587,075 "	1/21/2017	Netherlands
 57	Dirty Grandpa	DFW	"$1,544,687 "	2/17/2017	Netherlands
 58	Hartenstrijd	Indep.	"$1,510,128 "	10/27/2017	Netherlands
 59	Storks	WB	"$1,504,788 "	9/28/2017	Netherlands
 60	Mechanic: Resurrection	DFW	"$1,467,507 "	9/1/2017	Netherlands
 61	Office Christmas Party	E1	"$1,426,121 "	12/8/2017	Netherlands
-62	Point Break (2015)	DFW	"$1,387,810 "	1/7/2017	Netherlands
+62	Point Break	DFW	"$1,387,810 "	1/7/2017	Netherlands
 63	Hacksaw Ridge	Splendid	"$1,380,213 "	11/3/2017	Netherlands
 64	Mother's Day	DFW	"$1,367,527 "	4/28/2017	Netherlands
 65	De Club van Sinterklaas & Geblaf op de Pakjesboot	DFW	"$1,262,972 "	10/13/2017	Netherlands
@@ -3188,7 +3188,7 @@ rank	title	distributor	gross	release	country
 70	War Dogs	WB	"$1,200,000 "	8/18/2017	Netherlands
 71	Sully	WB	"$1,194,038 "	9/8/2017	Netherlands
 72	The 5th Wave	UPI	"$1,184,553 "	1/28/2017	Netherlands
-73	Ben-Hur (2016)	PPI	"$1,183,937 "	8/25/2017	Netherlands
+73	Ben-Hur	PPI	"$1,183,937 "	8/25/2017	Netherlands
 74	Arrival	Sony	"$1,180,385 "	11/10/2017	Netherlands
 75	Tonio	SFD	"$1,127,097 "	10/13/2017	Netherlands
 76	Hart Beat	E1	"$1,112,059 "	10/13/2017	Netherlands
@@ -3208,7 +3208,7 @@ rank	title	distributor	gross	release	country
 90	Ride Along 2	UPI	"$865,786 "	2/4/2017	Netherlands
 91	Meester Kikker	DFW	"$848,025 "	7/28/2017	Netherlands
 92	Nerve	Belga	"$841,883 "	9/22/2017	Netherlands
-93	Robinson Crusoe (2016)	Belga	"$838,062 "	2/17/2017	Netherlands
+93	Robinson Crusoe	Belga	"$838,062 "	2/17/2017	Netherlands
 94	Fissa	JFD	"$819,142 "	2/4/2017	Netherlands
 95	Capture the Flag (Atrapa la bandera)	UPI	"$811,895 "	1/13/2017	Netherlands
 96	The Big Short	UPI	"$805,140 "	1/21/2017	Netherlands
@@ -3218,7 +3218,7 @@ rank	title	distributor	gross	release	country
 100	"I, Daniel Blake"	Cineart	"$765,666 "	11/24/2017	Netherlands
 101	10 Cloverfield Lane	UPI	"$758,514 "	3/10/2017	Netherlands
 102	MeesterSpion	E1	"$732,898 "	10/6/2017	Netherlands
-103	Ghostbusters (2016)	Sony	"$732,480 "	7/14/2017	Netherlands
+103	Ghostbusters	Sony	"$732,480 "	7/14/2017	Netherlands
 104	Captain Fantastic	Cineart	"$723,572 "	9/1/2017	Netherlands
 105	Sausage Party	Sony	"$714,631 "	9/8/2017	Netherlands
 106	La tortue rouge (The Red Turtle)	Lumiere	"$708,976 "	7/7/2017	Netherlands
@@ -3247,13 +3247,13 @@ rank	title	distributor	gross	release	country
 129	Blair Witch	Belga	"$469,215 "	9/15/2017	Netherlands
 130	Perfetti sconosciuti	ArtiFilm	"$466,045 "	11/17/2017	Netherlands
 131	Eye in the Sky	E1	"$447,301 "	5/12/2017	Netherlands
-132	Chocolat (2016)	PPI	"$438,355 "	4/21/2017	Netherlands
+132	Chocolat	PPI	"$438,355 "	4/21/2017	Netherlands
 133	The Choice	E1	"$417,484 "	2/4/2017	Netherlands
 134	The Infiltrator	DFW	"$413,175 "	9/15/2017	Netherlands
 135	Demolition	RIL	"$409,061 "	4/14/2017	Netherlands
 136	Love & Friendship	Cineart	"$403,809 "	5/26/2017	Netherlands
 137	The Commune (Kollektivet)	SFD	"$389,808 "	4/21/2017	Netherlands
-138	The Boy (2016)	n/a	"$386,719 "	1/21/2017	Netherlands
+138	The Boy	n/a	"$386,719 "	1/21/2017	Netherlands
 139	Snowden	Indep.	"$381,667 "	11/10/2017	Netherlands
 140	Julieta	Cineart	"$367,079 "	8/18/2017	Netherlands
 141	De Kinderen van juf Kiet	CD	"$360,197 "	11/24/2017	Netherlands
@@ -3281,29 +3281,29 @@ rank	title	distributor	gross	release	country
 163	13 Hours: The Secret Soldiers of Benghazi	UPI	"$182,041 "	2/4/2017	Netherlands
 164	My Big Fat Greek Wedding 2	E1	"$180,307 "	4/14/2017	Netherlands
 165	Shut In	Indep.	"$170,596 "	12/1/2017	Netherlands
-166	Truman (2015)	Cinemien	"$165,792 "	5/12/2017	Netherlands
+166	Truman	Cinemien	"$165,792 "	5/12/2017	Netherlands
 167	My Scientology Movie	CD	"$163,967 "	5/5/2017	Netherlands
 168	Our Kind of Traitor	E1	"$159,154 "	6/2/2017	Netherlands
 169	Beyond Sleep	SFD	"$156,655 "	2/11/2017	Netherlands
 170	Eddie the Eagle	Fox	"$156,492 "	3/31/2017	Netherlands
 171	Blood Father	SFD	"$153,150 "	9/8/2017	Netherlands
 172	All Roads Lead to Rome	DFW	"$149,099 "	6/1/2017	Netherlands
-173	Nine Lives (2016)	Indep.	"$143,862 "	10/6/2017	Netherlands
+173	Nine Lives	Indep.	"$143,862 "	10/6/2017	Netherlands
 174	Risen	UPI	"$132,628 "	3/24/2017	Netherlands
-175	Race (2016)	E1	"$130,235 "	6/30/2017	Netherlands
+175	Race	E1	"$130,235 "	6/30/2017	Netherlands
 176	Miss You Already	DFW	"$119,063 "	4/7/2017	Netherlands
-177	Idol (2016)	SFD	"$114,108 "	6/1/2017	Netherlands
+177	Idol	SFD	"$114,108 "	6/1/2017	Netherlands
 178	The Beatles: Eight Days a Week - The Touring Years	SFD	"$114,014 "	10/20/2017	Netherlands
 179	Men & Chicken	Imagine	"$113,582 "	5/5/2017	Netherlands
 180	De Held	DFW	"$112,917 "	9/29/2017	Netherlands
 181	Frantz	SFD	"$111,299 "	12/1/2017	Netherlands
-182	Criminal (2016)	Disney	"$107,589 "	8/25/2017	Netherlands
+182	Criminal	Disney	"$107,589 "	8/25/2017	Netherlands
 183	Zoolander 2	UPI	"$103,400 "	2/11/2017	Netherlands
 184	Strike a Pose	Cinemien	"$102,610 "	5/26/2017	Netherlands
 185	Heaven on Earth	SFD	"$100,660 "	7/21/2017	Netherlands
 186	Skiptrace	DFW	"$95,317 "	8/11/2017	Netherlands
 187	Genius	Paradiso	"$94,867 "	10/20/2017	Netherlands
-188	The Daughter (2015)	Cherry	"$94,668 "	9/1/2017	Netherlands
+188	The Daughter	Cherry	"$94,668 "	9/1/2017	Netherlands
 189	Adios Amigos	DFW	"$94,509 "	9/8/2017	Netherlands
 190	A Real Vermeer (Een echte Vermeer)	Cineart	"$92,684 "	11/3/2017	Netherlands
 191	Hardcore Henry	RIL	"$90,959 "	4/21/2017	Netherlands
@@ -3313,7 +3313,7 @@ rank	title	distributor	gross	release	country
 195	Free State of Jones	E1	"$82,167 "	9/1/2017	Netherlands
 196	The Neon Demon	Cineart	"$77,824 "	7/13/2017	Netherlands
 197	The Salesman	Cineart	"$77,007 "	12/8/2017	Netherlands
-198	Black (2015)	n/a	"$75,353 "	1/13/2017	Netherlands
+198	Black	n/a	"$75,353 "	1/13/2017	Netherlands
 199	Un homme à la hauteur (Up for Love)	Cineart	"$71,499 "	5/19/2017	Netherlands
 200	Ants on a Shrimp	CD	"$64,237 "	9/1/2017	Netherlands
 201	Bølgen (The Wave)	DFW	"$63,227 "	5/26/2017	Netherlands
@@ -3326,7 +3326,7 @@ rank	title	distributor	gross	release	country
 208	Fuocoammare (Fire at Sea)	Cineart	"$52,938 "	10/6/2017	Netherlands
 209	Term Life	DFW	"$52,520 "	6/30/2017	Netherlands
 210	Bacalaureat (Graduation)	Lumiere	"$51,930 "	9/22/2017	Netherlands
-211	Trumbo (2015)	SFD	"$50,285 "	4/7/2017	Netherlands
+211	Trumbo	SFD	"$50,285 "	4/7/2017	Netherlands
 212	Remember	Paradiso	"$47,442 "	5/19/2017	Netherlands
 213	Midnight Special	WB	"$44,696 "	5/12/2017	Netherlands
 214	Quand on a 17 ans	Lumiere	"$44,656 "	5/5/2017	Netherlands
@@ -3343,7 +3343,7 @@ rank	title	distributor	gross	release	country
 225	Freeheld	SFD	"$31,904 "	5/19/2017	Netherlands
 226	Les innocentes	n/a	"$31,551 "	3/10/2017	Netherlands
 227	"Jheronimus Bosch, Touched by the Devil"	AMF	"$29,374 "	1/7/2017	Netherlands
-228	Chronic (2015)	SFD	"$29,285 "	8/4/2017	Netherlands
+228	Chronic	SFD	"$29,285 "	8/4/2017	Netherlands
 229	Oasis: Supersonic	Cherry	"$28,777 "	10/6/2017	Netherlands
 230	The Family Fang	DFW	"$28,104 "	7/21/2017	Netherlands
 231	The 9th Life of Louis Drax	E1	"$25,612 "	11/10/2017	Netherlands
@@ -3375,7 +3375,7 @@ rank	title	distributor	gross	release	country
 9	Deadpool	Fox	"$4,267,159 "	2/12/2017	Norway
 10	Bridget Jones's Baby	UPI	"$4,236,105 "	9/16/2017	Norway
 11	Fantastic Beasts and Where To Find Them	SF Norge	"$3,868,520 "	11/18/2017	Norway
-12	The Jungle Book (2016)	Disney	"$3,677,980 "	4/14/2017	Norway
+12	The Jungle Book	Disney	"$3,677,980 "	4/14/2017	Norway
 13	Birkebeinerne (The Last King)	Nordisk	"$3,588,955 "	2/11/2017	Norway
 14	The Secret Life of Pets	UPI	"$3,437,457 "	6/24/2017	Norway
 15	The Revenant	Fox	"$3,418,201 "	1/22/2017	Norway
@@ -3396,7 +3396,7 @@ rank	title	distributor	gross	release	country
 30	The Good Dinosaur	Disney	"$1,789,446 "	1/21/2017	Norway
 31	Independence Day: Resurgence	Fox	"$1,746,172 "	7/1/2017	Norway
 32	Doctor Strange	Disney	"$1,718,114 "	11/4/2017	Norway
-33	Passengers (2016)	UIP	"$1,713,653 "	12/25/2017	Norway
+33	Passengers	UIP	"$1,713,653 "	12/25/2017	Norway
 34	The BFG	Nordisk	"$1,645,445 "	8/5/2017	Norway
 35	Warcraft	UPI	"$1,478,289 "	5/27/2017	Norway
 36	Central Intelligence	UPI	"$1,325,511 "	6/17/2017	Norway
@@ -3413,18 +3413,18 @@ rank	title	distributor	gross	release	country
 47	The Divergent Series: Allegiant	Nordisk	"$787,286 "	3/18/2017	Norway
 48	Miss Peregrine's Home for Peculiar Children	Fox	"$730,922 "	10/7/2017	Norway
 49	Jack Reacher: Never Go Back	PPI	"$679,021 "	10/28/2017	Norway
-50	Ghostbusters (2016)	Sony	"$652,681 "	7/22/2017	Norway
+50	Ghostbusters	Sony	"$652,681 "	7/22/2017	Norway
 51	Deepwater Horizon	Nordisk	"$651,995 "	11/4/2017	Norway
 52	Gilberts grusomme hevn	Nordisk	"$645,590 "	9/16/2017	Norway
 53	Alice Through the Looking Glass	Disney	"$614,753 "	5/26/2017	Norway
 54	Why Him?	Fox	"$614,037 "	12/23/2017	Norway
 55	Welcome to Norway	Norsk	"$610,580 "	3/4/2017	Norway
 56	Daddy's Home	UIP	"$575,737 "	1/15/2017	Norway
-57	The Magnificent Seven (2016)	SF Norge	"$562,909 "	9/23/2017	Norway
+57	The Magnificent Seven	SF Norge	"$562,909 "	9/23/2017	Norway
 58	Sausage Party	Sony	"$547,464 "	9/9/2017	Norway
 59	Pete's Dragon	Disney	"$535,667 "	9/30/2017	Norway
 60	Hundreogettåringen som stakk fra regningen og forsvant	Disney	"$530,117 "	12/23/2017	Norway
-61	The Boy (2016)	Selmer	"$506,725 "	4/1/2017	Norway
+61	The Boy	Selmer	"$506,725 "	4/1/2017	Norway
 62	Don't Breathe	Sony	"$496,544 "	9/30/2017	Norway
 63	Supervention 2	SF Norge	"$489,573 "	10/28/2017	Norway
 64	Gråtass gir gass	Sharing	"$483,445 "	9/9/2017	Norway
@@ -3437,9 +3437,9 @@ rank	title	distributor	gross	release	country
 71	The Huntsman Winter's War	UIP	"$411,371 "	4/8/2017	Norway
 72	The Shallows	Sony	"$394,036 "	8/12/2017	Norway
 73	Ride Along 2	UIP	"$393,816 "	1/29/2017	Norway
-74	Grand Hotel (2016)	Euforia	"$386,997 "	4/8/2017	Norway
+74	Grand Hotel	Euforia	"$386,997 "	4/8/2017	Norway
 75	Pettersson und Findus 2 - Das schönste Weihnachten überhaupt	SF Norge	"$362,616 "	11/25/2017	Norway
-76	Robinson Crusoe (2016)	AB Svensk	"$361,825 "	6/3/2017	Norway
+76	Robinson Crusoe	AB Svensk	"$361,825 "	6/3/2017	Norway
 77	The Accountant	SF Norge	"$356,160 "	12/2/2017	Norway
 78	Allied	PPI	"$350,132 "	11/25/2017	Norway
 79	The Boss	UIP	"$346,849 "	4/22/2017	Norway
@@ -3461,7 +3461,7 @@ rank	title	distributor	gross	release	country
 95	Florence Foster Jenkins	SF Norge	"$265,134 "	11/4/2017	Norway
 96	A Conspiracy of Faith (Flaskepost fra P)	Nordisk	"$260,292 "	5/13/2017	Norway
 97	Teenage Mutant Ninja Turtles: Out of the Shadows	PPI	"$258,168 "	6/3/2017	Norway
-98	The Girl on the Train (2016)	Nordisk	"$247,275 "	12/2/2017	Norway
+98	The Girl on the Train	Nordisk	"$247,275 "	12/2/2017	Norway
 99	Rosemari	Norsk	"$247,269 "	9/9/2017	Norway
 100	Blair Witch	Nordisk	"$245,379 "	10/28/2017	Norway
 101	Mother's Day	SF Norge	"$241,189 "	5/6/2017	Norway
@@ -3482,7 +3482,7 @@ rank	title	distributor	gross	release	country
 116	Bone Tomahawk	Another World	"$147,416 "	11/4/2017	Norway
 117	Guldkysten (Gold Coast)	n/a	"$142,641 "	1/15/2017	Norway
 118	Son of Saul	Arthaus	"$142,292 "	2/19/2017	Norway
-119	An (2015)	Arthaus	"$134,449 "	8/5/2017	Norway
+119	An	Arthaus	"$134,449 "	8/5/2017	Norway
 120	Room	UIP	"$131,944 "	2/19/2017	Norway
 121	The Lobster	Selmer	"$129,892 "	8/12/2017	Norway
 122	Tjuvheder	n/a	"$123,681 "	7/8/2017	Norway
@@ -3505,10 +3505,10 @@ rank	title	distributor	gross	release	country
 139	Morgan	Fox	"$82,351 "	9/9/2017	Norway
 140	Youth	Norsk	"$78,800 "	1/28/2017	Norway
 141	Bad Santa 2	Norsk	"$74,885 "	11/25/2017	Norway
-142	Masterminds (2016)	Nordisk	"$74,806 "	10/21/2017	Norway
+142	Masterminds	Nordisk	"$74,806 "	10/21/2017	Norway
 143	Les innocentes	Tour de Force	"$74,129 "	12/30/2017	Norway
 144	Hrútar	Arthaus	"$73,798 "	1/28/2017	Norway
-145	The Secret in their Eyes (2015)	Norsk	"$68,505 "	3/18/2017	Norway
+145	The Secret in their Eyes	Norsk	"$68,505 "	3/18/2017	Norway
 146	Perfetti sconosciuti	Fidalgo	"$60,571 "	12/23/2017	Norway
 147	Steve Jobs	UIP	"$58,991 "	1/22/2017	Norway
 148	Tonari no Totoro (My Neighbor Totoro) [2015 re-issue]	Arthaus	"$56,293 "	11/4/2017	Norway
@@ -3516,9 +3516,9 @@ rank	title	distributor	gross	release	country
 150	Swiss Army Man	Tour de Force	"$51,924 "	10/14/2017	Norway
 151	El clásico	Euforia	"$51,540 "	2/26/2017	Norway
 152	Nocturnal Animals	UPI	"$49,099 "	11/18/2017	Norway
-153	Ben-Hur (2016)	Svensk	"$48,135 "	9/2/2017	Norway
+153	Ben-Hur	Svensk	"$48,135 "	9/2/2017	Norway
 154	Fan	Bollywood	"$46,634 "	4/15/2017	Norway
-155	Human (2015)	Tour de Force	"$45,450 "	4/28/2017	Norway
+155	Human	Tour de Force	"$45,450 "	4/28/2017	Norway
 156	Hell or High Water	Norsk	"$45,267 "	11/11/2017	Norway
 157	Den magiske juleæske (Get Santa)	KontxtFilm	"$42,007 "	12/2/2017	Norway
 158	Under sandet (Land of Mine)	Tour de Force	"$40,236 "	6/24/2017	Norway
@@ -3527,7 +3527,7 @@ rank	title	distributor	gross	release	country
 161	Ae Dil Hai Mushkil	Bollywood	"$38,736 "	10/28/2017	Norway
 162	The Green Inferno	Another World	"$38,080 "	5/6/2017	Norway
 163	Fúsi (Virgin Mountain)	Europa	"$36,229 "	5/13/2017	Norway
-164	Truman (2015)	Another World	"$30,982 "	7/29/2017	Norway
+164	Truman	Another World	"$30,982 "	7/29/2017	Norway
 165	Kabali	Kollywood	"$28,244 "	7/22/2017	Norway
 166	Barneraneren	Tour de Force	"$27,930 "	10/21/2017	Norway
 167	Gods of Egypt	Nordisk	"$26,219 "	4/1/2017	Norway
@@ -3565,7 +3565,7 @@ rank	title	distributor	gross	release	country
 199	Befikre	Bollywood	"$7,487 "	12/9/2017	Norway
 200	Rajini Murugan	n/a	"$6,661 "	1/15/2017	Norway
 201	The Commune (Kollektivet)	Fidalgo	"$6,492 "	6/17/2017	Norway
-202	The Daughter (2015)	Another World	"$5,914 "	12/2/2017	Norway
+202	The Daughter	Another World	"$5,914 "	12/2/2017	Norway
 203	Sardaarji 2	Bollywood	"$5,763 "	6/24/2017	Norway
 204	Þrestir (Sparrows)	Arthaus	"$5,376 "	6/24/2017	Norway
 205	Ixcanul	Tour de Force	"$4,629 "	8/26/2017	Norway
@@ -3591,14 +3591,14 @@ rank	title	distributor	gross	release	country
 18	Trolls	Fox	"$1,206,180 "	10/27/2017	Portugal and Angola
 19	London Has Fallen	Lusomundo	"$1,202,645 "	3/3/2017	Portugal and Angola
 20	Mechanic: Resurrection	Lusomundo	"$1,075,219 "	8/25/2017	Portugal and Angola
-21	The Girl on the Train (2016)	Lusomundo	"$1,070,091 "	10/5/2017	Portugal and Angola
+21	The Girl on the Train	Lusomundo	"$1,070,091 "	10/5/2017	Portugal and Angola
 22	A Canção de Lisboa	n/a	"$1,055,809 "	7/14/2017	Portugal and Angola
 23	Jason Bourne	UPI	"$1,026,723 "	7/28/2017	Portugal and Angola
 24	Sully	WB	"$1,005,655 "	9/8/2017	Portugal and Angola
-25	Passengers (2016)	Sony	"$985,920 "	12/22/2017	Portugal and Angola
+25	Passengers	Sony	"$985,920 "	12/22/2017	Portugal and Angola
 26	Doctor Strange	n/a	"$954,007 "	10/27/2017	Portugal and Angola
 27	Allied	PPI	"$890,024 "	12/1/2017	Portugal and Angola
-28	The Jungle Book (2016)	Disney	"$882,767 "	4/14/2017	Portugal and Angola
+28	The Jungle Book	Disney	"$882,767 "	4/14/2017	Portugal and Angola
 29	Alvin and the Chipmunks The Road Chip	Fox	"$874,783 "	2/4/2017	Portugal and Angola
 30	X-Men: Apocalypse	Fox	"$860,452 "	5/19/2017	Portugal and Angola
 31	Hacksaw Ridge	n/a	"$853,298 "	11/10/2017	Portugal and Angola
@@ -3621,11 +3621,11 @@ rank	title	distributor	gross	release	country
 48	Independence Day: Resurgence	Fox	"$553,652 "	6/23/2017	Portugal and Angola
 49	Miss Peregrine's Home for Peculiar Children	Fox	"$535,103 "	9/29/2017	Portugal and Angola
 50	Money Monster	Sony	"$528,556 "	5/12/2017	Portugal and Angola
-51	Ben-Hur (2016)	PPI	"$503,315 "	9/1/2017	Portugal and Angola
+51	Ben-Hur	PPI	"$503,315 "	9/1/2017	Portugal and Angola
 52	Alice Through the Looking Glass	Disney	"$502,119 "	5/26/2017	Portugal and Angola
 53	Collateral Beauty	n/a	"$472,932 "	12/22/2017	Portugal and Angola
 54	Pete's Dragon	Disney	"$471,906 "	8/11/2017	Portugal and Angola
-55	The Magnificent Seven (2016)	Sony	"$468,344 "	9/22/2017	Portugal and Angola
+55	The Magnificent Seven	Sony	"$468,344 "	9/22/2017	Portugal and Angola
 56	The Accountant	n/a	"$465,545 "	11/3/2017	Portugal and Angola
 57	Joy	n/a	"$459,621 "	1/7/2017	Portugal and Angola
 58	Why Him?	n/a	"$452,477 "	12/22/2017	Portugal and Angola
@@ -3642,36 +3642,36 @@ rank	title	distributor	gross	release	country
 69	How to Be Single	n/a	"$318,340 "	2/11/2017	Portugal and Angola
 70	Fifty Shades of Black	n/a	"$307,252 "	2/11/2017	Portugal and Angola
 71	Cafe Society	n/a	"$303,552 "	10/20/2017	Portugal and Angola
-72	Ghostbusters (2016)	Sony	"$294,573 "	7/21/2017	Portugal and Angola
+72	Ghostbusters	Sony	"$294,573 "	7/21/2017	Portugal and Angola
 73	The Nice Guys	WB	"$291,294 "	5/26/2017	Portugal and Angola
-74	Masterminds (2016)	n/a	"$271,053 "	10/5/2017	Portugal and Angola
+74	Masterminds	n/a	"$271,053 "	10/5/2017	Portugal and Angola
 75	C'est quoi cette famille?! (We are Family)	n/a	"$269,585 "	8/11/2017	Portugal and Angola
 76	Don't Breathe	Sony	"$263,229 "	9/8/2017	Portugal and Angola
 77	Gods of Egypt	n/a	"$261,221 "	2/25/2017	Portugal and Angola
 78	Lion	n/a	"$257,150 "	12/8/2017	Portugal and Angola
 79	Florence Foster Jenkins	n/a	"$255,461 "	9/1/2017	Portugal and Angola
 80	Teenage Mutant Ninja Turtles: Out of the Shadows	PPI	"$255,141 "	6/2/2017	Portugal and Angola
-81	Robinson Crusoe (2016)	n/a	"$249,777 "	4/21/2017	Portugal and Angola
+81	Robinson Crusoe	n/a	"$249,777 "	4/21/2017	Portugal and Angola
 82	Carol	n/a	"$242,127 "	2/4/2017	Portugal and Angola
-83	Point Break (2015)	n/a	"$237,408 "	1/7/2017	Portugal and Angola
+83	Point Break	n/a	"$237,408 "	1/7/2017	Portugal and Angola
 84	Room	Lusomundo	"$232,960 "	2/11/2017	Portugal and Angola
 85	Lights Out	WB	"$219,688 "	7/21/2017	Portugal and Angola
 86	Daddy's Home	UIP	"$218,386 "	3/17/2017	Portugal and Angola
 87	The Boss	UPI	"$215,339 "	4/14/2017	Portugal and Angola
-88	The Boy (2015)	n/a	"$215,006 "	3/3/2017	Portugal and Angola
+88	The Boy	n/a	"$215,006 "	3/3/2017	Portugal and Angola
 89	Underworld: Blood Wars	Sony	"$214,558 "	12/1/2017	Portugal and Angola
 90	10 Cloverfield Lane	UIP	"$214,497 "	4/7/2017	Portugal and Angola
 91	Norm of the North	n/a	"$213,513 "	1/14/2017	Portugal and Angola
 92	Ride Along 2	n/a	"$209,889 "	1/14/2017	Portugal and Angola
-93	The Boy (2016)	n/a	"$206,788 "	3/3/2017	Portugal and Angola
+93	The Boy	n/a	"$206,788 "	3/3/2017	Portugal and Angola
 94	The Brothers Grimsby	Sony	"$202,823 "	3/10/2017	Portugal and Angola
 95	Mother's Day	n/a	"$201,579 "	4/28/2017	Portugal and Angola
-96	Criminal (2016)	n/a	"$190,800 "	4/14/2017	Portugal and Angola
+96	Criminal	n/a	"$190,800 "	4/14/2017	Portugal and Angola
 97	The Finest Hours	n/a	"$178,782 "	2/4/2017	Portugal and Angola
 98	"Hail, Caesar!"	UIP	"$178,000 "	2/25/2017	Portugal and Angola
 99	Eye in the Sky	Lusomundo	"$171,779 "	3/31/2017	Portugal and Angola
 100	A Hologram for the King	n/a	"$170,727 "	5/5/2017	Portugal and Angola
-101	Heidi (2015)	n/a	"$170,393 "	1/7/2017	Portugal and Angola
+101	Heidi	n/a	"$170,393 "	1/7/2017	Portugal and Angola
 102	O Amor é Lindo ... Porque Sim!	n/a	"$165,854 "	3/10/2017	Portugal and Angola
 103	Kubo and the Two Strings	UPI	"$165,368 "	9/8/2017	Portugal and Angola
 104	Bad Moms	n/a	"$161,279 "	8/4/2017	Portugal and Angola
@@ -3694,7 +3694,7 @@ rank	title	distributor	gross	release	country
 121	13 Hours: The Secret Soldiers of Benghazi	n/a	"$96,022 "	1/28/2017	Portugal and Angola
 122	Southpaw	Prisvideo	"$94,927 "	4/7/2017	Portugal and Angola
 123	Blair Witch	Aud. Vis.	"$93,989 "	10/27/2017	Portugal and Angola
-124	Trumbo (2015)	n/a	"$92,768 "	2/18/2017	Portugal and Angola
+124	Trumbo	n/a	"$92,768 "	2/18/2017	Portugal and Angola
 125	Bleed for This	n/a	"$89,803 "	12/29/2017	Portugal and Angola
 126	The Forest	n/a	"$89,536 "	2/18/2017	Portugal and Angola
 127	Ratchet & Clank	n/a	"$86,399 "	5/5/2017	Portugal and Angola
@@ -3734,11 +3734,11 @@ rank	title	distributor	gross	release	country
 161	Shut In	n/a	"$52,070 "	11/17/2017	Portugal and Angola
 162	Goosebumps	n/a	"$51,407 "	1/28/2017	Portugal and Angola
 163	Friend Request (Unfriend) [2016]	n/a	"$50,471 "	11/3/2017	Portugal and Angola
-164	Race (2016)	Lusomundo	"$46,379 "	8/4/2017	Portugal and Angola
+164	Race	Lusomundo	"$46,379 "	8/4/2017	Portugal and Angola
 165	Extraction	n/a	"$46,051 "	3/31/2017	Portugal and Angola
 166	Freeheld	n/a	"$45,444 "	3/24/2017	Portugal and Angola
 167	Son of Saul	n/a	"$44,501 "	2/25/2017	Portugal and Angola
-168	Concussion (2015)	n/a	"$43,754 "	3/3/2017	Portugal and Angola
+168	Concussion	n/a	"$43,754 "	3/3/2017	Portugal and Angola
 169	Captain Fantastic	n/a	"$42,520 "	9/15/2017	Portugal and Angola
 170	L'avenir (Things To Come)	n/a	"$41,788 "	6/16/2017	Portugal and Angola
 171	Alone in Berlin	n/a	"$38,585 "	11/17/2017	Portugal and Angola
@@ -3762,7 +3762,7 @@ rank	title	distributor	gross	release	country
 189	Misconduct	n/a	"$29,302 "	9/15/2017	Portugal and Angola
 190	Genius	n/a	"$29,058 "	10/6/2017	Portugal and Angola
 191	Fathers and Daughters	n/a	"$28,631 "	6/2/2017	Portugal and Angola
-192	An (2015)	n/a	"$28,611 "	7/28/2017	Portugal and Angola
+192	An	n/a	"$28,611 "	7/28/2017	Portugal and Angola
 193	La corrispondenza	n/a	"$27,962 "	5/19/2017	Portugal and Angola
 194	Les innocentes	n/a	"$27,334 "	11/3/2017	Portugal and Angola
 195	Love is Strange	n/a	"$27,275 "	5/26/2017	Portugal and Angola
@@ -3778,11 +3778,11 @@ rank	title	distributor	gross	release	country
 205	Un homme à la hauteur (Up for Love)	n/a	"$24,124 "	7/28/2017	Portugal and Angola
 206	The Salesman	n/a	"$23,558 "	12/22/2017	Portugal and Angola
 207	Maggie's Plan	n/a	"$23,101 "	6/23/2017	Portugal and Angola
-208	High Strung (2016)	n/a	"$22,586 "	8/4/2017	Portugal and Angola
-209	Chocolat (2016)	n/a	"$22,452 "	11/10/2017	Portugal and Angola
+208	High Strung	n/a	"$22,586 "	8/4/2017	Portugal and Angola
+209	Chocolat	n/a	"$22,452 "	11/10/2017	Portugal and Angola
 210	Miles Ahead	n/a	"$22,243 "	7/14/2017	Portugal and Angola
 211	Débarquement immédiat! (Last Call for Nowhere)	n/a	"$21,302 "	12/15/2017	Portugal and Angola
-212	Truman (2015)	n/a	"$21,025 "	4/21/2017	Portugal and Angola
+212	Truman	n/a	"$21,025 "	4/21/2017	Portugal and Angola
 213	La pazza gioia (Like Crazy)	n/a	"$20,882 "	9/29/2017	Portugal and Angola
 214	Une famille à louer	n/a	"$20,421 "	5/26/2017	Portugal and Angola
 215	Collide	n/a	"$19,844 "	9/29/2017	Portugal and Angola
@@ -3790,9 +3790,9 @@ rank	title	distributor	gross	release	country
 217	Hell or High Water	n/a	"$19,507 "	12/8/2017	Portugal and Angola
 218	O Ornitólogo (The Ornithologist)	n/a	"$19,477 "	10/20/2017	Portugal and Angola
 219	The Commune (Kollektivet)	n/a	"$19,161 "	8/25/2017	Portugal and Angola
-220	Macbeth (2015)	n/a	"$19,051 "	4/21/2017	Portugal and Angola
+220	Macbeth	n/a	"$19,051 "	4/21/2017	Portugal and Angola
 221	The Whole Truth	n/a	"$18,976 "	11/10/2017	Portugal and Angola
-222	The Daughter (2015)	n/a	"$18,554 "	10/5/2017	Portugal and Angola
+222	The Daughter	n/a	"$18,554 "	10/5/2017	Portugal and Angola
 223	Dheepan	n/a	"$18,534 "	5/12/2017	Portugal and Angola
 224	Le grand partage	n/a	"$18,514 "	10/20/2017	Portugal and Angola
 225	Axilas	n/a	"$17,759 "	5/5/2017	Portugal and Angola
@@ -3813,7 +3813,7 @@ rank	title	distributor	gross	release	country
 240	Suburra	n/a	"$14,709 "	4/21/2017	Portugal and Angola
 241	Jane Got a Gun	n/a	"$14,490 "	10/13/2017	Portugal and Angola
 242	Dersu Uzala (2016 re-release)	n/a	"$14,480 "	8/4/2017	Portugal and Angola
-243	Exposed (2015)	n/a	"$14,370 "	5/5/2017	Portugal and Angola
+243	Exposed	n/a	"$14,370 "	5/5/2017	Portugal and Angola
 244	Momentum	n/a	"$14,340 "	7/14/2017	Portugal and Angola
 245	Nostalghia (2016 re-release)	n/a	"$14,255 "	2/11/2017	Portugal and Angola
 246	99 Homes	n/a	"$14,193 "	1/7/2017	Portugal and Angola
@@ -3837,12 +3837,12 @@ rank	title	distributor	gross	release	country
 264	Everybody Wants Some!!	n/a	"$11,973 "	4/28/2017	Portugal and Angola
 265	Ninguém Quer a Noite (Endless Night)	n/a	"$11,886 "	5/12/2017	Portugal and Angola
 266	Solaris (Solyaris) [2016 re-issue]	n/a	"$11,494 "	2/18/2017	Portugal and Angola
-267	Five (2016)	n/a	"$11,461 "	10/20/2017	Portugal and Angola
+267	Five	n/a	"$11,461 "	10/20/2017	Portugal and Angola
 268	"Right Now, Wrong Then"	n/a	"$11,406 "	1/14/2017	Portugal and Angola
 269	Stalker (2016 re-issue)	n/a	"$11,028 "	2/24/2017	Portugal and Angola
 270	Andrei Rublev (2016 re-release)	n/a	"$10,945 "	2/11/2017	Portugal and Angola
 271	Angry Indian Goddesses	n/a	"$10,700 "	6/16/2017	Portugal and Angola
-272	Love (2015)	n/a	"$10,660 "	6/9/2017	Portugal and Angola
+272	Love	n/a	"$10,660 "	6/9/2017	Portugal and Angola
 273	The Diary of a Teenage Girl	n/a	"$10,462 "	3/24/2017	Portugal and Angola
 274	Ocho apellidos catalanes	n/a	"$9,857 "	11/10/2017	Portugal and Angola
 275	Der Staat gegen Fritz Bauer	n/a	"$9,786 "	6/30/2017	Portugal and Angola
@@ -3858,7 +3858,7 @@ rank	title	distributor	gross	release	country
 285	Hands of Stone	n/a	"$8,364 "	10/5/2017	Portugal and Angola
 286	Fellini's 8 1/2 (2016 re-release)	n/a	"$8,245 "	3/31/2017	Portugal and Angola
 287	American Honey	n/a	"$8,085 "	11/17/2017	Portugal and Angola
-288	Eternity (2016)	n/a	"$8,056 "	12/15/2017	Portugal and Angola
+288	Eternity	n/a	"$8,056 "	12/15/2017	Portugal and Angola
 289	Janis: Little Girl Blue	n/a	"$8,005 "	5/5/2017	Portugal and Angola
 290	Remember	n/a	"$7,882 "	12/1/2017	Portugal and Angola
 291	Dare to be Wild (Jardins Selvagens)	n/a	"$7,596 "	3/17/2017	Portugal and Angola
@@ -3875,9 +3875,9 @@ rank	title	distributor	gross	release	country
 302	Journey to the Shore (Kishibe no tabi)	n/a	"$7,029 "	4/14/2017	Portugal and Angola
 303	I Am Wrath	n/a	"$6,790 "	7/21/2017	Portugal and Angola
 304	Housefull 3	Eros	"$6,769 "	6/2/2017	Portugal and Angola
-305	Criminal Activities (2015)	n/a	"$6,570 "	5/19/2017	Portugal and Angola
+305	Criminal Activities	n/a	"$6,570 "	5/19/2017	Portugal and Angola
 306	Mon roi (My King)	n/a	"$6,542 "	3/3/2017	Portugal and Angola
-307	Ride (2015)	n/a	"$6,489 "	3/10/2017	Portugal and Angola
+307	Ride	n/a	"$6,489 "	3/10/2017	Portugal and Angola
 308	The Benefactor	n/a	"$6,455 "	12/15/2017	Portugal and Angola
 309	Hrútar	n/a	"$6,225 "	8/25/2017	Portugal and Angola
 310	Pele: Birth of a Legend	n/a	"$6,216 "	7/21/2017	Portugal and Angola
@@ -3895,8 +3895,8 @@ rank	title	distributor	gross	release	country
 322	La tête haute	n/a	"$4,420 "	6/30/2017	Portugal and Angola
 323	Tumbledown	n/a	"$4,375 "	8/18/2017	Portugal and Angola
 324	Maraviglioso Boccaccio	n/a	"$4,206 "	7/14/2017	Portugal and Angola
-325	Caprice (2015)	n/a	"$4,081 "	3/24/2017	Portugal and Angola
-326	The Program (2015)	n/a	"$4,075 "	7/28/2017	Portugal and Angola
+325	Caprice	n/a	"$4,081 "	3/24/2017	Portugal and Angola
+326	The Program	n/a	"$4,075 "	7/28/2017	Portugal and Angola
 327	Le goût des merveilles (The Sense of Wonder)	n/a	"$4,063 "	9/15/2017	Portugal and Angola
 328	Urge	n/a	"$4,060 "	8/25/2017	Portugal and Angola
 329	Fuocoammare (Fire at Sea)	n/a	"$3,941 "	10/13/2017	Portugal and Angola
@@ -3915,7 +3915,7 @@ rank	title	distributor	gross	release	country
 342	Gelo	n/a	"$3,109 "	3/3/2017	Portugal and Angola
 343	Saint Amour	n/a	"$3,019 "	12/22/2017	Portugal and Angola
 344	A Tale of Love and Darkness	n/a	"$2,973 "	3/17/2017	Portugal and Angola
-345	Foxfire (2013)	n/a	"$2,921 "	1/7/2017	Portugal and Angola
+345	Foxfire	n/a	"$2,921 "	1/7/2017	Portugal and Angola
 346	Ahora O Nunca	n/a	"$2,824 "	6/30/2017	Portugal and Angola
 347	SACA - o filme de Tiago Pires	n/a	"$2,767 "	11/10/2017	Portugal and Angola
 348	Omoide no Marnie	n/a	"$2,758 "	4/14/2017	Portugal and Angola
@@ -3952,18 +3952,18 @@ rank	title	distributor	gross	release	country
 379	Kahlil Gibran's The Prophet (Gathr)	n/a	"$1,402 "	4/28/2017	Portugal and Angola
 380	Estive em Lisboa e Lembrei de Você	n/a	"$1,249 "	12/1/2017	Portugal and Angola
 381	The Runner	n/a	"$1,232 "	3/31/2017	Portugal and Angola
-382	Black (2015)	n/a	"$1,169 "	9/1/2017	Portugal and Angola
+382	Black	n/a	"$1,169 "	9/1/2017	Portugal and Angola
 383	Miss Violence	n/a	"$1,165 "	11/24/2017	Portugal and Angola
 384	Tangerine	n/a	"$1,152 "	6/30/2017	Portugal and Angola
 385	Kahaani 2	n/a	"$1,126 "	12/2/2017	Portugal and Angola
-386	Chevalier (2015)	n/a	"$1,114 "	7/7/2017	Portugal and Angola
+386	Chevalier	n/a	"$1,114 "	7/7/2017	Portugal and Angola
 387	Lisbon Revisited	n/a	"$1,108 "	2/11/2017	Portugal and Angola
-388	Chronic (2015)	n/a	"$1,092 "	4/14/2017	Portugal and Angola
+388	Chronic	n/a	"$1,092 "	4/14/2017	Portugal and Angola
 389	Boulevard	n/a	$961 	3/24/2017	Portugal and Angola
 390	Purple Rain (2016 re-release)	n/a	$854 	5/5/2017	Portugal and Angola
 391	Cien años de perdón	n/a	$790 	7/7/2017	Portugal and Angola
-392	Outcast (2014)	n/a	$774 	3/10/2017	Portugal and Angola
-393	Quatro (2014)	n/a	$750 	1/28/2017	Portugal and Angola
+392	Outcast	n/a	$774 	3/10/2017	Portugal and Angola
+393	Quatro	n/a	$750 	1/28/2017	Portugal and Angola
 394	Wings (2016 re-release)	n/a	$746 	5/7/2017	Portugal and Angola
 395	Avril et le monde truqué (April and the Extraordinary World)	n/a	$722 	10/20/2017	Portugal and Angola
 396	Was bleibt (Home for the Weekend)	n/a	$713 	4/14/2017	Portugal and Angola
@@ -3981,14 +3981,14 @@ rank	title	distributor	gross	release	country
 408	Grandes esperanças	n/a	$387 	6/15/2017	Portugal and Angola
 409	Ant Boy	n/a	$378 	1/21/2017	Portugal and Angola
 410	Maikäfer flieg	n/a	$371 	11/24/2017	Portugal and Angola
-411	Califórnia (2015)	n/a	$370 	11/10/2017	Portugal and Angola
+411	Califórnia	n/a	$370 	11/10/2017	Portugal and Angola
 412	O Menino e o Mundo	n/a	$369 	5/12/2017	Portugal and Angola
 413	Évolution	n/a	$261 	9/22/2017	Portugal and Angola
 414	El Incendio (The Fire)	n/a	$259 	7/21/2017	Portugal and Angola
 415	Heaven's Gate	n/a	$192 	7/14/2017	Portugal and Angola
 416	Com Um Pouco de Fé	n/a	$137 	11/10/2017	Portugal and Angola
 1	Suicide Squad	Freeman	"$2,089,608 "	8/5/2017	Romania
-2	The Jungle Book (2016)	Forum Films	"$1,797,170 "	4/15/2017	Romania
+2	The Jungle Book	Forum Films	"$1,797,170 "	4/15/2017	Romania
 3	Deadpool	Odeon	"$1,628,613 "	2/12/2017	Romania
 4	Batman v Superman: Dawn of Justice	Freeman	"$1,556,295 "	3/25/2017	Romania
 5	Doctor Strange	Forum Films	"$1,499,057 "	11/4/2017	Romania
@@ -4004,8 +4004,8 @@ rank	title	distributor	gross	release	country
 15	Now You See Me 2	Freeman	"$1,077,521 "	6/17/2017	Romania
 16	Fantastic Beasts and Where To Find Them	Freeman	"$1,056,210 "	11/18/2017	Romania
 17	Why Him?	Odeon	"$1,011,739 "	12/30/2017	Romania
-18	Passengers (2016)	InterCom	"$937,787 "	12/23/2017	Romania
-19	Point Break (2015)	Prorom/Ro Im.	"$914,351 "	1/1/2017	Romania
+18	Passengers	InterCom	"$937,787 "	12/23/2017	Romania
+19	Point Break	Prorom/Ro Im.	"$914,351 "	1/1/2017	Romania
 20	The Great Wall	Ro Image 2000	"$872,781 "	12/30/2017	Romania
 21	Inferno	InterCom	"$871,114 "	10/12/2017	Romania
 22	Moana	Forum Films	"$844,929 "	11/25/2017	Romania
@@ -4027,7 +4027,7 @@ rank	title	distributor	gross	release	country
 38	Douã lozuri	Ro Image 2000	"$593,418 "	10/7/2017	Romania
 39	Sing	Ro Image 2000	"$578,449 "	12/16/2017	Romania
 40	Jack Reacher: Never Go Back	Ro Image 2000	"$562,644 "	10/21/2017	Romania
-41	Ben-Hur (2016)	Forum Films	"$554,174 "	8/19/2017	Romania
+41	Ben-Hur	Forum Films	"$554,174 "	8/19/2017	Romania
 42	Arrival	InterCom	"$544,765 "	11/11/2017	Romania
 43	The Accountant	Freeman	"$522,390 "	10/28/2017	Romania
 44	How to Be Single	Freeman	"$511,573 "	2/12/2017	Romania
@@ -4038,8 +4038,8 @@ rank	title	distributor	gross	release	country
 49	The Divergent Series: Allegiant	Freeman	"$467,562 "	3/11/2017	Romania
 50	Nerve	Freeman	"$448,288 "	9/16/2017	Romania
 51	Jason Bourne	Ro Image 2000	"$438,738 "	7/29/2017	Romania
-52	Masterminds (2016)	Forum Films	"$434,959 "	10/7/2017	Romania
-53	The Girl on the Train (2016)	Freeman	"$420,940 "	10/7/2017	Romania
+52	Masterminds	Forum Films	"$434,959 "	10/7/2017	Romania
+53	The Girl on the Train	Freeman	"$420,940 "	10/7/2017	Romania
 54	Daddy's Home	Ro Image 2000	"$412,400 "	1/8/2017	Romania
 55	Hacksaw Ridge	Freeman	"$398,050 "	11/4/2017	Romania
 56	Alice Through the Looking Glass	Forum Films	"$384,774 "	5/27/2017	Romania
@@ -4054,7 +4054,7 @@ rank	title	distributor	gross	release	country
 65	Deepwater Horizon	Freeman	"$324,408 "	9/30/2017	Romania
 66	Neighbors 2: Sorority Rising	UPI	"$322,924 "	5/20/2017	Romania
 67	The Snow Queen 2	Freeman	"$321,908 "	1/1/2017	Romania
-68	The Magnificent Seven (2016)	Forum Films	"$320,055 "	9/23/2017	Romania
+68	The Magnificent Seven	Forum Films	"$320,055 "	9/23/2017	Romania
 69	Open Season: Scared Silly	Ro Image 2000	"$313,539 "	2/5/2017	Romania
 70	The Finest Hours	Forum Films	"$310,453 "	1/29/2017	Romania
 71	The Nice Guys	Freeman	"$296,647 "	5/27/2017	Romania
@@ -4067,19 +4067,19 @@ rank	title	distributor	gross	release	country
 78	War Dogs	Freeman	"$270,022 "	8/19/2017	Romania
 79	Bastille Day	JIL	"$247,159 "	4/29/2017	Romania
 80	Teenage Mutant Ninja Turtles: Out of the Shadows	Ro Image 2000	"$238,469 "	6/3/2017	Romania
-81	Criminal (2016)	Freeman	"$235,914 "	4/15/2017	Romania
+81	Criminal	Freeman	"$235,914 "	4/15/2017	Romania
 82	My Big Fat Greek Wedding 2	Freeman	"$225,975 "	4/1/2017	Romania
 83	The Brothers Grimsby	InterCom	"$221,932 "	3/4/2017	Romania
 84	Mike and Dave Need Wedding Dates	Odeon	"$221,176 "	7/8/2017	Romania
 85	Money Monster	Sony	"$217,306 "	6/1/2017	Romania
-86	Nine Lives (2016)	Prorom/Ro Im.	"$216,118 "	8/26/2017	Romania
+86	Nine Lives	Prorom/Ro Im.	"$216,118 "	8/26/2017	Romania
 87	Norm of the North	Prorom/Ro Im.	"$206,994 "	1/15/2017	Romania
 88	Alvin and the Chipmunks The Road Chip	Odeon	"$201,903 "	1/29/2017	Romania
 89	The Forest	InterCom	"$201,198 "	1/8/2017	Romania
 90	Mother's Day	Freeman	"$198,387 "	5/13/2017	Romania
 91	Lights Out	Freeman	"$188,899 "	8/12/2017	Romania
 92	Ouija: Origin of Evil	Ro Image 2000	"$187,491 "	10/28/2017	Romania
-93	Robinson Crusoe (2016)	Prorom/Ro Im.	"$186,508 "	4/29/2017	Romania
+93	Robinson Crusoe	Prorom/Ro Im.	"$186,508 "	4/29/2017	Romania
 94	Don't Breathe	InterCom	"$186,208 "	8/26/2017	Romania
 95	Creed	Forum Films	"$170,325 "	1/1/2017	Romania
 96	La guerre des tuques (Snowtime!)	Ro Image 2000	"$162,647 "	12/2/2017	Romania
@@ -4087,14 +4087,14 @@ rank	title	distributor	gross	release	country
 98	Kubo and the Two Strings	Ro Image 2000	"$156,240 "	10/14/2017	Romania
 99	Bacalaureat (Graduation)	Voodoo	"$155,654 "	5/20/2017	Romania
 100	The Big Short	Ro Image 2000	"$150,929 "	1/29/2017	Romania
-101	Ghostbusters (2016)	Sony	"$144,342 "	7/29/2017	Romania
+101	Ghostbusters	Sony	"$144,342 "	7/29/2017	Romania
 102	Collide	InterCom	"$141,254 "	9/2/2017	Romania
 103	The Disappointments Room	Forum Films	"$140,602 "	10/28/2017	Romania
 104	Spotlight	InterCom	"$138,038 "	2/26/2017	Romania
 105	Capture the Flag (Atrapa la bandera)	Ro Image 2000	"$137,469 "	2/19/2017	Romania
 106	Nocturnal Animals	Ro Image 2000	"$132,990 "	11/18/2017	Romania
 107	Mr. Right	Ro Image 2000	"$131,114 "	4/22/2017	Romania
-108	Concussion (2015)	InterCom	"$130,822 "	2/5/2017	Romania
+108	Concussion	InterCom	"$130,822 "	2/5/2017	Romania
 109	Incarnate	InterCom	"$128,672 "	12/9/2017	Romania
 110	Sausage Party	InterCom	"$117,827 "	8/12/2017	Romania
 111	Joy	Odeon	"$114,564 "	1/8/2017	Romania
@@ -4140,7 +4140,7 @@ rank	title	distributor	gross	release	country
 151	Wolf Totem	Independenta Film	"$15,503 "	3/25/2017	Romania
 152	Inimi Cicatrizate (Scarred Hearts)	Micro	"$13,675 "	11/18/2017	Romania
 153	Julieta	Independenta Film	"$13,264 "	9/30/2017	Romania
-154	Love (2015)	Independenta Film	"$11,471 "	3/18/2017	Romania
+154	Love	Independenta Film	"$11,471 "	3/18/2017	Romania
 155	Journal d'une femme de chambre	Cine Europa	"$11,173 "	2/19/2017	Romania
 156	Gruffalo si orietenii lui	Cine Europa	"$10,888 "	10/21/2017	Romania
 157	Orizont	Rova	"$9,533 "	2/12/2017	Romania
@@ -4152,9 +4152,9 @@ rank	title	distributor	gross	release	country
 163	Bajirao Mastani	BML	"$7,305 "	3/11/2017	Romania
 164	Sous les jupes des filles	Cine Europa	"$6,550 "	8/12/2017	Romania
 165	Billion Star Hotel	Transilvania	"$6,095 "	2/19/2017	Romania
-166	Truman (2015)	Freealize	"$6,044 "	9/16/2017	Romania
+166	Truman	Freealize	"$6,044 "	9/16/2017	Romania
 167	Hrútar	Transilvania	"$5,805 "	2/26/2017	Romania
-168	Five (2016)	Cine Europa	"$5,669 "	10/21/2017	Romania
+168	Five	Cine Europa	"$5,669 "	10/21/2017	Romania
 169	Renesse	Cine Europa	"$5,282 "	11/25/2017	Romania
 170	Francofonia (Le Louvre sous l'Occupation)	Transilvania	"$5,148 "	7/22/2017	Romania
 171	The Commune (Kollektivet)	Independenta Film	"$4,223 "	5/6/2017	Romania
@@ -4218,10 +4218,10 @@ rank	title	distributor	gross	release	country
 23	Doctor Strange	Saturn	"$389,195 "	11/3/2017	Slovakia
 24	The Conjuring 2	Continental	"$388,891 "	6/9/2017	Slovakia
 25	Sausage Party	Sony	"$355,726 "	8/11/2017	Slovakia
-26	The Jungle Book (2016)	Saturn	"$347,278 "	4/14/2017	Slovakia
+26	The Jungle Book	Saturn	"$347,278 "	4/14/2017	Slovakia
 27	Bad Moms	Forum Films	"$340,722 "	8/11/2017	Slovakia
 28	How to Be Single	Continental	"$325,654 "	2/11/2017	Slovakia
-29	The Girl on the Train (2016)	Forum Films	"$322,755 "	10/6/2017	Slovakia
+29	The Girl on the Train	Forum Films	"$322,755 "	10/6/2017	Slovakia
 30	Moana	Saturn	"$321,834 "	11/24/2017	Slovakia
 31	Arrival	Itafilm	"$310,919 "	11/10/2017	Slovakia
 32	The Teacher (Ucitelka)	Forum Films	"$302,518 "	7/21/2017	Slovakia
@@ -4250,9 +4250,9 @@ rank	title	distributor	gross	release	country
 55	War Dogs	Continental	"$159,632 "	8/18/2017	Slovakia
 56	La La Land	Forum Films	"$158,702 "	12/29/2017	Slovakia
 57	Sully	Continental	"$149,516 "	9/8/2017	Slovakia
-58	Robinson Crusoe (2016)	Magic Box	"$148,739 "	2/18/2017	Slovakia
+58	Robinson Crusoe	Magic Box	"$148,739 "	2/18/2017	Slovakia
 59	Don't Breathe	Itafilm	"$148,006 "	9/8/2017	Slovakia
-60	Masterminds (2016)	Forum Films	"$146,666 "	10/13/2017	Slovakia
+60	Masterminds	Forum Films	"$146,666 "	10/13/2017	Slovakia
 61	Mother's Day	Forum Films	"$146,502 "	4/28/2017	Slovakia
 62	Why Him?	CinemArt	"$141,155 "	12/22/2017	Slovakia
 63	Hacksaw Ridge	Magic Box	"$136,176 "	11/10/2017	Slovakia
@@ -4280,15 +4280,15 @@ rank	title	distributor	gross	release	country
 85	Miracles from Heaven	Itafilm	"$85,720 "	4/21/2017	Slovakia
 86	The Purge: Election Year	UPI	"$83,251 "	7/7/2017	Slovakia
 87	Snowden	Film Europe	"$81,731 "	11/10/2017	Slovakia
-88	The Boy (2016)	Continental	"$80,877 "	2/25/2017	Slovakia
+88	The Boy	Continental	"$80,877 "	2/25/2017	Slovakia
 89	Anthropoid	Saturn	"$79,967 "	10/13/2017	Slovakia
 90	Before I Wake	Continental	"$79,521 "	4/7/2017	Slovakia
 91	Deepwater Horizon	Forum Films	"$78,173 "	9/29/2017	Slovakia
-92	The Magnificent Seven (2016)	Forum Films	"$75,829 "	9/22/2017	Slovakia
+92	The Magnificent Seven	Forum Films	"$75,829 "	9/22/2017	Slovakia
 93	Underworld: Blood Wars	Itafilm	"$75,241 "	12/1/2017	Slovakia
-94	Ghostbusters (2016)	Sony	"$73,894 "	7/28/2017	Slovakia
+94	Ghostbusters	Sony	"$73,894 "	7/28/2017	Slovakia
 95	Risen	Itafilm	"$72,316 "	3/24/2017	Slovakia
-96	Nine Lives (2016)	Magic Box	"$72,016 "	10/6/2017	Slovakia
+96	Nine Lives	Magic Box	"$72,016 "	10/6/2017	Slovakia
 97	Kubo and the Two Strings	CinemArt	"$71,836 "	9/29/2017	Slovakia
 98	Jack Reacher: Never Go Back	CinemArt	"$71,509 "	10/20/2017	Slovakia
 99	The Shallows	Sony	"$71,452 "	8/25/2017	Slovakia
@@ -4296,7 +4296,7 @@ rank	title	distributor	gross	release	country
 101	London Has Fallen	Bontonfilm	"$61,689 "	4/7/2017	Slovakia
 102	Mike and Dave Need Wedding Dates	CinemArt	"$60,092 "	7/7/2017	Slovakia
 103	Before We Go	Continental	"$58,924 "	4/21/2017	Slovakia
-104	Ben-Hur (2016)	Forum Films	"$57,007 "	8/25/2017	Slovakia
+104	Ben-Hur	Forum Films	"$57,007 "	8/25/2017	Slovakia
 105	Andel Páne 2	Magic Box	"$56,790 "	12/8/2017	Slovakia
 106	Ozzy	Magic Box	"$55,157 "	12/29/2017	Slovakia
 107	"Belle et Sébastien, l'aventure continue"	Bontonfilm	"$54,344 "	2/4/2017	Slovakia
@@ -4358,7 +4358,7 @@ rank	title	distributor	gross	release	country
 163	"I, Olga Hepnarová"	ASFK	"$10,838 "	4/14/2017	Slovakia
 164	Toni Erdmann	Film Europe	"$9,422 "	10/27/2017	Slovakia
 165	Der Nanny	Continental	"$9,099 "	3/3/2017	Slovakia
-166	Five (2016)	Itafilm	"$8,866 "	9/1/2017	Slovakia
+166	Five	Itafilm	"$8,866 "	9/1/2017	Slovakia
 167	Lucie: The Story of a Rock Band	Bontonfilm	"$8,523 "	7/7/2017	Slovakia
 168	Maggie's Plan	CinemArt	"$8,438 "	5/26/2017	Slovakia
 169	Mal de pierres (From the Land of the Moon)	Itafilm	"$8,031 "	12/8/2017	Slovakia
@@ -4415,22 +4415,22 @@ rank	title	distributor	gross	release	country
 31	Now You See Me 2	Blitz	"$104,515 "	6/16/2017	Slovenia
 32	The Hateful Eight	Blitz	"$103,969 "	1/7/2017	Slovenia
 33	"Houston, We Have a Problem!"	2i Film	"$95,478 "	5/5/2017	Slovenia
-34	Robinson Crusoe (2016)	Blitz	"$94,338 "	2/18/2017	Slovenia
+34	Robinson Crusoe	Blitz	"$94,338 "	2/18/2017	Slovenia
 35	Ride Along 2	Karantanija	"$92,668 "	1/14/2017	Slovenia
 36	Office Christmas Party	Blitz	"$87,123 "	12/9/2017	Slovenia
 37	Doctor Strange	2i Film	"$86,007 "	11/4/2017	Slovenia
 38	War Dogs	Blitz	"$85,326 "	8/19/2017	Slovenia
-39	The Girl on the Train (2016)	Blitz	"$83,820 "	10/7/2017	Slovenia
+39	The Girl on the Train	Blitz	"$83,820 "	10/7/2017	Slovenia
 40	How to Be Single	WB	"$82,894 "	2/11/2017	Slovenia
 41	Mike and Dave Need Wedding Dates	Blitz	"$81,460 "	7/8/2017	Slovenia
 42	Fifty Shades of Black	Karantanija	"$74,780 "	2/4/2017	Slovenia
 43	Independence Day: Resurgence	Blitz	"$74,028 "	6/24/2017	Slovenia
 44	London Has Fallen	Blitz	"$73,473 "	3/18/2017	Slovenia
 45	The Conjuring 2	Blitz	"$71,219 "	6/10/2017	Slovenia
-46	Passengers (2016)	CF	"$70,267 "	12/29/2017	Slovenia
+46	Passengers	CF	"$70,267 "	12/29/2017	Slovenia
 47	The Brothers Grimsby	CF	"$68,177 "	2/26/2017	Slovenia
 48	My Big Fat Greek Wedding 2	Blitz	"$67,045 "	4/1/2017	Slovenia
-49	The Jungle Book (2016)	2i Film	"$65,174 "	4/15/2017	Slovenia
+49	The Jungle Book	2i Film	"$65,174 "	4/15/2017	Slovenia
 50	Arrival	CF	"$64,737 "	11/25/2017	Slovenia
 51	The Shallows	CF	"$62,682 "	8/18/2017	Slovenia
 52	Norm of the North	Blitz	"$61,399 "	1/15/2017	Slovenia
@@ -4439,7 +4439,7 @@ rank	title	distributor	gross	release	country
 55	Hacksaw Ridge	Blitz	"$58,123 "	11/11/2017	Slovenia
 56	Miss Peregrine's Home for Peculiar Children	Blitz	"$56,916 "	9/30/2017	Slovenia
 57	X-Men: Apocalypse	Blitz	"$54,418 "	5/20/2017	Slovenia
-58	Point Break (2015)	Blitz	"$51,914 "	12/31/2017	Slovenia
+58	Point Break	Blitz	"$51,914 "	12/31/2017	Slovenia
 59	Nerve	Blitz	"$51,518 "	8/18/2017	Slovenia
 60	Star Trek Beyond	Karantanija	"$51,504 "	7/29/2017	Slovenia
 61	Snowden	Karantanija	"$50,732 "	9/23/2017	Slovenia
@@ -4454,12 +4454,12 @@ rank	title	distributor	gross	release	country
 70	Kubo and the Two Strings	Karantanija	"$42,783 "	10/7/2017	Slovenia
 71	The BFG	Blitz	"$42,029 "	6/30/2017	Slovenia
 72	Sully	Blitz	"$41,503 "	9/9/2017	Slovenia
-73	Ben-Hur (2016)	Karantanija	"$40,504 "	8/26/2017	Slovenia
+73	Ben-Hur	Karantanija	"$40,504 "	8/26/2017	Slovenia
 74	The Danish Girl	Karantanija	"$39,971 "	1/7/2017	Slovenia
 75	The Boss	Karantanija	"$38,588 "	4/8/2017	Slovenia
-76	Masterminds (2016)	Blitz	"$38,531 "	10/14/2017	Slovenia
+76	Masterminds	Blitz	"$38,531 "	10/14/2017	Slovenia
 77	The Divergent Series: Allegiant	Blitz	"$37,626 "	3/11/2017	Slovenia
-78	The Magnificent Seven (2016)	Sony	"$37,455 "	9/22/2017	Slovenia
+78	The Magnificent Seven	Sony	"$37,455 "	9/22/2017	Slovenia
 79	Mother's Day	Blitz	"$33,135 "	5/5/2017	Slovenia
 80	Teenage Mutant Ninja Turtles: Out of the Shadows	Karantanija	"$33,080 "	6/10/2017	Slovenia
 81	Spotlight	Cinemania	"$33,044 "	2/18/2017	Slovenia
@@ -4482,14 +4482,14 @@ rank	title	distributor	gross	release	country
 98	Bad Santa 2	Blitz	"$21,338 "	11/25/2017	Slovenia
 99	Savva. Heart of the Warrior	Blitz	"$20,935 "	4/8/2017	Slovenia
 100	Julieta	Cinemania	"$20,803 "	8/12/2017	Slovenia
-101	The Boy (2016)	FIVIA	"$20,748 "	2/18/2017	Slovenia
+101	The Boy	FIVIA	"$20,748 "	2/18/2017	Slovenia
 102	Queen of the Desert	Cinemania	"$20,741 "	5/6/2017	Slovenia
 103	Money Monster	CF	"$20,736 "	6/2/2017	Slovenia
 104	Deepwater Horizon	Blitz	"$20,490 "	10/28/2017	Slovenia
 105	Creed	Blitz	"$19,392 "	1/14/2017	Slovenia
 106	The Lobster	Central	"$18,975 "	12/31/2017	Slovenia
 107	Zoolander 2	Karantanija	"$18,786 "	2/18/2017	Slovenia
-108	Ghostbusters (2016)	CF	"$18,470 "	7/29/2017	Slovenia
+108	Ghostbusters	CF	"$18,470 "	7/29/2017	Slovenia
 109	Underworld: Blood Wars	CF	"$17,202 "	12/2/2017	Slovenia
 110	"Hail, Caesar!"	Karantanija	"$16,877 "	2/26/2017	Slovenia
 111	Paterson	FIVIA	"$16,673 "	12/16/2017	Slovenia
@@ -4503,7 +4503,7 @@ rank	title	distributor	gross	release	country
 119	Mr. Right	Constantin	"$12,672 "	4/28/2017	Slovenia
 120	Room	Blitz	"$12,448 "	1/28/2017	Slovenia
 121	Janis: Little Girl Blue	FIVIA	"$11,984 "	6/26/2017	Slovenia
-122	Criminal (2016)	Blitz	"$11,685 "	4/28/2017	Slovenia
+122	Criminal	Blitz	"$11,685 "	4/28/2017	Slovenia
 123	Brooklyn	Cinemania	"$10,837 "	2/4/2017	Slovenia
 124	Hardcore Henry	Blitz	"$10,513 "	4/22/2017	Slovenia
 125	Miles Ahead	Cinemania	"$10,456 "	9/9/2017	Slovenia
@@ -4518,7 +4518,7 @@ rank	title	distributor	gross	release	country
 134	Don Gato: el inicio de la pandilla (Top Cat Begins)	2i Film	"$7,204 "	6/2/2017	Slovenia
 135	Where to Invade Next	Cinemania	"$7,039 "	9/30/2017	Slovenia
 136	The Man Who Knew Infinity	Blitz	"$6,869 "	5/26/2017	Slovenia
-137	An (2015)	FIVIA	"$6,584 "	4/22/2017	Slovenia
+137	An	FIVIA	"$6,584 "	4/22/2017	Slovenia
 138	Bling	2i Film	"$6,283 "	12/23/2017	Slovenia
 139	The Commune (Kollektivet)	FIVIA	"$6,039 "	7/29/2017	Slovenia
 140	Eye in the Sky	Blitz	"$5,998 "	5/6/2017	Slovenia
@@ -4527,7 +4527,7 @@ rank	title	distributor	gross	release	country
 143	Eisenstein in Guanajuato	FIVIA	"$5,123 "	5/31/2017	Slovenia
 144	The Wolfpack	Central	"$4,761 "	1/28/2017	Slovenia
 145	Our Kind of Traitor	Blitz	"$4,709 "	5/12/2017	Slovenia
-146	Race (2016)	Blitz	"$4,672 "	2/26/2017	Slovenia
+146	Race	Blitz	"$4,672 "	2/26/2017	Slovenia
 147	Suffragette	FIVIA	"$3,926 "	3/11/2017	Slovenia
 148	Family Film (Rodinny film)	CF	"$3,562 "	2/26/2017	Slovenia
 149	Doktor Proktors tidsbadekar (Doctor Proctor Bubble In The Bathtub)	n/a	"$3,499 "	9/9/2017	Slovenia
@@ -4549,19 +4549,19 @@ rank	title	distributor	gross	release	country
 165	Colonia	FIVIA	"$1,295 "	11/4/2017	Slovenia
 166	Dheepan	2i Film	"$1,052 "	5/20/2017	Slovenia
 167	Krigen (A War)	FIVIA	$967 	9/2/2017	Slovenia
-168	Chevalier (2015)	FIVIA	$899 	6/24/2017	Slovenia
+168	Chevalier	FIVIA	$899 	6/24/2017	Slovenia
 169	Freeheld	FIVIA	$840 	4/1/2017	Slovenia
 170	Born to Dance	FIVIA	$717 	7/29/2017	Slovenia
 171	Meester Kikker	FIVIA	$693 	8/26/2017	Slovenia
 172	Quand on a 17 ans	FIVIA	$690 	10/21/2017	Slovenia
 173	Death in Sarajevo	CF	$583 	9/16/2017	Slovenia
 174	El desconocido (Retribution)	Constantin	$558 	4/22/2017	Slovenia
-175	Trumbo (2015)	Cinemania	$506 	3/4/2017	Slovenia
+175	Trumbo	Cinemania	$506 	3/4/2017	Slovenia
 176	Panama	FIVIA	$456 	6/30/2017	Slovenia
 1	A Monster Calls	UPI	"$29,597,987 "	10/7/2017	Spain
 2	The Secret Life of Pets	UPI	"$22,835,481 "	8/5/2017	Spain
 3	Finding Dory	Disney	"$20,036,856 "	6/22/2017	Spain
-4	The Jungle Book (2016)	Disney	"$19,385,604 "	4/15/2017	Spain
+4	The Jungle Book	Disney	"$19,385,604 "	4/15/2017	Spain
 5	Rogue One: A Star Wars Story	Disney	"$16,476,627 "	12/16/2017	Spain
 6	Sing	UPI	"$16,200,474 "	12/22/2017	Spain
 7	The Revenant	Fox	"$16,142,025 "	2/5/2017	Spain
@@ -4579,7 +4579,7 @@ rank	title	distributor	gross	release	country
 19	Assassin's Creed	Fox	"$7,242,797 "	12/23/2017	Spain
 20	The Conjuring 2	WB	"$7,188,139 "	6/17/2017	Spain
 21	Cuerpo de élite (Heroes Wanted)	Fox	"$7,179,946 "	8/26/2017	Spain
-22	Passengers (2016)	Sony	"$7,088,724 "	12/30/2017	Spain
+22	Passengers	Sony	"$7,088,724 "	12/30/2017	Spain
 23	Doctor Strange	Disney	"$6,975,576 "	10/28/2017	Spain
 24	"Kiki, el amor se hace"	Vertigo	"$6,840,205 "	4/1/2017	Spain
 25	Ice Age: Collision Course	Fox	"$6,795,031 "	7/15/2017	Spain
@@ -4604,7 +4604,7 @@ rank	title	distributor	gross	release	country
 44	Alvin and the Chipmunks The Road Chip	Fox	"$4,689,711 "	1/22/2017	Spain
 45	Spotlight	E1	"$4,492,604 "	1/29/2017	Spain
 46	Don't Breathe	Sony	"$4,372,209 "	9/2/2017	Spain
-47	The Girl on the Train (2016)	Deapl.	"$4,281,275 "	10/21/2017	Spain
+47	The Girl on the Train	Deapl.	"$4,281,275 "	10/21/2017	Spain
 48	Cafe Society	E1	"$4,252,004 "	8/26/2017	Spain
 49	Sausage Party	Sony	"$4,248,904 "	10/7/2017	Spain
 50	Sully	WB	"$4,135,018 "	11/4/2017	Spain
@@ -4612,16 +4612,16 @@ rank	title	distributor	gross	release	country
 52	Collateral Beauty	WB	"$3,998,385 "	12/23/2017	Spain
 53	Me Before You	WB	"$3,972,365 "	7/1/2017	Spain
 54	Pete's Dragon	Disney	"$3,909,667 "	8/19/2017	Spain
-55	Ghostbusters (2016)	Sony	"$3,645,960 "	8/12/2017	Spain
+55	Ghostbusters	Sony	"$3,645,960 "	8/12/2017	Spain
 56	The Huntsman Winter's War	UPI	"$3,642,051 "	4/8/2017	Spain
-57	The Magnificent Seven (2016)	Sony	"$3,538,440 "	9/23/2017	Spain
+57	The Magnificent Seven	Sony	"$3,538,440 "	9/23/2017	Spain
 58	Central Intelligence	UPI	"$3,499,879 "	7/8/2017	Spain
 59	Ouija: Origin of Evil	UPI	"$3,413,476 "	10/28/2017	Spain
 60	The 5th Wave	Sony	"$3,221,903 "	1/22/2017	Spain
 61	Goosebumps	Sony	"$3,187,098 "	1/29/2017	Spain
 62	The Big Short	PPI	"$3,153,399 "	1/22/2017	Spain
 63	Joy	Fox	"$3,137,235 "	1/8/2017	Spain
-64	Ben-Hur (2016)	PPI	"$3,115,046 "	9/2/2017	Spain
+64	Ben-Hur	PPI	"$3,115,046 "	9/2/2017	Spain
 65	London Has Fallen	E1	"$3,089,855 "	4/8/2017	Spain
 66	The Purge: Election Year	UPI	"$3,075,450 "	7/15/2017	Spain
 67	Money Monster	Sony	"$3,026,970 "	7/6/2017	Spain
@@ -4652,16 +4652,16 @@ rank	title	distributor	gross	release	country
 92	War Dogs	WB	"$1,849,090 "	9/9/2017	Spain
 93	Kubo and the Two Strings	UPI	"$1,839,846 "	8/26/2017	Spain
 94	Teenage Mutant Ninja Turtles: Out of the Shadows	PPI	"$1,785,915 "	6/17/2017	Spain
-95	Concussion (2015)	Sony	"$1,732,654 "	2/12/2017	Spain
+95	Concussion	Sony	"$1,732,654 "	2/12/2017	Spain
 96	How to Be Single	WB	"$1,722,977 "	2/12/2017	Spain
 97	Steve Jobs	UPI	"$1,653,357 "	1/1/2017	Spain
 98	Nerve	E1	"$1,635,178 "	8/12/2017	Spain
 99	Bad Moms	Diamond	"$1,603,473 "	7/29/2017	Spain
 100	Neighbors 2: Sorority Rising	UPI	"$1,570,373 "	6/24/2017	Spain
-101	Nine Lives (2016)	Deapl.	"$1,557,744 "	9/2/2017	Spain
+101	Nine Lives	Deapl.	"$1,557,744 "	9/2/2017	Spain
 102	Jack Reacher: Never Go Back	PPI	"$1,529,132 "	11/11/2017	Spain
 103	Tenemos que hablar	WB	"$1,505,667 "	2/26/2017	Spain
-104	Point Break (2015)	Tri	"$1,494,615 "	1/1/2017	Spain
+104	Point Break	Tri	"$1,494,615 "	1/1/2017	Spain
 105	Eye in the Sky	E1	"$1,451,609 "	5/13/2017	Spain
 106	Que Dios nos perdone	WB	"$1,448,478 "	10/28/2017	Spain
 107	The Nice Guys	WB	"$1,336,582 "	6/10/2017	Spain
@@ -4684,7 +4684,7 @@ rank	title	distributor	gross	release	country
 124	Florence Foster Jenkins	Tri	"$987,008 "	9/23/2017	Spain
 125	Hell or High Water	Vertigo	"$948,622 "	12/30/2017	Spain
 126	Elle	Avalon	"$925,961 "	9/30/2017	Spain
-127	The Gift (2015)	n/a	"$922,254 "	3/18/2017	Spain
+127	The Gift	n/a	"$922,254 "	3/18/2017	Spain
 128	Zoolander 2	PPI	"$914,604 "	2/12/2017	Spain
 129	La corona partida	n/a	"$901,435 "	2/19/2017	Spain
 130	Risen	Sony	"$878,823 "	3/23/2017	Spain
@@ -4696,13 +4696,13 @@ rank	title	distributor	gross	release	country
 136	Captain Fantastic	E1	"$742,550 "	9/23/2017	Spain
 137	Solace	E1	"$721,597 "	7/15/2017	Spain
 138	Free State of Jones	Deapl.	"$698,246 "	9/16/2017	Spain
-139	Robinson Crusoe (2016)	Vertice	"$676,701 "	9/16/2017	Spain
+139	Robinson Crusoe	Vertice	"$676,701 "	9/16/2017	Spain
 140	Genius	ACONTRA	"$676,290 "	12/7/2017	Spain
-141	Trumbo (2015)	E1	"$674,260 "	4/29/2017	Spain
+141	Trumbo	E1	"$674,260 "	4/29/2017	Spain
 142	The Little Prince	Wanda	"$661,536 "	9/9/2017	Spain
 143	La noche que mi madre mató a mi padre	n/a	"$653,277 "	4/29/2017	Spain
 144	A Hologram for the King	Deapl.	"$621,842 "	7/1/2017	Spain
-145	Race (2016)	Deapl.	"$618,880 "	4/15/2017	Spain
+145	Race	Deapl.	"$618,880 "	4/15/2017	Spain
 146	Magallanes	Vercine	"$618,164 "	5/27/2017	Spain
 147	Triple 9	Deapl.	"$598,053 "	5/6/2017	Spain
 148	Frantz	Golem	"$586,393 "	12/30/2017	Spain
@@ -4719,7 +4719,7 @@ rank	title	distributor	gross	release	country
 159	Norm of the North	Flins	"$496,255 "	4/1/2017	Spain
 160	The Beatles: Eight Days a Week - The Touring Years	n/a	"$494,330 "	9/16/2017	Spain
 161	Mike and Dave Need Wedding Dates	Fox	"$487,051 "	10/21/2017	Spain
-162	The Secret in their Eyes (2015)	n/a	"$472,499 "	4/15/2017	Spain
+162	The Secret in their Eyes	n/a	"$472,499 "	4/15/2017	Spain
 163	Nuestros amantes (Our Lovers)	Filmax	"$468,926 "	6/3/2017	Spain
 164	Blair Witch	E1	"$468,715 "	11/4/2017	Spain
 165	The Lady in the Van	Sony	"$462,113 "	4/15/2017	Spain
@@ -4730,7 +4730,7 @@ rank	title	distributor	gross	release	country
 170	Gernika (Guernica)	BETTA	"$396,764 "	9/9/2017	Spain
 171	Mother's Day	Alfa	"$395,405 "	4/29/2017	Spain
 172	Incidencias	Filmax	"$388,290 "	1/1/2017	Spain
-173	Criminal (2016)	Tri	"$380,352 "	9/2/2017	Spain
+173	Criminal	Tri	"$380,352 "	9/2/2017	Spain
 174	El faro de las orcas	Wanda	"$378,004 "	12/16/2017	Spain
 175	The Meddler	Sony	"$354,865 "	6/3/2017	Spain
 176	Morgan	Fox	"$351,818 "	9/16/2017	Spain
@@ -4756,7 +4756,7 @@ rank	title	distributor	gross	release	country
 196	The Infiltrator	Filmax	"$229,925 "	12/16/2017	Spain
 197	El elegido (The Chosen)	Filmax	"$229,311 "	9/2/2017	Spain
 198	Lolo	Golem	"$228,021 "	7/22/2017	Spain
-199	Heidi (2015)	Emon	"$226,880 "	8/26/2017	Spain
+199	Heidi	Emon	"$226,880 "	8/26/2017	Spain
 200	Vientos de la Habana	Syldavia	"$224,540 "	9/30/2017	Spain
 201	Les innocentes	Caramel	"$223,596 "	12/23/2017	Spain
 202	A Royal Night Out	n/a	"$220,130 "	5/20/2017	Spain
@@ -4767,16 +4767,16 @@ rank	title	distributor	gross	release	country
 207	Sunset Song	Festival	"$209,860 "	7/22/2017	Spain
 208	My Bakery in Brooklyn	Alfa	"$204,890 "	7/1/2017	Spain
 209	Poveda	n/a	"$203,462 "	3/4/2017	Spain
-210	"En mai, fais ce qu'il te plaît (2015)"	Golem	"$202,244 "	5/6/2017	Spain
+210	"En mai, fais ce qu'il te plaît"	Golem	"$202,244 "	5/6/2017	Spain
 211	La corrispondenza	Filmax	"$201,766 "	7/22/2017	Spain
-212	Chocolat (2016)	n/a	"$198,440 "	4/29/2017	Spain
+212	Chocolat	n/a	"$198,440 "	4/29/2017	Spain
 213	Mia madre	Golem	"$189,238 "	1/22/2017	Spain
 214	Fathers and Daughters	E1	"$184,028 "	1/1/2017	Spain
 215	Bar Bahr (In Between)	Golem	"$176,530 "	11/25/2017	Spain
 216	Miekkailija (The Fencer)	Karma	"$174,947 "	7/15/2017	Spain
 217	Pride and Prejudice and Zombies	Tri	"$174,632 "	4/1/2017	Spain
 218	"I, Daniel Blake"	Caramel	"$173,680 "	10/28/2017	Spain
-219	Little Men (2016)	Golem	"$170,068 "	10/21/2017	Spain
+219	Little Men	Golem	"$170,068 "	10/21/2017	Spain
 220	A Bigger Splash	Avalon	"$156,623 "	4/22/2017	Spain
 221	Les Visiteurs 3: la Terreur (The Visitors: Bastille Day)	n/a	"$156,043 "	9/2/2017	Spain
 222	The Handmaiden	n/a	"$143,402 "	12/2/2017	Spain
@@ -4792,7 +4792,7 @@ rank	title	distributor	gross	release	country
 232	Lobos sucios	n/a	"$128,425 "	4/8/2017	Spain
 233	The Wait (L'attesa)	Vercine	"$124,762 "	9/2/2017	Spain
 234	La propera pell (The Next Skin)	BETTA	"$123,082 "	10/21/2017	Spain
-235	The Night Watchman (2016)	Vercine	"$122,073 "	7/29/2017	Spain
+235	The Night Watchman	Vercine	"$122,073 "	7/29/2017	Spain
 236	La loi du marche	Golem	"$121,215 "	2/12/2017	Spain
 237	Wild Oats	Vercine	"$119,374 "	11/18/2017	Spain
 238	Angry Indian Goddesses	Karma	"$118,854 "	6/22/2017	Spain
@@ -4813,7 +4813,7 @@ rank	title	distributor	gross	release	country
 253	Acantilado	Alfa	"$96,169 "	6/3/2017	Spain
 254	Everybody Wants Some!!	Avalon	"$94,830 "	7/1/2017	Spain
 255	Les chevaliers blancs (The White Knights)	Golem	"$94,057 "	8/19/2017	Spain
-256	Idol (2016)	E1	"$93,688 "	6/3/2017	Spain
+256	Idol	E1	"$93,688 "	6/3/2017	Spain
 257	Freeheld	Filmax	"$93,044 "	5/6/2017	Spain
 258	María (y los demás)	Avalon	"$92,508 "	12/9/2017	Spain
 259	Demain	Karma	"$92,133 "	4/29/2017	Spain
@@ -4838,7 +4838,7 @@ rank	title	distributor	gross	release	country
 278	Frágil Equilibrio	Caramel	"$78,135 "	12/2/2017	Spain
 279	Remember	Vertigo	"$76,386 "	3/4/2017	Spain
 280	Le nouveau (The New Kid)	Karma	"$75,967 "	4/8/2017	Spain
-281	The Program (2015)	Vertigo	"$75,368 "	6/22/2017	Spain
+281	The Program	Vertigo	"$75,368 "	6/22/2017	Spain
 282	La academia de las musas	n/a	"$73,885 "	1/1/2017	Spain
 283	Die abhandene Welt	Golem	"$73,357 "	1/1/2017	Spain
 284	Cerca de tu casa	n/a	"$73,021 "	9/2/2017	Spain
@@ -4879,7 +4879,7 @@ rank	title	distributor	gross	release	country
 319	Sultan	n/a	"$39,428 "	7/8/2017	Spain
 320	1944	n/a	"$38,753 "	7/1/2017	Spain
 321	Théo et Hugo dans le même bateau (Paris 05:59)	n/a	"$38,388 "	7/15/2017	Spain
-322	Albert (2015)	n/a	"$37,430 "	6/10/2017	Spain
+322	Albert	n/a	"$37,430 "	6/10/2017	Spain
 323	The Boy and the Beast	n/a	"$36,875 "	4/22/2017	Spain
 324	Janis: Little Girl Blue	Avalon	"$35,008 "	3/4/2017	Spain
 325	Full of Grace	n/a	"$34,830 "	5/13/2017	Spain
@@ -4900,7 +4900,7 @@ rank	title	distributor	gross	release	country
 340	Fuocoammare (Fire at Sea)	Caramel	"$24,168 "	10/14/2017	Spain
 341	La mort de Louis XIV	Capricci	"$24,075 "	11/25/2017	Spain
 342	Oorlogsgeheimen	n/a	"$23,565 "	1/8/2017	Spain
-343	Human (2015)	n/a	"$22,451 "	8/12/2017	Spain
+343	Human	n/a	"$22,451 "	8/12/2017	Spain
 344	La memoria del agua	Syldavia	"$22,163 "	8/5/2017	Spain
 345	Awake: The Life of Yogananda	n/a	"$21,959 "	7/1/2017	Spain
 346	600 Millas (600 Miles)	Vercine	"$21,812 "	7/15/2017	Spain
@@ -4913,7 +4913,7 @@ rank	title	distributor	gross	release	country
 353	"I Am Nojoom, Age 10 and Divorced"	Splendor	"$17,465 "	8/26/2017	Spain
 354	The Neon Demon	Surtsey	"$16,614 "	11/25/2017	Spain
 355	El espejo de los otros	n/a	"$16,431 "	9/9/2017	Spain
-356	Lamb (2016)	n/a	"$16,297 "	4/8/2017	Spain
+356	Lamb	n/a	"$16,297 "	4/8/2017	Spain
 357	Ein Atem (One Breath)	Karma	"$16,114 "	1/29/2017	Spain
 358	Les amigues de l'Àgata	Avalon	"$15,803 "	6/10/2017	Spain
 359	Benidorm mon amour	Premium	"$15,568 "	6/24/2017	Spain
@@ -4958,18 +4958,18 @@ rank	title	distributor	gross	release	country
 398	Gimme Danger	Avalon	"$5,172 "	11/25/2017	Spain
 399	O Menino e o Mundo	n/a	"$4,946 "	2/19/2017	Spain
 400	Vulcania	Alfa	"$4,901 "	3/4/2017	Spain
-401	The Evil That Men Do (2015)	Barton	"$4,742 "	2/19/2017	Spain
+401	The Evil That Men Do	Barton	"$4,742 "	2/19/2017	Spain
 402	Reverso	n/a	"$4,569 "	2/5/2017	Spain
 403	Axel: The Biggest Little Hero	n/a	"$4,501 "	12/16/2017	Spain
 404	D'une famille à l'autre (Don't Call Me Son)	Karma	"$4,342 "	12/2/2017	Spain
 405	Steve McQueen: The Man & Le Mans	Karma	"$4,157 "	6/3/2017	Spain
 406	Julie	n/a	"$4,051 "	10/7/2017	Spain
-407	Eternity (2016)	Deapl.	"$4,022 "	12/16/2017	Spain
+407	Eternity	Deapl.	"$4,022 "	12/16/2017	Spain
 408	El país del miedo	Luna	"$3,976 "	5/27/2017	Spain
 409	Don't Grow Up	n/a	"$3,764 "	3/11/2017	Spain
 410	Sleeping with Other People	Selecta	"$3,673 "	11/4/2017	Spain
 411	A Vingança de Uma Mulher	n/a	"$3,361 "	5/20/2017	Spain
-412	Dark Horse (2016)	n/a	"$3,346 "	7/22/2017	Spain
+412	Dark Horse	n/a	"$3,346 "	7/22/2017	Spain
 413	The Wailing (Goksung)	n/a	"$3,302 "	11/18/2017	Spain
 414	Im Keller (In the Basement)	n/a	"$3,279 "	1/15/2017	Spain
 415	Merci patron!	n/a	"$3,108 "	11/4/2017	Spain
@@ -4998,7 +4998,7 @@ rank	title	distributor	gross	release	country
 438	Heavenly Nomadic (Sutak)	n/a	"$1,240 "	7/8/2017	Spain
 439	God's Pocket	n/a	"$1,225 "	4/8/2017	Spain
 440	Experimenter	n/a	"$1,171 "	8/26/2017	Spain
-441	Black (2015)	Karma	"$1,171 "	8/12/2017	Spain
+441	Black	Karma	"$1,171 "	8/12/2017	Spain
 442	Gelo	Syldavia	"$1,125 "	8/12/2017	Spain
 443	Senso '45	n/a	"$1,067 "	7/22/2017	Spain
 444	bestefreunde	n/a	"$1,020 "	7/1/2017	Spain
@@ -5008,7 +5008,7 @@ rank	title	distributor	gross	release	country
 448	Viaje	Mosaico	$712 	8/26/2017	Spain
 449	Southside with You	Selecta	$564 	12/23/2017	Spain
 450	Biagio	Karma	$485 	8/12/2017	Spain
-451	The Color of Time (2012)	n/a	$199 	1/29/2017	Spain
+451	The Color of Time	n/a	$199 	1/29/2017	Spain
 1	Dag 2	Mars	"$9,944,730 "	11/4/2017	Turkey
 2	Dedemin Fisi	UIP	"$7,994,548 "	1/22/2017	Turkey
 3	Osman Pazarlama	WB	"$7,990,276 "	2/19/2017	Turkey
@@ -5058,9 +5058,9 @@ rank	title	distributor	gross	release	country
 47	Oflu Hoca'nin Sifresi 2	Mars	"$1,339,502 "	5/13/2017	Turkey
 48	Kaçma Birader	Mars	"$1,252,169 "	3/4/2017	Turkey
 49	The Huntsman Winter's War	UIP	"$1,229,699 "	4/22/2017	Turkey
-50	The Jungle Book (2016)	UIP	"$1,163,056 "	4/15/2017	Turkey
+50	The Jungle Book	UIP	"$1,163,056 "	4/15/2017	Turkey
 51	Ali Kundilli 2	TME	"$1,124,183 "	3/4/2017	Turkey
-52	Ben-Hur (2016)	PPI	"$1,113,037 "	9/9/2017	Turkey
+52	Ben-Hur	PPI	"$1,113,037 "	9/9/2017	Turkey
 53	Me Before You	WB	"$1,101,584 "	6/17/2017	Turkey
 54	Teenage Mutant Ninja Turtles: Out of the Shadows	UIP	"$1,099,213 "	6/23/2017	Turkey
 55	El Degmemis Ask	Mars	"$1,094,436 "	9/9/2017	Turkey
@@ -5096,18 +5096,18 @@ rank	title	distributor	gross	release	country
 85	Yok Artik! 2	TME	"$539,716 "	10/7/2017	Turkey
 86	The BFG	Pinema	"$534,562 "	6/30/2017	Turkey
 87	Lights Out	WB	"$481,426 "	7/22/2017	Turkey
-88	The Magnificent Seven (2016)	WB	"$471,665 "	9/23/2017	Turkey
+88	The Magnificent Seven	WB	"$471,665 "	9/23/2017	Turkey
 89	Sen Sag Ben Selamet	Mars	"$464,824 "	12/16/2017	Turkey
 90	The Purge: Election Year	UPI	"$460,364 "	7/1/2017	Turkey
 91	Alamet-i Kiyamet: Tarikat	Pinema	"$454,374 "	5/20/2017	Turkey
-92	Ghostbusters (2016)	Sony	"$450,541 "	7/29/2017	Turkey
+92	Ghostbusters	Sony	"$450,541 "	7/29/2017	Turkey
 93	The Shallows	Sony	"$447,605 "	8/5/2017	Turkey
 94	Bridget Jones's Baby	UIP	"$418,198 "	9/16/2017	Turkey
 95	Barbie: Star Light Adventure	UIP	"$409,815 "	8/19/2017	Turkey
-96	The Girl on the Train (2016)	Aqua	"$409,440 "	10/7/2017	Turkey
+96	The Girl on the Train	Aqua	"$409,440 "	10/7/2017	Turkey
 97	The 5th Wave	Pinema	"$402,749 "	3/4/2017	Turkey
 98	Sheep & Wolves (Volki i ovtsy. Beeezumnoe prevrashchenie)	Bir Film	"$401,871 "	4/22/2017	Turkey
-99	Heidi (2015)	Mars	"$399,027 "	4/15/2017	Turkey
+99	Heidi	Mars	"$399,027 "	4/15/2017	Turkey
 100	Don't Breathe	Sony	"$390,061 "	8/26/2017	Turkey
 101	Money Monster	Sony	"$383,940 "	5/27/2017	Turkey
 102	"Boonie Bears, to the Rescue!"	Bir Film	"$357,712 "	2/19/2017	Turkey
@@ -5128,7 +5128,7 @@ rank	title	distributor	gross	release	country
 117	Cinni: Uyanis	Mars	"$279,308 "	5/27/2017	Turkey
 118	The Accountant	WB	"$276,000 "	10/28/2017	Turkey
 119	Collateral Beauty	WB	"$276,000 "	12/23/2017	Turkey
-120	Robinson Crusoe (2016)	Bir Film	"$262,902 "	6/17/2017	Turkey
+120	Robinson Crusoe	Bir Film	"$262,902 "	6/17/2017	Turkey
 121	Boonie Bears: Mystical Winter	Bir Film	"$257,924 "	11/18/2017	Turkey
 122	Baskin	Chantier	"$257,797 "	1/1/2017	Turkey
 123	Cafe Society	Bir Film	"$255,664 "	8/12/2017	Turkey
@@ -5137,7 +5137,7 @@ rank	title	distributor	gross	release	country
 126	Canim kardesim benim	WB	"$245,293 "	10/7/2017	Turkey
 127	Ammar 2: Cin Istilasi	Mars	"$238,902 "	6/17/2017	Turkey
 128	In the Heart of the Sea	WB	"$230,471 "	1/1/2017	Turkey
-129	Criminal (2016)	Pinema	"$229,002 "	4/15/2017	Turkey
+129	Criminal	Pinema	"$229,002 "	4/15/2017	Turkey
 130	Sevkat Yerimdar 2	MC Films	"$225,471 "	1/22/2017	Turkey
 131	Nerve	Mongkol Films	"$219,568 "	8/26/2017	Turkey
 132	Blood Father	Mars	"$183,580 "	9/2/2017	Turkey
@@ -5179,13 +5179,13 @@ rank	title	distributor	gross	release	country
 168	Babalarin Babasi	Mars	"$114,540 "	4/22/2017	Turkey
 169	The Frog Kingdom 2: Sub-Zero Mission	TME	"$112,620 "	12/30/2017	Turkey
 170	The Man Who Knew Infinity	Pinemart	"$110,730 "	5/6/2017	Turkey
-171	The Boy (2016)	Pinema	"$108,770 "	6/17/2017	Turkey
+171	The Boy	Pinema	"$108,770 "	6/17/2017	Turkey
 172	Ouija: Origin of Evil	UIP	"$105,438 "	11/18/2017	Turkey
 173	Un Gallo con Muchos Huevos	TME	"$105,255 "	4/8/2017	Turkey
 174	Safakla Donenler	n/a	"$102,348 "	1/22/2017	Turkey
 175	All Roads Lead to Rome	Bir Film	"$99,251 "	3/11/2017	Turkey
 176	Before I Wake	TME	"$96,366 "	8/5/2017	Turkey
-177	Howl (2015)	TME	"$95,825 "	5/13/2017	Turkey
+177	Howl	TME	"$95,825 "	5/13/2017	Turkey
 178	Berzah: Cin Alemi	Chantier	"$88,878 "	10/14/2017	Turkey
 179	Kabr-i Cin: Mühür	n/a	"$85,929 "	4/22/2017	Turkey
 180	Korku Komedi: Bana Normal Aktiviteler	Mars	"$85,332 "	9/2/2017	Turkey
@@ -5223,7 +5223,7 @@ rank	title	distributor	gross	release	country
 212	Babamin Kanatlari	M3	"$49,241 "	12/2/2017	Turkey
 213	Extraction	Chantier	"$48,568 "	8/5/2017	Turkey
 214	Son of Saul	M3	"$48,321 "	2/19/2017	Turkey
-215	Masterminds (2016)	Pinemart	"$47,277 "	12/16/2017	Turkey
+215	Masterminds	Pinemart	"$47,277 "	12/16/2017	Turkey
 216	Olaylar Olaylar	Pinema	"$47,240 "	3/18/2017	Turkey
 217	The House on Pine Street	TME	"$46,060 "	11/25/2017	Turkey
 218	Yitik Kuslar (Lost Birds)	Pinemart	"$45,317 "	4/1/2017	Turkey
@@ -5285,7 +5285,7 @@ rank	title	distributor	gross	release	country
 274	Captain Fantastic	M3	"$18,435 "	11/11/2017	Turkey
 275	American Pastoral	TME	"$18,365 "	11/25/2017	Turkey
 276	Rus'un Oyunu	WB	"$18,340 "	11/11/2017	Turkey
-277	Martyrs (2015)	Bir Film	"$18,312 "	5/6/2017	Turkey
+277	Martyrs	Bir Film	"$18,312 "	5/6/2017	Turkey
 278	A Walk in the Woods	TME	"$18,310 "	3/25/2017	Turkey
 279	Les profs	Ozen Film	"$18,240 "	1/8/2017	Turkey
 280	Un plus une	Pinemart	"$18,116 "	7/1/2017	Turkey
@@ -5298,7 +5298,7 @@ rank	title	distributor	gross	release	country
 287	Bacalaureat (Graduation)	M3	"$14,624 "	11/18/2017	Turkey
 288	El Club	M3	"$14,619 "	1/15/2017	Turkey
 289	A Perfect Day	M3	"$14,295 "	3/18/2017	Turkey
-290	Race (2016)	Pinemart	"$13,468 "	5/27/2017	Turkey
+290	Race	Pinemart	"$13,468 "	5/27/2017	Turkey
 291	Oldu mu simdi?	Ozen Film	"$13,250 "	12/16/2017	Turkey
 292	Dadas	Ozen Film	"$13,200 "	5/13/2017	Turkey
 293	Braqueurs	MC Films	"$12,497 "	7/15/2017	Turkey
@@ -5329,7 +5329,7 @@ rank	title	distributor	gross	release	country
 318	B.O.K.; Bi O Kalmisti	MC Films	"$7,366 "	6/17/2017	Turkey
 319	Death in Sarajevo	M3	"$7,251 "	8/26/2017	Turkey
 320	Where to Invade Next	M3	"$7,063 "	7/15/2017	Turkey
-321	Little Men (2016)	M3	"$7,016 "	9/9/2017	Turkey
+321	Little Men	M3	"$7,016 "	9/9/2017	Turkey
 322	The Assassin	M3	"$6,979 "	4/1/2017	Turkey
 323	Hrútar	M3	"$6,910 "	6/17/2017	Turkey
 324	Asik	Ozen Film	"$6,853 "	12/30/2017	Turkey
@@ -5343,7 +5343,7 @@ rank	title	distributor	gross	release	country
 332	Évolution	M3	"$5,060 "	6/3/2017	Turkey
 333	Naciye	Chantier	"$4,904 "	3/11/2017	Turkey
 334	Babaannem	MC Films	"$4,864 "	7/1/2017	Turkey
-335	Chronic (2015)	M3	"$4,427 "	5/27/2017	Turkey
+335	Chronic	M3	"$4,427 "	5/27/2017	Turkey
 336	Sadakat	Pinema	"$4,425 "	1/1/2017	Turkey
 337	Siyah karga	Orak	"$4,307 "	12/23/2017	Turkey
 338	Abbas'in Melekleri	Ozen Film	"$4,234 "	5/27/2017	Turkey
@@ -5360,9 +5360,9 @@ rank	title	distributor	gross	release	country
 349	Yemekteydik ve karar verdim (We Were Dining and I Decided)	M3	"$2,707 "	4/15/2017	Turkey
 350	Fuocoammare (Fire at Sea)	M3	"$2,636 "	7/8/2017	Turkey
 351	91.1	Chantier	"$2,081 "	4/8/2017	Turkey
-352	Ot (2016)	MC Films	"$2,026 "	9/23/2017	Turkey
+352	Ot	MC Films	"$2,026 "	9/23/2017	Turkey
 353	Memleket	Avsar Film	"$1,917 "	5/27/2017	Turkey
-354	Misafir (2016)	Pinemart	"$1,890 "	5/20/2017	Turkey
+354	Misafir	Pinemart	"$1,890 "	5/20/2017	Turkey
 355	Kasap havasi	MC Films	"$1,870 "	12/9/2017	Turkey
 356	Illet	MC Films	"$1,747 "	10/21/2017	Turkey
 357	Kadere Tutsak	MC Films	"$1,610 "	4/29/2017	Turkey
@@ -5382,14 +5382,14 @@ rank	title	distributor	gross	release	country
 6	Zootopia	Disney	"$1,995,155 "	3/17/2017	Ukraine
 7	Sing	UPI	"$1,929,951 "	12/29/2017	Ukraine
 8	Warcraft	UPI	"$1,898,628 "	6/9/2017	Ukraine
-9	The Jungle Book (2016)	Disney	"$1,723,037 "	4/14/2017	Ukraine
+9	The Jungle Book	Disney	"$1,723,037 "	4/14/2017	Ukraine
 10	The Angry Birds Movie	Sony	"$1,464,962 "	5/12/2017	Ukraine
 11	Captain America: Civil War	Disney	"$1,429,130 "	5/5/2017	Ukraine
 12	Inferno	Sony	"$1,349,068 "	10/13/2017	Ukraine
 13	8 luchshikh svidaniy (8 Best Dates)	UFD	"$1,316,104 "	3/3/2017	Ukraine
 14	Rogue One: A Star Wars Story	Disney	"$1,288,967 "	12/15/2017	Ukraine
 16	Miss Peregrine's Home for Peculiar Children	UFD	"$1,167,622 "	10/6/2017	Ukraine
-17	Passengers (2016)	Sony	"$1,156,407 "	12/29/2017	Ukraine
+17	Passengers	Sony	"$1,156,407 "	12/29/2017	Ukraine
 18	Kung Fu Panda 3	Fox	"$1,140,564 "	1/28/2017	Ukraine
 19	The Divergent Series: Allegiant	n/a	"$1,116,990 "	3/10/2017	Ukraine
 20	Gods of Egypt	UFD	"$1,104,319 "	2/25/2017	Ukraine
@@ -5413,35 +5413,35 @@ rank	title	distributor	gross	release	country
 38	How to Be Single	WB	"$527,213 "	2/11/2017	Ukraine
 39	Underworld: Blood Wars	Sony	"$515,048 "	12/1/2017	Ukraine
 40	War Dogs	WB	"$510,638 "	8/18/2017	Ukraine
-41	Ben-Hur (2016)	PPI	"$504,391 "	9/8/2017	Ukraine
+41	Ben-Hur	PPI	"$504,391 "	9/8/2017	Ukraine
 42	Arrival	Italia	"$502,195 "	11/10/2017	Ukraine
 43	The Finest Hours	Disney	"$500,397 "	1/28/2017	Ukraine
 44	Bad Moms	Volga	"$497,595 "	8/25/2017	Ukraine
 45	Daddy's Home	PPI	"$490,406 "	1/7/2017	Ukraine
 46	The 5th Wave	Sony	"$485,193 "	1/21/2017	Ukraine
 47	Office Christmas Party	Intercinema	"$476,157 "	12/22/2017	Ukraine
-48	The Magnificent Seven (2016)	Sony	"$447,114 "	9/22/2017	Ukraine
+48	The Magnificent Seven	Sony	"$447,114 "	9/22/2017	Ukraine
 49	Jack Reacher: Never Go Back	PPI	"$440,899 "	10/20/2017	Ukraine
 50	Jason Bourne	UPI	"$432,559 "	7/28/2017	Ukraine
 51	Mykyta kozhumyaka (The Dragon Spell)	UFD	"$429,578 "	10/13/2017	Ukraine
-52	Ghostbusters (2016)	Sony	"$428,671 "	7/28/2017	Ukraine
+52	Ghostbusters	Sony	"$428,671 "	7/28/2017	Ukraine
 53	Sully	WB	"$425,596 "	9/8/2017	Ukraine
 54	The Accountant	WB	"$411,729 "	11/3/2017	Ukraine
 55	Collateral Beauty	WB	"$404,805 "	12/15/2017	Ukraine
 56	Mike and Dave Need Wedding Dates	Fox	"$396,373 "	7/7/2017	Ukraine
 57	Bridget Jones's Baby	UPI	"$394,035 "	9/15/2017	Ukraine
 58	Central Intelligence	UPI	"$381,090 "	6/30/2017	Ukraine
-59	Robinson Crusoe (2016)	Volga	"$379,014 "	2/18/2017	Ukraine
+59	Robinson Crusoe	Volga	"$379,014 "	2/18/2017	Ukraine
 60	Sausage Party	Sony	"$361,930 "	10/20/2017	Ukraine
 61	The Hateful Eight	n/a	"$350,147 "	1/14/2017	Ukraine
 62	Pete's Dragon	Disney	"$335,393 "	8/11/2017	Ukraine
 63	Nerve	Disney	"$331,432 "	9/15/2017	Ukraine
 64	The Brothers Grimsby	Sony	"$312,128 "	3/10/2017	Ukraine
-65	The Girl on the Train (2016)	Interfilm	"$295,563 "	10/13/2017	Ukraine
+65	The Girl on the Train	Interfilm	"$295,563 "	10/13/2017	Ukraine
 66	Keeping Up with the Joneses	UFD	"$286,637 "	11/10/2017	Ukraine
 67	The Boss	UPI	"$285,342 "	4/7/2017	Ukraine
 68	Deepwater Horizon	Cent. Part.	"$281,131 "	9/29/2017	Ukraine
-69	Nine Lives (2016)	n/a	"$266,732 "	9/1/2017	Ukraine
+69	Nine Lives	n/a	"$266,732 "	9/1/2017	Ukraine
 70	Alvin and the Chipmunks The Road Chip	Fox	"$264,044 "	1/14/2017	Ukraine
 71	Neighbors 2: Sorority Rising	UPI	"$263,944 "	5/19/2017	Ukraine
 72	Ivan Tsarevich i Seryy Volk 3	n/a	"$258,866 "	1/1/2017	Ukraine
@@ -5528,15 +5528,15 @@ rank	title	distributor	gross	release	country
 154	American Pastoral	UFD	"$17,967 "	12/8/2017	Ukraine
 155	The Forest	n/a	"$17,599 "	1/14/2017	Ukraine
 156	Ghosthunters	n/a	"$17,580 "	5/5/2017	Ukraine
-157	The Boy (2016)	n/a	"$17,493 "	1/28/2017	Ukraine
+157	The Boy	n/a	"$17,493 "	1/28/2017	Ukraine
 158	Hell or High Water	n/a	"$17,135 "	8/25/2017	Ukraine
 159	The Handmaiden	Arthouse	"$16,970 "	9/8/2017	Ukraine
 160	The 9th Life of Louis Drax	n/a	"$16,413 "	9/29/2017	Ukraine
 161	Army of One	Volga	"$16,297 "	12/15/2017	Ukraine
-162	Victoria (2016)	Arthouse	"$15,258 "	10/20/2017	Ukraine
+162	Victoria	Arthouse	"$15,258 "	10/20/2017	Ukraine
 163	Mr. Holmes	n/a	"$12,887 "	1/14/2017	Ukraine
 164	Jane Got a Gun	Volga	"$12,222 "	3/17/2017	Ukraine
-165	Diggers (2016)	UFD	"$11,056 "	8/11/2017	Ukraine
+165	Diggers	UFD	"$11,056 "	8/11/2017	Ukraine
 166	La corrispondenza	n/a	"$11,050 "	6/2/2017	Ukraine
 167	Love & Friendship	n/a	"$9,245 "	9/8/2017	Ukraine
 168	Chungul	n/a	"$8,650 "	11/3/2017	Ukraine
@@ -5550,7 +5550,7 @@ rank	title	distributor	gross	release	country
 176	Holidays	n/a	"$4,229 "	5/19/2017	Ukraine
 177	Get Squirrely (Animal Crackerz)	n/a	"$4,202 "	4/14/2017	Ukraine
 178	James Wan Presents Demonic	n/a	"$3,926 "	1/21/2017	Ukraine
-179	Martyrs (2015)	n/a	"$2,798 "	2/4/2017	Ukraine
+179	Martyrs	n/a	"$2,798 "	2/4/2017	Ukraine
 180	Antigang	n/a	"$2,693 "	2/4/2017	Ukraine
-181	Chocolat (2016)	n/a	"$2,015 "	5/12/2017	Ukraine
+181	Chocolat	n/a	"$2,015 "	5/12/2017	Ukraine
 182	The Nutcracker Sweet	n/a	"$1,922 "	1/7/2017	Ukraine
