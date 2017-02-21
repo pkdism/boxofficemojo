@@ -9,4 +9,8 @@ movie.country.score.genre <- left_join(movie.country.score.genre, total.gross.ti
 
 movie.country.score.genre <- left_join(movie.country.score.genre, total.gross.country, by = "country")
 
-write.table(movie.country.score.genre, file = "../../output/data/main_data.tsv")
+# write.csv(movie.country.score.genre, file = "../../output/data/movie.country.score.genre.csv")
+# write.csv(movie.stats, file = "../../output/data/movie.stats.csv")
+# write.csv(total.gross.country, file = "../../output/data/total.gross.country.csv")
+# write.csv(total.gross.title, file = "../../output/data/total.gross.title.csv")
+
