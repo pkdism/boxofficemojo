@@ -52,4 +52,5 @@ movie.stats <- movie.country.score %>%
 #   group_by(country) %>%
 #   summarise(score.mean = mean(gross.score), score.sd = sd(gross.score))
 
-# scatterD3(data = movie.stats, x = score.mean, y = score.sd, lab = title)
+movie.stats <- as.data.frame(movie.stats)
+scatterD3(data = movie.stats, x = score.mean, y = score.sd, lab = title, labels_size = 24)

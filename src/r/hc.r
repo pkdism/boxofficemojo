@@ -5,7 +5,7 @@ movie.score.matrix.scale <- scale(movie.score.matrix, center = TRUE, scale = TRU
 movie.score.matrix.dist <- dist(movie.score.matrix.scale, method = "euclidean", diag = FALSE, upper = FALSE, p = 2)
 movie.score.matrix.hclust <- hclust(movie.score.matrix.dist, method = "ward.D2")
 movie.score.matrix <- rownames_to_column(movie.score.matrix, var = "title")
- plot(movie.score.matrix.hclust, hang = -1, cex = 1.2, labels = movie.score.matrix$title)
+ plot(movie.score.matrix.hclust, hang = -1, cex = 1.6, labels = movie.score.matrix$title)
 movie.score.matrix.hclust.clusters <- data.frame(cutree(movie.score.matrix.hclust,8))
 movie.score.matrix.hclust.clusters <- rownames_to_column(movie.score.matrix.hclust.clusters, var = "title")
 names(movie.score.matrix.hclust.clusters) = c("title", "cluster")
