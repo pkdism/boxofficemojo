@@ -10,7 +10,7 @@ gmm <- function(data, num_clusters, label){
   return(gmm.clusters)
 }
 
-movie.gmm.clusters <- gmm(movie.pc.data, 8, "title")
+movie.gmm.clusters <- gmm(movie.pc.data, 10, "title")
 country.gmm.clusters <- gmm(country.pc.data, 4, "country")
 
 # write.csv(movie.gmm.clusters, file = "../../output/data/movie.gmm.clusters.csv")

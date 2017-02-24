@@ -34,7 +34,7 @@ data <- inner_join(data, total.gross.country, by = "country")
 data <- data[c("title","country", "gross", "gross.country")]
 
 data$gross.score <-  with(data, data$gross/data$gross.country)
-data <- data %>% filter(gross.score > 0.001)
+data <- data %>% filter(gross.score > 0.01)
 
 movie.countrycount <- data %>% group_by(title) %>%
   summarise(count.country = n())
@@ -43,7 +43,7 @@ data <- inner_join(data,movie.countrycount, by = "title")
 data <- data %>% filter(count.country > 4)
 
 movie.country.score <- data[c("title","country","gross.score")]
-
+movie.country.score <- movie.country.score[-1482,]
 movie.stats <- movie.country.score %>% 
   group_by(title) %>%
   summarise(score.mean = mean(gross.score), score.sd = sd(gross.score))
